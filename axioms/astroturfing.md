@@ -1,0 +1,1 @@
+Disguising the sponsors of a message to make it appear grassroots.

@@ -1,0 +1,1 @@
+A power-law graph generally follows the 80-20 rule, e.g., a spike where the area of the spike matches the long tail.
