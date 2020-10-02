@@ -1,5 +1,7 @@
 # David Perell
 
+"The world rewards the people who are best at communicating ideas, not the people with the best ideas."
+
 "The core skill of building a business is creating systems for things you do repeatedly"
 
 "On Twitter, the top sentence is an ad.
