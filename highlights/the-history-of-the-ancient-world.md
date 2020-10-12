@@ -2,11 +2,7 @@
 
 `1687`:
 
-> We have no idea. But Snefru’s new smooth-sided pyramid became known as the Bent Pyramid for the unfortunate reason that Snefru still hadn’t quite managed to figure out the angles. The pyramid was to have smooth and very steep sides—but partway through the construction, Snefru and his chief of works seemed to realize that their measurements were off. If the pyramid continued up at its current steep angle, the weight
-
-`1690`:
-
-> of the stones over the relatively narrow base would likely collapse it. So they made a quick alteration in the angle, with the result that the pyramid turned out hunch-shouldered; one of its sides makes a right-hand turn.
+> We have no idea. But Snefru’s new smooth-sided pyramid became known as the Bent Pyramid for the unfortunate reason that Snefru still hadn’t quite managed to figure out the angles. The pyramid was to have smooth and very steep sides—but partway through the construction, Snefru and his chief of works seemed to realize that their measurements were off. If the pyramid continued up at its current steep angle, the weight of the stones over the relatively narrow base would likely collapse it. So they made a quick alteration in the angle, with the result that the pyramid turned out hunch-shouldered; one of its sides makes a right-hand turn.
 
 `1693`:
 
