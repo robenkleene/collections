@@ -1,0 +1,1 @@
+‘One of my jobs was to demonstrate products to potential customers,’ says Hemsath. ‘We had a Model III – a large studio synthesizer with dozens of modules. Every time, I’d plug the oscillator into the filter and the filter into the VCA – probably six patch cords, total. It occurred to me after a month or two of this, what if I built a box that way?’
