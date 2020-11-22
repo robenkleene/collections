@@ -51,9 +51,9 @@
 - **What is dynamic memory allocation?** Dynamic memory allocation is memory allocated at runtime on the heap (e.g., `malloc()`).
 - **What manual memory management?** Manually calling functions to return memory to the heap, in contrast to automatic memory management implementations like garbage collection or automatic reference counting.
 - **Where are global and static variables stored in C?** They're stored in the data segment, which is separate from the stack and the heap.
-- **What type of algorithm results in `O(x!)` runtime?** Recursively test every branch of a tree (traveling salesman problem).
-- **What type of algorithm results in `O(2^x)` runtime?**
+- **What type of algorithm results in factorial (`O(x!)`) runtime?** Recursively test every branch of a tree (traveling salesman problem).
+- **What type of algorithm results in exponential (`O(2^x)`) runtime?**
 - **What type of algorithm results in `O(x^2)` runtime?** (selection sort)
 - **What type of algorithm results in `O(x log x)` runtime?** (quicksort)
-- **What type of algorithm results in `O(x)` runtime?** Iterate an array.
-- **What type of algorithm results in `O(log x)` runtime?**
+- **What type of algorithm results in linear (`O(x)`) runtime?** Iterate an array.
+- **What type of algorithm results in logarithmic (`O(log x)`) runtime?**
