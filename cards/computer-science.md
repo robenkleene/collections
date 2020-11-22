@@ -6,8 +6,6 @@
 - **What is Big Theta (`Θ`), e.g., `Θ(N)`?** The upper and lower bound of an algorithm, a tight bound on runtime.
 - **How does the quicksort algorithm work?** First pick an item called a pivot (either randomly or choose the middle item), then iterate over each item in the list and position it either to the right or left of the pivot. Now the pivot is in the correct position. Recursively do the same to the arrays to the right and the left of the pivot.
 - **What is the time complexity of quicksort, heapsort, and merge sort?** `O(n log n)`, the worst case of quicksort is `O(N^2)`, whereas the other two have the same worst case.
-- **What is the time complexity of heapsort?**
-- **What is the time complexity of merge sort?**
 - **Why is quicksort the best sorting algorithms in practice?** It's cache efficient, i.e., it takes better advantage of CPU cache. The other competitive algorithms, heapsort and merge sort, are cache-oblivious.
 - **What does it mean for a sorting algorithm to be stable?** Equal items are in the same order in the result as they were in the input.
 - **How does the bubble sort algorithm work?** Sort items by comparing adjacent elements.
@@ -49,7 +47,6 @@
 - **How do you allocate a variable to the stack vs. the heap in C?** A variable scoped to a function, e.g., `main() { int x }` is stored on the stack, memory allocated with `malloc()`.
 - **How do you allocate a variable to the stack vs. the heap in C?** Value types are stored in the stack, and reference types are stored in the heap. Reference types are always stored on the heap because pointers always point to a memory location on the heap.
 - **What does a "stack overflow" mean?** When a program writes more data to a buffer on the stack than was allocated for that buffer.
-- **What are reference types and value types in Swift?** 
 - **What is FIFO and LIFO?** First in, first out (a queue), and last in, first out (a stack).
 - **What is dynamic memory allocation?** Dynamic memory allocation is memory allocated at runtime on the heap (e.g., `malloc()`).
 - **What manual memory management?** Manually calling functions to return memory to the heap, in contrast to automatic memory management implementations like garbage collection or automatic reference counting.
