@@ -13,7 +13,7 @@
 - **How does the selection sort algorithm work?** Sort items in place by splitting the array into sorted and unsorted sections, then iteratively finding the smallest (or largest) item from the unsorted section and placing it in the appropriate spot in the sorted section.
 - **How does the insertion sort algorithm work?** Sort items by creating a separate array with items in the correct order.
 - **How does the heapsort algorithm work?** Heapsort uses the same approach as selection sort, by dividing the array into sorted and unsorted sections. The difference is that it keeps track of already inspected items in a heap for faster lookup.
-- **How does the merge sort algorithm work?** **Add this**
+- **How does the merge sort algorithm work?** Divide the list into single item arrays (which are implicitly sorted), then repeatedly merge arrays until there's a single sorted list.
 - **What is a heap data structure?** A sorted tree.
 - **What's the time complexity of bubble sort, selection sort, and insertion sort?** `O(n^2)`
 - **Why do recursive algorithms sometimes have more space complexity than iterative algorithms?** Because recursive algorithms add calls to the call stack that take up memory.
