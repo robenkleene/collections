@@ -4,6 +4,8 @@
 - **When does `O(log N)` happen, and why?** With `log N` (which is implied to be `log_2 N`), each time `N` doubles the answer increases by `1`, therefore each increase of the answer means twice as many items can be processed. This matches binary search, where the first step is to test which half of the items the target exists in, or, to say it in reverse, each time the number of iterations goes up, you can find the target in twice as many items.
 - **What is Big Omega (`Ω`), e.g., `Ω(N)`?** The lower bound of an algorithm.
 - **What is Big Theta (`Θ`), e.g., `Θ(N)`?** The upper and lower bound of an algorithm, a tight bound on runtime.
+- **What is asymptotic notation?** 
+- The asymptote of a curve is the straight line that as the coordinates approach infinite, the distance between the line and the curve approaches zero. Asymptotic notation is the umbrella term for big o, big omega, and big theta.
 - **How does the quicksort algorithm work?** First pick an item called a pivot (either randomly or choose the middle item), then iterate over each item in the list and position it either to the right or left of the pivot. Now the pivot is in the correct position. Recursively do the same to the arrays to the right and the left of the pivot.
 - **What is the time complexity of quicksort, heapsort, and merge sort?** `O(n log n)`, the worst case of quicksort is `O(N^2)`, whereas the other two have the same worst case.
 - **Why is quicksort the best sorting algorithms in practice?** It's cache efficient, i.e., it takes better advantage of CPU cache. The other competitive algorithms, heapsort and merge sort, are cache-oblivious.
