@@ -4,11 +4,10 @@
 - **When does `O(log N)` happen, and why?** With `log N` (which is implied to be `log_2 N`), each time `N` doubles the answer increases by `1`, therefore each increase of the answer means twice as many items can be processed. This matches binary search, where the first step is to test which half of the items the target exists in, or, to say it in reverse, each time the number of iterations goes up, you can find the target in twice as many items.
 - **What is Big Omega (`Ω`), e.g., `Ω(N)`?** The lower bound of an algorithm.
 - **What is Big Theta (`Θ`), e.g., `Θ(N)`?** The upper and lower bound of an algorithm, a tight bound on runtime.
-- **What is asymptotic notation?** 
-- The asymptote of a curve is the straight line that as the coordinates approach infinite, the distance between the line and the curve approaches zero. Asymptotic notation is the umbrella term for big o, big omega, and big theta.
+- **What is asymptotic notation?** The asymptote of a curve is the straight line that as the coordinates approach infinite, the distance between the line and the curve approaches zero. Asymptotic notation is the umbrella term for big o, big omega, and big theta.
 - **How does the quicksort algorithm work?** First pick an item called a pivot (either randomly or choose the middle item), then iterate over each item in the list and position it either to the right or left of the pivot. Now the pivot is in the correct position. Recursively do the same to the arrays to the right and the left of the pivot.
 - **What is the time complexity of quicksort, heapsort, and merge sort?** `O(n log n)`, the worst case of quicksort is `O(N^2)`, whereas the other two have the same worst case.
-- **Why is quicksort the best sorting algorithms in practice?** It's cache efficient, i.e., it takes better advantage of CPU cache. The other competitive algorithms, heapsort and merge sort, are cache-oblivious.
+- **Why is quicksort the best sorting algorithms in practice?** It has good average case time complexity `O(n log n)`, and the sort is in place, heapsort and merge sort, the two algorithms that have an upper bounds of `O(n log n)`, both require additional data structures.
 - **What does it mean for a sorting algorithm to be stable?** Equal items are in the same order in the result as they were in the input.
 - **How does the bubble sort algorithm work?** Sort items by comparing adjacent elements.
 - **How does the selection sort algorithm work?** Sort items in place by splitting the array into sorted and unsorted sections, then iteratively finding the smallest (or largest) item from the unsorted section and placing it in the appropriate spot in the sorted section.
@@ -53,7 +52,7 @@
 - **What is dynamic memory allocation?** Dynamic memory allocation is memory allocated at runtime on the heap (e.g., `malloc()`).
 - **What manual memory management?** Manually calling functions to return memory to the heap, in contrast to automatic memory management implementations like garbage collection or automatic reference counting.
 - **Where are global and static variables stored in C?** They're stored in the data segment, which is separate from the stack and the heap.
-- **What type of algorithm results in factorial (`O(x!)`) runtime?** Recursively test every branch of a tree (traveling salesman problem).
+- **What type of algorithm results in factorial (`O(x!)`) runtime?** Recursively test every branch of a tree (e.g., the traveling salesman problem).
 - **What type of algorithm results in exponential (`O(2^x)`) runtime?**
 - **What type of algorithm results in `O(x^2)` runtime?** (selection sort)
 - **What type of algorithm results in `O(x log x)` runtime?** (quicksort)
