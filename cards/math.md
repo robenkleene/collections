@@ -6,7 +6,6 @@
 - **What is a polynomial function?** A function with only positive integers as exponents and multiple terms.
 - **What is a monomial, binomial, and trinomial?** A monomial is a single-term polynomial, or a single term of a polynomial. Binomial and trinomial are two and three term polynomials respectively.
 - **In a polynomial what's the degree of a term?** The power of the term, as in "a term of degree two" or "a two-degree term". The degree of the leading term determines the degree of the polynomial, as in "a polynomial of degree two".
-- **What is the degree of a polynomial function?**
-- **What is a parabola?**
+- **What is a parabola?** 
 
     ![Parabola](assets/parabola.png)
