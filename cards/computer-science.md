@@ -4,10 +4,11 @@
 
 - **What is logarithm (e.g., `log_2 N`)?**: Logarithm is the inverse of exponentiation, so `x = log_b n` is `b^x = n`. E.g., `log_2 16 = 4`.
 - **Why does `log_2 N` grow slowly?** Logarithms increase slowly for the same reason exponential growth increases quickly: For base `2`, `N` doubles before the result increments by `1`.
-- **What is asymptotic notation?** The asymptote of a curve is the straight line where the distance between the line and the curve approaches zero as the coordinates approach infinity. Asymptotic notation is the umbrella term for big o, big omega, and big theta.
+- **What is asymptotic notation?** The asymptote of a curve is the straight line where the distance between the line and the curve approaches zero as the curve's coordinates approach infinity. Asymptotic notation is the umbrella term for big o, big omega, and big theta.
+- **What is Big Oh (`O`), e.g., `O(N)`?** The upper bound of an algorithm.
 - **What is Big Omega (`Ω`), e.g., `Ω(N)`?** The lower bound of an algorithm.
-- **What is Big Theta (`Θ`), e.g., `Θ(N)`?** The upper and lower bound of an algorithm (tightly bound).
-- **What is quadratic runtime?** `O(n^2)`
+- **What is Big Theta (`Θ`), e.g., `Θ(N)`?** The upper and lower bound of an algorithm (i.e., a tightly bound algorithm). Big Theta is more informative than Big Oh or Big Omega, but harder to prove.
+- **What are quadratic and sub-quadratic runtime?** `O(n^2)`, sub-quadratic means anything between linear and quadratic runtime (expressed in Little-o `o(n^2)`, which defines a loose upper bounds).
 - **What is superpolynomial runtime?** A runtime faster than `O(n^k)`, e.g., `O(n!)` and `O(2^n)`.
 - **Why do recursive algorithms sometimes have more space complexity than iterative algorithms?** Because recursive algorithms add calls to the call stack and that takes up memory.
 - **Drop the non-dominant terms in the following expressions: O(N^2 + N), O(N + log N), O(5 * 2^N + 1000N^100).** O(N^2), O(N), O(2^N).
