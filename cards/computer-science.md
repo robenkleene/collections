@@ -9,7 +9,7 @@
 - **What is Big Theta (`Θ`), e.g., `Θ(N)`?** The upper and lower bound of an algorithm (tightly bound).
 - **What is quadratic runtime?** `O(n^2)`
 - **What is superpolynomial runtime?** A runtime faster than `O(n^k)`, e.g., `O(n!)` and `O(2^n)`.
-- **Why do recursive algorithms sometimes have more space complexity than iterative algorithms?** Because recursive algorithms add calls to the call stack that take up memory.
+- **Why do recursive algorithms sometimes have more space complexity than iterative algorithms?** Because recursive algorithms add calls to the call stack and that takes up memory.
 - **Drop the non-dominant terms in the following expressions: O(N^2 + N), O(N + log N), O(5 * 2^N + 1000N^100).** O(N^2), O(N), O(2^N).
 - **Write out the common big O expressions in the order of fastest increasing to slowest.** O(x!), O(2^x), O(x^2), O(x log x), O(x), O(log x).
 - **What's big O of this code?**
