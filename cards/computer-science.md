@@ -73,8 +73,10 @@
 
 ## Data Structures
 
-- **What is an abstract data type?** A definition of behavior of a data type, without implementation. In contrast to "data structures" which implement data types. Array, List, Map, Queue, Set, Stack, Table, Tree, and Vector are all examples of abstract data types.
-- **What is a heap data structure?**  (Note that there's no relation to heap used for memory allocation.)
+- **What is an abstract data type?** A definition of behavior for a data type, without specifying implementation. In contrast to a "data structure" which specifies the implementation for a data type. Associative array, list, queue, set, stack, and tree are all abstract data types.
+- **What is a list?** A list is the abstract data type for an array data structure.
+- **What are the synonyms for an associative array?** Associative array, map, symbol table, dictionary.
+- **What is a heap data structure?** A tree data structure that implements a priority queue. (Note that there's no relation to "the heap" in reference to memory allocation.)
 - **What is a priority queue?** A queue with a priority property.
 - **What is a queue?** A first in, first out (FIFO) data structure.
 - **What is a stack?** A last in, first out (LIFO) data structure.
