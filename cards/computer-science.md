@@ -2,11 +2,11 @@
 
 ## Big O
 
-- **What is `log_2 N`?**: Logarithm is the inverse of exponentiation. `b^x = n` is `x = log_b n`. So `log_2 16 = 4`. Logarithm's increase slowly as the value of `N` increases for the same reason exponential growth increases quickly: Each increment of `X` means that `N` doubles.
-- **When does `O(log N)` happen, and why?** With `log N` (which is implied to be `log_2 N`), each time `N` doubles the answer increases by `1`, therefore each increase of the answer means twice as many items can be processed. This matches binary search, where the first step is to test which half of the items the target exists in, or, to say it in reverse, each time the number of iterations goes up, you can find the target in twice as many items.
+- **What is logarithm (e.g., `log_2 N`)?**: Logarithm is the inverse of exponentiation, so `x = log_b n` is `b^x = n`. E.g., `log_2 16 = 4`.
+- **Why does `log_2 N` grow slowly?** Logarithms increase slowly for the same reason exponential growth increases quickly: For base `2`, `N` doubles before the result increments by `1`.
+- **What is asymptotic notation?** The asymptote of a curve is the straight line where the distance between the line and the curve approaches zero as the coordinates approach infinity. Asymptotic notation is the umbrella term for big o, big omega, and big theta.
 - **What is Big Omega (`Ω`), e.g., `Ω(N)`?** The lower bound of an algorithm.
-- **What is Big Theta (`Θ`), e.g., `Θ(N)`?** The upper and lower bound of an algorithm, a tight bound on runtime.
-- **What is asymptotic notation?** The asymptote of a curve is the straight line that as the coordinates approach infinite, the distance between the line and the curve approaches zero. Asymptotic notation is the umbrella term for big o, big omega, and big theta.
+- **What is Big Theta (`Θ`), e.g., `Θ(N)`?** The upper and lower bound of an algorithm (tightly bound).
 - **What is quadratic runtime?** `O(n^2)`
 - **What is superpolynomial runtime?** A runtime faster than `O(n^k)`, e.g., `O(n!)` and `O(2^n)`.
 - **Why do recursive algorithms sometimes have more space complexity than iterative algorithms?** Because recursive algorithms add calls to the call stack that take up memory.
