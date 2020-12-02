@@ -42,19 +42,19 @@
 ### Sorting
 
 - **How does quicksort work?** First choose an item to be the pivot (either randomly or use the middle item), then iterate over each item in the list and place it correctly relative to the pivot, on the right or left side. Now the pivot is in the correct position. Recursively do the same to the arrays to the right and the left of the pivot.
-- **What is the time complexity of quicksort, heapsort, and merge sort?** `O(n log n)`, but the worst case of quicksort is `O(N^2)`, whereas the other two have the same worst case.
 - **What does it mean for a sorting algorithm to be stable?** Equal items are in the same order in the result as they were in the input.
 - **How does the bubble sort algorithm work?** Sort items in-place by repeatedly iterate the list and put adjacent items in the correct order.
 - **How does the selection sort algorithm work?** Sort items in-place by repeatedly finding the smallest (or largest item) item and putting it in the correct order in a sorted subarray.
 - **How does the insertion sort algorithm work?** Sort items in-place by repeatedly finding the correct position of each item and placing it in a sorted subarray.
 - **How does the heapsort algorithm work?** Sort items in-place sorting the items in a heap as a subarray. (Heapsort is an optimization of selection sort, where the heap is used to more efficiently order items.)
 - **How does the merge sort algorithm work?** Divide the list into single item arrays (which are implicitly sorted), then repeatedly merge arrays until there's a single sorted list.
+- **What is the time complexity of quicksort, heapsort, and merge sort?** `O(n log n)`, but the worst case of quicksort is `O(N^2)`, whereas the other two have the same worst case.
 - **What's the time complexity of bubble sort, selection sort, and insertion sort?** `O(n^2)`
 
 ### Examples
 
-- **What type of algorithm results in factorial (`O(x!)`) runtime?** Recursively test every branch of a tree (e.g., the traveling salesman problem).
-- **What type of algorithm results in exponential (`O(2^x)`) runtime?** Every possible permutation (generate all possible passwords of length `x`).
+- **What type of algorithm results in factorial (`O(x!)`) runtime?** Finding every permutation (e.g., a brute-force solution to the travelling salesman problem).
+- **What type of algorithm results in exponential (`O(2^x)`) runtime?** Finding every combination (an efficient solution to the travelling salesman problem).
 - **What type of algorithm results in quadratic `O(x^2)` runtime?** Nested loops (selection sort).
 - **What type of algorithm results in `O(x log x)` runtime?** Divide and conquer (quicksort).
 - **What type of algorithm results in linear (`O(x)`) runtime?** Iterate an array.
