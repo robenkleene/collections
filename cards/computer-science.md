@@ -43,12 +43,11 @@
 
 - **How does quicksort work?** First choose an item to be the pivot (either randomly or use the middle item), then iterate over each item in the list and place it correctly relative to the pivot, on the right or left side. Now the pivot is in the correct position. Recursively do the same to the arrays to the right and the left of the pivot.
 - **What is the time complexity of quicksort, heapsort, and merge sort?** `O(n log n)`, but the worst case of quicksort is `O(N^2)`, whereas the other two have the same worst case.
-- **Why is quicksort often the best sorting algorithms in practice?** It has good average case time complexity `O(n log n)`, and the sort is in place. The other, faster sorts, like heapsort and merge sort, which have a lower upper bounds, both require additional data structures.
 - **What does it mean for a sorting algorithm to be stable?** Equal items are in the same order in the result as they were in the input.
-- **How does the bubble sort algorithm work?** Sort items by comparing adjacent elements.
-- **How does the selection sort algorithm work?** Sort items in place by splitting the array into sorted and unsorted sections, then iteratively finding the smallest (or largest) item from the unsorted section and placing it in the appropriate spot in the sorted section.
-- **How does the insertion sort algorithm work?** Sort items by creating a separate array with items in the correct order.
-- **How does the heapsort algorithm work?** Heapsort uses the same approach as selection sort, by dividing the array into sorted and unsorted sections. The difference is that it keeps track of already inspected items in a heap for faster lookup.
+- **How does the bubble sort algorithm work?** Sort items in-place by repeatedly iterate the list and put adjacent items in the correct order.
+- **How does the selection sort algorithm work?** Sort items in-place by repeatedly finding the smallest (or largest item) item and putting it in the correct order in a sorted subarray.
+- **How does the insertion sort algorithm work?** Sort items in-place by repeatedly finding the correct position of each item and placing it in a sorted subarray.
+- **How does the heapsort algorithm work?** Sort items in-place storing the item order in a heap as a subarray.
 - **How does the merge sort algorithm work?** Divide the list into single item arrays (which are implicitly sorted), then repeatedly merge arrays until there's a single sorted list.
 - **What's the time complexity of bubble sort, selection sort, and insertion sort?** `O(n^2)`
 
