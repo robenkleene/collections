@@ -43,7 +43,7 @@
 
 - **How does quicksort work?** First choose an item to be the pivot (either randomly or use the middle item), then iterate over each item in the list and place it correctly relative to the pivot, on the right or left side. Now the pivot is in the correct position. Recursively do the same to the arrays to the right and the left of the pivot.
 - **What is the time complexity of quicksort, heapsort, and merge sort?** `O(n log n)`, but the worst case of quicksort is `O(N^2)`, whereas the other two have the same worst case.
-- **Why is quicksort the best sorting algorithms in practice?** It has good average case time complexity `O(n log n)`, and the sort is in place, heapsort and merge sort, the two algorithms that have an upper bounds of `O(n log n)`, both require additional data structures.
+- **Why is quicksort often the best sorting algorithms in practice?** It has good average case time complexity `O(n log n)`, and the sort is in place. The other, faster sorts, like heapsort and merge sort, which have a lower upper bounds, both require additional data structures.
 - **What does it mean for a sorting algorithm to be stable?** Equal items are in the same order in the result as they were in the input.
 - **How does the bubble sort algorithm work?** Sort items by comparing adjacent elements.
 - **How does the selection sort algorithm work?** Sort items in place by splitting the array into sorted and unsorted sections, then iteratively finding the smallest (or largest) item from the unsorted section and placing it in the appropriate spot in the sorted section.
