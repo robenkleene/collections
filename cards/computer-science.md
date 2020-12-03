@@ -62,24 +62,25 @@
 
 ## Memory
 
-- **What is the stack vs. the heap? Where are they stored? When should each be used?** The stack is memory that is used for variables scoped to functions, that isn't dynamically allocated. Since the stack is a stack, memory is allocated and released LIFO. The heap is used for memory that is allocated. Stack variables are allocated at compile time, and heap variables are allocated at runtime.
-- **What are the advantages of the stack vs. the heap?** The stack is faster, because of the execution overhead of `malloc()` and `free()`, but the heap can be any size (e.g., for user input or consuming from an API).
+- **What is the stack vs. the heap?** The stack is memory that is used for variables scoped to functions, that isn't dynamically allocated. Since the stack is a stack, memory is allocated and released LIFO. The heap is always used for memory that is explicitly allocated.
+- **What are the advantages of the stack vs. the heap?** The stack is faster, because of the execution overhead of `malloc()` and `free()`, but the heap can be any size.
 - **Where are the stack and heap stored?** They're both stored in RAM.
 - **When are stack and heap memory allocated?** The stack is allocated at runtime and the heap is allocated at compile time. (Compile time really means load time.)
-- **How do you allocate a variable to the stack vs. the heap in C?** A variable scoped to a function, e.g., `main() { int x }` is stored on the stack, memory allocated with `malloc()`.
+- **How do you allocate a variable to the stack vs. the heap in C?** A variable scoped to a function, e.g., `main() { int x }` is stored on the stack, memory allocated with `malloc()` is stored on the heap.
 - **How do you allocate a variable to the stack vs. the heap in C?** Value types are stored in the stack, and reference types are stored in the heap. Reference types are always stored on the heap because pointers always point to a memory location on the heap.
-- **What does a "stack overflow" mean?** When a program writes more data to a buffer on the stack than was allocated for that buffer.
+- **What does a "stack overflow" mean? When do they happen?** When a program writes more data to a buffer on the stack than was allocated for that buffer. They rarely happen outside of exploits, but recursion that fails to terminate is can cause one.
 - **What is FIFO and LIFO?** First in, first out (a queue), and last in, first out (a stack).
-- **What is dynamic memory allocation?** Dynamic memory allocation is memory allocated at runtime on the heap (e.g., `malloc()`).
-- **What manual memory management?** Manually calling functions to return memory to the heap, in contrast to automatic memory management implementations like garbage collection or automatic reference counting.
+- **What is dynamic memory allocation?** Memory allocated at runtime on the heap (e.g., `malloc()`).
+- **What is static memory allocation?** Memory allocated at compile time (load time) on the stack.
+- **What is manual memory management?** Manually calling functions to return memory to the heap, in contrast to automatic memory management implementations like garbage collection or automatic reference counting.
 - **Where are global and static variables stored in C?** They're stored in the data segment, which is separate from the stack and the heap.
 
 ## Data Structures
 
-- **What is an abstract data type?** A definition of behavior for a data type, without specifying implementation. In contrast to a "data structure" which specifies the implementation for a data type. Associative array, list, queue, set, stack, and tree are all abstract data types.
+- **What is an abstract data type?** A design of a data type that doesn't specifying implementation. In contrast to a "data structure" which is an implementation of a data type. Associative array, list, queue, set, stack, and tree are all abstract data types, whereas array is a data structure (implementation of a list).
 - **What is a list?** A list is the abstract data type for an array data structure.
-- **What are the synonyms for an associative array?** Associative array, map, symbol table, dictionary.
+- **What is an associative array?** The abstract data type for a hash table (or hash map).
 - **What is a heap data structure?** A tree data structure that implements a priority queue. (Note that there's no relation to "the heap" in reference to memory allocation.)
-- **What is a priority queue?** A queue with a priority property.
-- **What is a queue?** A first in, first out (FIFO) data structure.
-- **What is a stack?** A last in, first out (LIFO) data structure.
+- **What is a priority queue?** A queue with a priority property. 
+- **What is a queue? When should it be used?** A first in, first out (FIFO) data structure. It's used when order is important.
+- **What is a stack? When should it be used?** A last in, first out (LIFO) data structure. The call stack and the memory stack are examples, it can also be used when populating a cache.
