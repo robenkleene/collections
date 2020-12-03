@@ -62,7 +62,10 @@
 
 ## Memory
 
-- **What is the stack vs. the heap? When are they allocated? Where are they stored? When should each be used?** The stack is memory that is used for variables scoped to functions, that isn't dynamically allocated. Since the stack is a stack, memory is allocated and released LIFO. The heap is used for memory that is allocated. Stack variables are allocated at compile time, and heap variables are allocated at runtime. The stack and heap are both stored in RAM. The stack is faster, because of the execution overhead of `malloc()` and `free()`, but the heap can be any size (e.g., for user input or consuming from an API).
+- **What is the stack vs. the heap? Where are they stored? When should each be used?** The stack is memory that is used for variables scoped to functions, that isn't dynamically allocated. Since the stack is a stack, memory is allocated and released LIFO. The heap is used for memory that is allocated. Stack variables are allocated at compile time, and heap variables are allocated at runtime.
+- **What are the advantages of the stack vs. the heap?** The stack is faster, because of the execution overhead of `malloc()` and `free()`, but the heap can be any size (e.g., for user input or consuming from an API).
+- **Where are the stack and heap stored?** They're both stored in RAM.
+- **When are stack and heap memory allocated?** The stack is allocated at runtime and the heap is allocated at compile time. (Compile time really means load time.)
 - **How do you allocate a variable to the stack vs. the heap in C?** A variable scoped to a function, e.g., `main() { int x }` is stored on the stack, memory allocated with `malloc()`.
 - **How do you allocate a variable to the stack vs. the heap in C?** Value types are stored in the stack, and reference types are stored in the heap. Reference types are always stored on the heap because pointers always point to a memory location on the heap.
 - **What does a "stack overflow" mean?** When a program writes more data to a buffer on the stack than was allocated for that buffer.
