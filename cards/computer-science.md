@@ -66,9 +66,8 @@
 - **What are the advantages of the stack vs. the heap?** The stack is faster, because of the execution overhead of `malloc()` and `free()`, but the heap can be any size.
 - **Where are the stack and heap stored?** They're both stored in RAM.
 - **When are stack and heap memory allocated?** The stack is allocated at runtime and the heap is allocated at compile time. (Compile time really means load time.)
-- **How do you allocate a variable to the stack vs. the heap in C?** A variable scoped to a function, e.g., `main() { int x }` is stored on the stack, memory allocated with `malloc()` is stored on the heap.
-- **How do you allocate a variable to the stack vs. the heap in C?** Value types are stored in the stack, and reference types are stored in the heap. Reference types are always stored on the heap because pointers always point to a memory location on the heap.
-- **What does a "stack overflow" mean? When do they happen?** When a program writes more data to a buffer on the stack than was allocated for that buffer. They rarely happen outside of exploits, but recursion that fails to terminate is can cause one.
+- **How do you allocate a variable to the stack vs. the heap in C?** A variable scoped to a function, e.g., `main() { int x }` is stored on the stack, memory allocated with `malloc()` is stored on the heap. In other words, value types are stored in the stack, and reference types are stored in the heap. Reference types are always stored on the heap because pointers always point to a memory location on the heap.
+- **What does a "stack overflow" mean? When do they happen?** A stack overflow happens when too many calls are put on the call stack. The most-common cause is recursion that fails to terminate.
 - **What is FIFO and LIFO?** First in, first out (a queue), and last in, first out (a stack).
 - **What is dynamic memory allocation?** Memory allocated at runtime on the heap (e.g., `malloc()`).
 - **What is static memory allocation?** Memory allocated at compile time (load time) on the stack.
