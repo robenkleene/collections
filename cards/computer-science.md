@@ -76,10 +76,10 @@
 
 ## Data Structures
 
-- **What is an abstract data type?** A design of a data type that doesn't specifying implementation. In contrast to a "data structure" which is an implementation of a data type. Associative array, list, queue, set, stack, and tree are all abstract data types, whereas array is a data structure (implementation of a list).
+- **What is an abstract data type?** A data type design that doesn't specifying an implementation. In contrast to a "data structure" which is an implementation of a data type. Associative array, list, queue, set, stack, and tree are all abstract data types, whereas array is a data structure (an implementation of a list).
 - **What is a list?** A list is the abstract data type for an array data structure.
 - **What is an associative array?** The abstract data type for a hash table (or hash map). The data structure is called a dictionary in Swift/Objective-C/Smalltalk, a map in Java/C++, a hash map in Common Lisp.
 - **What is a heap data structure?** A tree data structure that implements a priority queue. (Note that there's no relation to "the heap" in reference to memory allocation.)
 - **What is a priority queue?** A queue with a priority property. 
 - **What is a queue? When should it be used?** A first in, first out (FIFO) data structure. It's used when order is important.
-- **What is a stack? When should it be used?** A last in, first out (LIFO) data structure. The call stack and the memory stack are examples, it can also be used when populating a cache.
+- **What is a stack? When should it be used?** A last in, first out (LIFO) data structure. The call stack and the memory stack are examples, it's also an easy optimization when populating a cache.
