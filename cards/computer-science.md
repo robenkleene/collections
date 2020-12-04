@@ -71,7 +71,7 @@
 - **What is FIFO and LIFO?** First in, first out (a queue), and last in, first out (a stack).
 - **What is dynamic memory allocation?** Memory allocated at runtime on the heap (e.g., `malloc()`).
 - **What is static memory allocation?** Memory allocated at compile time (load time) on the stack.
-- **What is manual memory management?** Manually calling functions to return memory to the heap, in contrast to automatic memory management implementations like garbage collection or automatic reference counting.
+- **What is manual memory management?** Manually calling functions to return memory to the heap, this is in contrast to automatic memory management techniques like garbage collection or automatic reference counting.
 - **Where are global and static variables stored in C?** They're stored in the data segment, which is separate from the stack and the heap.
 
 ## Data Structures
