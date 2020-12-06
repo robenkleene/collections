@@ -9,7 +9,9 @@
 - **What is Big Omega (e.g., `Ω(N)`)?** The lower bound of an algorithm.
 - **What is Big Theta (e.g., `Θ(N)`)?** The upper and lower bound of an algorithm (i.e., a tightly bound algorithm). Big Theta is more informative than Big Oh or Big Omega, but harder to prove.
 - **What are quadratic and sub-quadratic runtime?** Quadratic is `O(n^2)`. Sub-quadratic means anything between linear and quadratic runtime (expressed in Little-o `o(n^2)`, which defines a loose upper bounds).
+- **What is cubic runtime?** `O(n^3)`
 - **What is superpolynomial runtime?** A runtime faster than `O(n^k)`, e.g., `O(n!)` and `O(2^n)`.
+- **What is polynomial runtime?** `O(n^k)` where `k > 0`  (This includes linear, quadratic, and cubic.)
 - **Why do recursive algorithms sometimes have more space complexity than iterative algorithms?** Because recursive algorithms add calls to the call stack that take up memory.
 - **Drop the non-dominant terms in the following expressions: O(N^2 + N), O(N + log N), O(5 * 2^N + 1000N^100).** O(N^2), O(N), O(2^N).
 - **What are the common big O expressions from fastest increasing to slowest.** O(x!), O(2^x), O(x^2), O(x log x), O(x), O(log x).
