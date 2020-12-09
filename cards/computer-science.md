@@ -78,7 +78,8 @@
 
 ## Data Structures
 
-- **What is an abstract data type?** A data type design that doesn't specifying an implementation. In contrast to a "data structure" which is an implementation of a data type. Associative array, list, queue, set, stack, and tree are all abstract data types, whereas array is a data structure (an implementation of a list).
+- **What is an abstract data type?** A data type design that doesn't specifying an implementation. In contrast to a "data structure" which is an implementation of a data type.
+- **What are some examples of abstract data types?** Associative array, list, queue, set, stack, and tree are all abstract data types, whereas array is a data structure (an implementation of a list).
 - **What is a list?** A list is the abstract data type for an array data structure.
 - **What is an associative array?** The abstract data type for a hash table (or hash map). The data structure is called a dictionary in Swift/Objective-C/Smalltalk, a map in Java/C++, a hash map in Common Lisp.
 - **What is a heap data structure?** A tree data structure that implements a priority queue. (Note that there's no relation to "the heap" in reference to memory allocation.)
