@@ -8,3 +8,16 @@
 - **How does ARC relate to value types?** ARC is an implementation of reference counting, value types do not have references, so ARC is not applicable to value types.
 - **Why can't protocols conform to `Equatable`?** `Equatable` has an associated type of `self`. Protocols with associated types can only be used a generic constraint (e.g., `func myMethod<T: MyProtocol>(myObject: T)`), and can't be used a parameter type directly. Part of the rational here, is that testing whether objects of different types are equal has pitfalls.
 - **In Swift, what is an associated type?** A generic type in a protocol.
+- **In Grand Central Dispatch, how do you dispatch after an amount of time?**
+
+    `DispatchQueue.main.asyncAfter(deadline: .now() + 1.0) { }`
+
+- **In Grand Central Dispatch, how do you dispatch to the main queue?
+
+    `DispatchQueue.main.async { }`
+
+- **In Grand Central Dispatch, how do you dispatch to a background queue?**
+
+    `DispatchQueue.global(qos: .background).async { }`
+
+- **In Grand Central Dispatch, how do you dispatch to a serial queue?**
