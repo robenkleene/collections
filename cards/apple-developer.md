@@ -12,7 +12,7 @@
 
     `DispatchQueue.main.asyncAfter(deadline: .now() + 1.0) { }`
 
-- **In Grand Central Dispatch, how do you dispatch to the main queue?
+- **In Grand Central Dispatch, how do you dispatch to the main queue?**
 
     `DispatchQueue.main.async { }`
 
@@ -21,3 +21,12 @@
     `DispatchQueue.global(qos: .background).async { }`
 
 - **In Grand Central Dispatch, how do you dispatch to a serial queue?**
+
+`DispatchQueue` is serial by default.
+
+```
+let queue = DispatchQueue(label: "com.queue.Serial")
+queue.async {
+    // Do something
+}
+```
