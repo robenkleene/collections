@@ -86,3 +86,11 @@
 - **What is a priority queue?** A queue with a priority property.
 - **What is a queue? When should it be used?** A first in, first out (FIFO) data structure. It's used when order is important.
 - **What is a stack? When should it be used?** A last in, first out (LIFO) data structure. The call stack and the memory stack are examples, it's also an easy optimization when populating a cache.
+
+## Algorithms
+
+- **How do you design a data compression algorithm?** 
+
+### Trees
+
+- **When traversing a tree, which type of algorithm should you use to find the shortest path to a node?**
