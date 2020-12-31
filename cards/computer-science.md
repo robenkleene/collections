@@ -86,6 +86,7 @@
 - **What is a priority queue?** A queue with a priority property.
 - **What is a queue? When should it be used?** A first in, first out (FIFO) data structure. It's used when order is important.
 - **What is a stack? When should it be used?** A last in, first out (LIFO) data structure. The call stack and the memory stack are examples, it's also an easy optimization when populating a cache.
+- **What's the difference between implementing a stack and a queue using an array?** When removing an item to process, is it removed from the beginning (queue) or end of the array (stack).
 
 ## Algorithms
 
