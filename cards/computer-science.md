@@ -94,3 +94,7 @@
 ### Trees
 
 - **When traversing a tree, which type of algorithm should you use to find the shortest path to a node?**
+- **How do you traverse a tree depth-first iteratively?**
+- **How do you traverse a tree depth-first recursively?**
+- **How do you traverse a tree breadth-first iteratively?**
+- **How do you traverse a tree breadth-first recursively?**
