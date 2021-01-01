@@ -91,6 +91,7 @@
 ## Algorithms
 
 - **How do you design a data compression algorithm?** 
+- **What is Huffman Coding?** It uses the "prefix rule" (assuring keys are uniquely identifiable by having them never share a prefix with a shorter key) to assure that data can be uniquely decoded.
 
 ### Trees
 
