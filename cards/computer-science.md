@@ -90,8 +90,8 @@
 
 ## Algorithms
 
-- **How do you design a data compression algorithm?** 
-- **What is Huffman Coding?** Store symbols in a priority queue and where a bit string describing the path to each symbol (`0` for the left node, `1` for the right) is its code word. The code words follow the "prefix property" where no code word has a prefix that matches a shorter code word, this assures that a symbol can be uniquely looked up. The data is then stored as a bit string, which is shorter than the original data because the more common a symbol, the shorter its code word.
+- **How do you design a data compression algorithm?** Compression is either lossy or lossless. Lossless compression works by reducing redundancy.
+- **What is Huffman Coding? What is its time complexity?** Store symbols in a priority queue and where a bit string describing the path to each symbol (`0` for the left node, `1` for the right) is its code word. The code words follow the "prefix property" where no code word has a prefix that matches a shorter code word, this assures that a symbol can be uniquely looked up. The data is then stored as a bit string, which is shorter than the original data because the more common a symbol, the shorter its code word. The time complexity is `O(n log n)`, `log n` to insert each symbol into the heap (priority queue), and `n` to iterate over each symbol.
 
 ### Trees
 
