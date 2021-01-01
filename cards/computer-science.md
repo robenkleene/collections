@@ -98,4 +98,4 @@
 - **How do you traverse a tree depth-first iteratively?**
 - **How do you traverse a tree depth-first recursively?**
 - **How do you traverse a tree breadth-first iteratively?**
-- **How do you traverse a tree breadth-first recursively?**
+- **Why is it impractical to traverse a tree breadth-first?** Breadth-first tree traversal uses a queue, which isn't available when recursing the same that the a depth-first search uses the call stack as a stack.
