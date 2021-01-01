@@ -91,7 +91,7 @@
 ## Algorithms
 
 - **How do you design a data compression algorithm?** 
-- **What is Huffman Coding?** It uses the "prefix rule" (assuring keys are uniquely identifiable by having them never share a prefix with a shorter key) to assure that data can be uniquely decoded.
+- **What is Huffman Coding?** Store symbols in a priority queue and where a bit string describing the path to each symbol (`0` for the left node, `1` for the right) is its code word. The code words follow the "prefix property" where no code word has a prefix that matches a shorter code word, this assures that a symbol can be uniquely looked up. The data is then stored as a bit string, which is shorter than the original data because the more common a symbol, the shorter its code word.
 
 ### Trees
 
