@@ -10,7 +10,7 @@
 - **What are examples of reference types in Swift?** Classes
 - **In Swift, are collections (arrays, sets, and dictionaries) and strings reference types or value types?** They're value types.
 - **Where are value types (like `struct`) stored?** They're stored on the stack by default unless they're part of a reference type, or are larger in size, then they're stored on the heap.
-- **In Swift, why does a subclass have to finish initialization (e.g., all properties need to be set), before calling `super.init`? `super.init` might call a function that's been overridden on the subclass
+- **In Swift, why does a subclass have to finish initialization (e.g., all properties need to be set), before calling `super.init`?** `super.init` might call a function that's been overridden by the subclass, calling a function on a class requires all properties to be initialized first, therefore the properties on the subclass all have to be set before calling `super.init`.
 
 ## Memory Management
 
