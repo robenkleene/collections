@@ -10,9 +10,11 @@
 
 - **What is Core Graphics?** A vector library.
 
-- **What is a `CGLayer`?** A Core Graphics
+- **What is Core Animation?**
 
-- **What is a `CALayer`?**
+- **What is a `CGLayer`?** A 
+
+- **What is a `CALayer`?** The lower-level class managing the bitmap representation of a `UIView`.
 
 - **What is the type of a `UIView` `layer` property?** `CALayer`
 
