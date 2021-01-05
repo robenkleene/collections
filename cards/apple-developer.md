@@ -6,11 +6,11 @@
 
 ### Frameworks
 
-- **What is Core Image?**
+- **What is Core Image?** A non-destructive image editing framework, e.g., for applying filters.
 
-- **What is Core Graphics?** A vector library.
+- **What is Core Graphics?** A vector drawing framework.
 
-- **What is Core Animation?**
+- **What is Core Animation?**: An animation framework, all of `UIKit` is backed by `CALayer  a Core Animation class.
 
 - **What is a `CGLayer`?** An offscreen Core Graphics drawing destination.
 
