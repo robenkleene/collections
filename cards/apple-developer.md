@@ -12,7 +12,7 @@
 
 - **What is Core Animation?**
 
-- **What is a `CGLayer`?** A 
+- **What is a `CGLayer`?** An offscreen Core Graphics drawing destination.
 
 - **What is a `CALayer`?** The lower-level class managing the bitmap representation of a `UIView`.
 
