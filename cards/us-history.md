@@ -12,5 +12,7 @@
     - Originally the British East India Company sold the tea in an auction to American merchants, who would then sell it to the colonies at a markup.
     - The tea act allowed the company to sell directly to American.
     - The idea was to undercut "smuggled" tea from other countries.
+    - This was considered a violation of the rights of the American tea merchants?
+- **What were the Intolerable Acts?**
 - **What was the Boston Tea Party? When did it happen?** On December 16, 1773
 - **What was Paul Revere's Midnight Ride? When did it happen?**
