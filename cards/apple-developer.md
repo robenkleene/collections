@@ -4,6 +4,16 @@
 
 - **Why did Apple switch from `insertRows(at:with:)` to `performBatchUpdates(_:completion:)`?** The new approach allows you to group multiple types of animations.
 
+### Frameworks
+
+- **What is Core Image?**
+
+- **What is Core Graphics?** A vector library.
+
+- **What is a `CGLayer`?**
+
+- **What is a `CALayer`?**
+
 ## Swift
 
 - **What are reference types and value types in Swift?** With value types, the effect of copying, via assignment, initialization, and argument passing, creates a separate instance with a unique copy of the data. With reference types, copying creates a shared instance.
