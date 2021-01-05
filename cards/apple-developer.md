@@ -7,21 +7,13 @@
 ### Frameworks
 
 - **What is Core Image?** A non-destructive image editing framework, e.g., for applying filters.
-
 - **What is Core Graphics?** A vector drawing framework.
-
 - **What is Core Animation?**: An animation framework, all of `UIKit` is backed by `CALayer  a Core Animation class.
-
 - **What is a `CGLayer`?** An offscreen Core Graphics drawing destination.
-
 - **What is a `CALayer`?** The lower-level class managing the bitmap representation of a `UIView`.
-
 - **What is the type of a `UIView` `layer` property?** `CALayer`
-
 - **What is a `CGContext`?** A 2D Quartz drawing destination, it might be a view, an image, or something else.
-
 - **What is Quartz?** Quartz is the graphics API for iOS and macOS. It has two components: Quartz 2D for 2D rendering, and Quartz Compositor for compositing. Quartz is practically synonymous with Core Graphics. It's backed by OpenGL.
-
 - **How do UIKit classes and methods like `drawRect` work with Core Graphics?** UIKit configures a context and sets it as the current context before calling `drawRect`, so classes like `UIBezierPath` can use it automatically.
 
 ## Swift
