@@ -9,7 +9,8 @@
 - **What was the Tea Act? When did it receive royal assent?**  
     - In received royal assent on May 10th, 1773.
     - Designed to bail out the British East India Company, who had a surplus of tea.
-    - Originally the British East India Company sold the tea in an auction, and then another company would sell it to the colonies at a markup.
+    - Originally the British East India Company sold the tea in an auction to American merchants, who would then sell it to the colonies at a markup.
+    - The tea act allowed the company to sell directly to American.
     - The idea was to undercut "smuggled" tea from other countries.
 - **What was the Boston Tea Party? When did it happen?** On December 16, 1773
 - **What was Paul Revere's Midnight Ride? When did it happen?**
