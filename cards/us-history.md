@@ -7,6 +7,6 @@
     A famous engraving of the incident was made and sold by Paul Revere.
 - **Who were the Sons of Liberty?** A revolutionary organization founded by Samuel Adams to advance the rights of the colonies and fight taxation by the British, like the Stamp Act of 1765 in particular, and later the Tea Act of 1773.
 - **What was the Tea Act? When did it receive royal assent?** The Tea Act was intended to bail out the British East India Company, who had a tea surplus in storage. It gave the company beneficial terms for importing its tea directly to the colonies, bypassing American merchants who had been acting as resellers. t received royal assent on May 10th, 1773.
-- **What were the Intolerable Acts?**
-- **What was the Boston Tea Party? When did it happen?** On December 16, 1773
+- **What were the Intolerable Acts? When did they happen?** The Intolerable Acts were punitive laws passed by the British Parliament in 1774, after the Boston Tea Party.
+- **What was the Boston Tea Party? When did it happen?** A protest to the Tea Act, where on December 16, 1773 members of the Sons of Liberty, some dressed as Native Americans, threw the East India Company's tea sitting on ships into the Boston Harbor.
 - **What was Paul Revere's Midnight Ride? When did it happen?**
