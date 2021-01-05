@@ -10,9 +10,11 @@
 
 - **What is Core Graphics?** A vector library.
 
-- **What is a `CGLayer`?**
+- **What is a `CGLayer`?** A Core Graphics
 
 - **What is a `CALayer`?**
+
+- **How do UIKit classes and methods like `drawRect` work with Core Graphics?** UIKit configures a context and sets it as the current context before calling `drawRect`, so classes like `UIBezierPath` can use it automatically.
 
 ## Swift
 
