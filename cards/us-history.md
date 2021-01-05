@@ -6,5 +6,6 @@
 
     A famous engraving of the incident was made and sold by Paul Revere.
 - **What was the Boston Tea Party? When did it happen?** On December 16, 1773
-- **Who were the Sons of Liberty?**
+- **What was the Tea Act of 1773?**
+- **Who were the Sons of Liberty?** A revolutionary organization founded by Samuel Adams to advance the rights of the colonies and fight taxation by the British, like the Stamp Act of 1765 in particular, and later the Tea Act of 1773.
 - **What was Paul Revere's Midnight Ride? When did it happen?**
