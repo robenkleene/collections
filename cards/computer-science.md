@@ -107,8 +107,9 @@
 - **What does the `&` bitwise operator do?**
 - **What does the `|` bitwise operator do?**
 - **What does the `^` bitwise operator do?**
+- **What is the `^` bitwise operator called?**
 - **What does the `<<` bitwise operator do?**
 - **What does the `>>` bitwise operator do?**
-- **What does `x << 1` do to the value of `x`?**
+- **What does `x << 1` do to the value of `x`? What about `x << 2` and `x << 3`?**
 - **What is the `~` bitwise operator called?**
-- **What is the `~` bitwise operator called?**
+- **What does the `~` bitwise operator do?**
