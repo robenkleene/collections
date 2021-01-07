@@ -101,3 +101,14 @@
 - **How do you traverse a tree iteratively? How do you switch between depth-first and breadth-first? How do you return the path taken?** Create an array with just the root node to use as a queue or stack of nodes to visit, and create a set to track visited nodes. Loop until the stack is empty: Pop a node, add it to visited, and add its children to the end of the queue or stack. A queue is breadth-first and a stack is depth-first. Use an array for visited and return it to get the path taken.
 - **How do you traverse a tree depth-first recursively?** Recursively call the function with each child.
 - **Why is it impractical to traverse a tree breadth-first?** Breadth-first tree traversal uses a queue, which isn't available when recursing the same that the a depth-first search uses the call stack as a stack.
+
+## Bitwise
+
+- **What does the `&` bitwise operator do?**
+- **What does the `|` bitwise operator do?**
+- **What does the `^` bitwise operator do?**
+- **What does the `<<` bitwise operator do?**
+- **What does the `>>` bitwise operator do?**
+- **What does `x << 1` do to the value of `x`?**
+- **What is the `~` bitwise operator called?**
+- **What is the `~` bitwise operator called?**
