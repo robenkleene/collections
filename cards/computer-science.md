@@ -117,3 +117,6 @@
 - **How do you make a bit field of all `1`**? `~0`
 - **How do you make a bit field of all `0` except the rightmost `n` bits**? `~(~0 << n)`
 - **How do you make a bit field of all `1` except the rightmost `n` bits**? `~0 << n`
+- **How do you make a positive number negative with bitwise operations?**
+- **What is `2` in binary?** `10`
+- **What is `-2` in binary?** `01`
