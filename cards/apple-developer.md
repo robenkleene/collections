@@ -16,6 +16,14 @@
 - **What is Quartz?** Quartz is the graphics API for iOS and macOS. It has two components: Quartz 2D for 2D rendering, and Quartz Compositor for compositing. Quartz is practically synonymous with Core Graphics. It's backed by OpenGL.
 - **How do UIKit classes and methods like `drawRect` work with Core Graphics?** UIKit configures a context and sets it as the current context before calling `drawRect`, so classes like `UIBezierPath` can use it automatically.
 
+### Core Data
+
+- **What does `NSPersistentContainer` do?** It sets up Core Data stack: The managed object model, persistent store coordinator, and managed object context.
+- **When was `NSPersistentContainer` introduced?** iOS 10, macOS Sierra 10.12, 2016
+- **What does `NSManagedObjectContext` do?**
+- **What does `NSManagedObjectModel` do?**
+- **What does `NSPersistentStoreCoordinator` do?**
+
 ## Swift
 
 - **What are reference types and value types in Swift?** With value types, the effect of copying, via assignment, initialization, and argument passing, creates a separate instance with a unique copy of the data. With reference types, copying creates a shared instance.
