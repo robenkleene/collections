@@ -107,11 +107,11 @@
 - **What does the `&` bitwise operator do?**
 - **What does the `|` bitwise operator do?**
 - **What does the `^` bitwise operator do?**
-- **What is the `^` bitwise operator called?**
+- **What is the `^` bitwise operator called?** Exclusive OR
 - **What does the `<<` bitwise operator do?**
 - **What does the `>>` bitwise operator do?**
 - **What does `x << 1` do to the value of `x`? What about `x << 2` and `x << 3`?**
-- **What is the `~` bitwise operator called?**
+- **What is the `~` bitwise operator called?** One's complement or unary operator
 - **What does the `~` bitwise operator do?**
 - **How do you make a bit field of all `0`**? `0`
 - **How do you make a bit field of all `1`**? `~0`
