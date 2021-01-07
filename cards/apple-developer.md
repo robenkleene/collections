@@ -22,8 +22,9 @@
 - **When was `NSPersistentContainer` introduced?** 2016, iOS 10, macOS Sierra 10.12.
 - **What does `NSManagedObjectContext` do?** An in-memory representation of the object graph. There can be multiple `NSManagedObjectContext` with their own copies of the same objects.
 - **What does `NSManagedObjectModel` do?** An in-memory representation of the schema.
-- **What does `NSPersistentStoreCoordinator` do?** A wrapper around the persistent store itself, it supports SQLite, Binary, XML, and In-Memory.
-- **What does `NSPersistentStore` do?** A wrapper around the persistent store itself.
+- **What does `NSPersistentStoreCoordinator` do?** Coordinates between the managed object context and persistent store.
+- **What does `NSPersistentStore` do?** A wrapper around the persistent store itself, it supports SQLite, Binary, XML, and In-Memory.
+- **How do you do Core Data work on a background queue?** Setup a child context with a private concurrency type, and use perform block to do the work, when you save the child context, the changes will be propagated up to the parent context. Changes are propagated only one level up, so to save to the persistent store, save on the main managed object as well.
 
 ## Swift
 
