@@ -23,7 +23,10 @@
 - **In Swift, are collections (arrays, sets, and dictionaries) and strings reference types or value types?** They're value types.
 - **Where are value types (like `struct`) stored?** They're stored on the stack by default unless they're part of a reference type, or are larger in size, then they're stored on the heap.
 - **In Swift, why does a subclass have to finish initialization (e.g., all properties need to be set), before calling `super.init`?** `super.init` might call a function that's been overridden by the subclass, calling a function on a class requires all properties to be initialized first, therefore the properties on the subclass all have to be set before calling `super.init`.
-- **In Swift, how do you make a function parameter mutable?** Just set it to a var in the function `var parameter = parameter`.
+- **In Swift, how do you make a function parameter mutable?** Just assign it a `var` in the function body `var parameter = parameter`.
+- **In Swift, what is an`inout` parameter?** It allows a function to modify a parameter's value, and have the changes persist after the function has ended.
+- **In Swift, how are `inout` arguments passed in?** Preceded with an ampersand `myFunc(&myValue)`.
+- **In Swift, what does putting an `&` in front of a variable name do?** It means pass that variable by reference instead of by value. It must be used when passing in `inout` arguments.
 
 ## Memory Management
 
