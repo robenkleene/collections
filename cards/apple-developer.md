@@ -19,10 +19,11 @@
 ### Core Data
 
 - **What does `NSPersistentContainer` do?** It sets up Core Data stack: The managed object model, persistent store coordinator, and managed object context.
-- **When was `NSPersistentContainer` introduced?** iOS 10, macOS Sierra 10.12, 2016
-- **What does `NSManagedObjectContext` do?**
-- **What does `NSManagedObjectModel` do?**
-- **What does `NSPersistentStoreCoordinator` do?**
+- **When was `NSPersistentContainer` introduced?** 2016, iOS 10, macOS Sierra 10.12.
+- **What does `NSManagedObjectContext` do?** An in-memory representation of the object graph. There can be multiple `NSManagedObjectContext` with their own copies of the same objects.
+- **What does `NSManagedObjectModel` do?** An in-memory representation of the schema.
+- **What does `NSPersistentStoreCoordinator` do?** A wrapper around the persistent store itself, it supports SQLite, Binary, XML, and In-Memory.
+- **What does `NSPersistentStore` do?** A wrapper around the persistent store itself.
 
 ## Swift
 
