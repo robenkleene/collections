@@ -37,12 +37,13 @@
 - **In Swift, what is an`inout` parameter?** It makes the parameter mutable, and it assigns the parameter's value back to the argument when the function ends.
 - **In Swift, how are `inout` arguments passed in?** Preceded with an ampersand `myFunc(&myValue)`.
 - **In Swift, what does putting an `&` in front of a variable name do?** It means pass that variable by reference instead of by value. It must be used when passing in `inout` arguments.
+- **In Swift, how do you add a `description` to a type?** Make it conform to `CustomStringConvertible`.
 
 ### Types
 
 - **In Swift, what are examples of types?** Named types are `class`, `enum`, `struct`, or `protocol`. There are also two compound types (types without a name): Function types and tuple types.
 - **In Swift, where are built-in types defined?** Named types are defined in the standard library, compound types are defined in the Swift language itself.
-- **In Swift, how are types in the standard library defined?** `struct`
+- **In Swift, how are named types in the standard library defined?** `struct`
 
 ## Memory Management
 
