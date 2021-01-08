@@ -38,6 +38,12 @@
 - **In Swift, how are `inout` arguments passed in?** Preceded with an ampersand `myFunc(&myValue)`.
 - **In Swift, what does putting an `&` in front of a variable name do?** It means pass that variable by reference instead of by value. It must be used when passing in `inout` arguments.
 
+### Types
+
+- **In Swift, what are examples of types?** Named types are `class`, `enum`, `struct`, or `protocol`. There are also two compound types (types without a name): Function types and tuple types.
+- **In Swift, where are built-in types defined?** Named types are defined in the standard library, compound types are defined in the Swift language itself.
+- **In Swift, how are types in the standard library defined?** `struct`
+
 ## Memory Management
 
 - **How does ARC relate to value types?** ARC is an implementation of reference counting, value types do not have references, so ARC is not applicable to value types.
