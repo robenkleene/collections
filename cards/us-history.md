@@ -7,11 +7,10 @@
 - **What were the Townshend Acts? When did they pass? When were they repealed?** A series of British acts of Parliament that taxed goods imported into colonies.
 - **Who were the Townshend Acts proposed by and what was their justification for them?** Charles Townshend thought that a tax on imported goods would be more palatable to the colonies than one on locally produced goods.
 - **Over which years were the Townshend Acts passed?** 1767-1768
-- **When were the Townshend Acts repealed? Were they repealed completely?** April 12th, 1770
+- **When were the Townshend Acts repealed?** April 12th, 1770
 - **Which significant Townshend Acts tax still remained in place after they were repealed?** The tax on tea.
-- **What was the Boston Massacre? When did it happen?** On March 5, 1770, British soldiers killed several people while being harassed by a mob, partially in protest of the Townshend Acts.
-
-    A famous engraving of the incident was made and sold by Paul Revere.
+- **What was the Boston Massacre?** British soldiers killed several people while being harassed by a mob that formed partially in protest of the Townshend Acts.
+- **When did the Boston Massacre happen?** March 5, 1770
 - **Who were the Sons of Liberty?** A revolutionary organization founded by Samuel Adams to advance the rights of the colonies and fight taxation by the British, like the Stamp Act of 1765 in particular, and later the Tea Act of 1773.
 - **What was the Tea Act? When did it receive royal assent?** The Tea Act was intended to bail out the British East India Company, who had a tea surplus in storage. It gave the company beneficial terms for importing its tea directly to the colonies, bypassing American merchants who had been acting as resellers. t received royal assent on May 10th, 1773.
 - **What were the Intolerable Acts? When did they happen?** The Intolerable Acts were punitive laws passed by the British Parliament in 1774, after the Boston Tea Party.
