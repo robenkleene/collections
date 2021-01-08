@@ -11,11 +11,13 @@
 - **Which significant Townshend Acts tax still remained in place after they were repealed?** The tax on tea.
 - **What was the Boston Massacre?** British soldiers killed several people while being harassed by a mob that formed partially in protest of the Townshend Acts.
 - **When did the Boston Massacre happen?** March 5, 1770
-- **Who were the Sons of Liberty?** A revolutionary organization founded by Samuel Adams to fight taxation by the British, especially the Stamp Act and the Tea Act.
-- **What was the Tea Act?** The Tea Act was intended to bail out the British East India Company, who had a tea surplus in storage. It gave the company beneficial terms for importing its tea directly to the colonies, bypassing American merchants who had been acting as resellers.
-- **What was the goal of the Tea Act?**
+- **Who were the Sons of Liberty?** A revolutionary organization founded by Samuel Adams to fight taxation by the British, especially the Stamp Act and Tea Act.
+- **What was the Tea Act?** The Tea Act gave the East India Company beneficial terms for importing tea directly into the colonies, bypassing the American merchants who had been acting as resellers.
+- **What was the goal of the Tea Act?** To bail out the British East India Company who had a tea surplus in storage by undercutting "smuggled" tea.
 - **When did the Tea Act receive royal assent?** May 10th, 1773
-- **What were the Intolerable Acts? When did they happen?** The Intolerable Acts were punitive laws passed by the British Parliament in 1774, after the Boston Tea Party.
-- **What was the Boston Tea Party? When did it happen?** A protest to the Tea Act, where on December 16, 1773 members of the Sons of Liberty, some dressed as Native Americans, threw the East India Company's tea sitting on ships into the Boston Harbor.
+- **What were the Intolerable Acts?** Punitive laws passed by the British Parliament to punish the colonies after the Boston Tea Party.
+- **Which year were the Intolerable Acts passed?** 1774
+- **What was the Boston Tea Party? When did it happen?** Members of the Sons of Liberty, some dressed as Native Americans, threw tea sitting on ships into the Boston Harbor to protest the Tea Act.
+- **When did the Boston Tea Party happen?** December 16, 1773
 - **What was Paul Revere's Midnight Ride? When did it happen?** Paul Revere rode 
 - **Where does the phrase "one if by land, two if by sea" come from?**
