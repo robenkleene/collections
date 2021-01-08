@@ -131,3 +131,7 @@
 - **How do you make a positive number negative with bitwise operations?**
 - **What is `2` in binary?** `10`
 - **What is `-2` in binary?** `01`
+
+## Trivia
+
+- **What is the origin of the phrase "Go To Statement Considered Harmful"?** Dijkstra's 1968 private paper "A Case against the GO TO Statement", it was later published under the heading "Go To Statement Considered Harmful".
