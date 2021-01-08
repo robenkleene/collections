@@ -17,7 +17,8 @@
 - **When did the Tea Act receive royal assent?** May 10th, 1773
 - **What were the Intolerable Acts?** Punitive laws passed by the British Parliament to punish the colonies after the Boston Tea Party.
 - **Which year were the Intolerable Acts passed?** 1774
-- **What was the Boston Tea Party? When did it happen?** Members of the Sons of Liberty, some dressed as Native Americans, threw tea sitting on ships into the Boston Harbor to protest the Tea Act.
+- **What was the Boston Tea Party? When did it happen?** To protest the Tea Act, members of the Sons of Liberty, some dressed as Native Americans, threw tea sitting on East India Company ships into the Boston Harbor.
 - **When did the Boston Tea Party happen?** December 16, 1773
-- **What was Paul Revere's Midnight Ride? When did it happen?** Paul Revere rode 
+- **What was Paul Revere's Midnight Ride?**
+- **When did Paul Revere's Midnight Ride happen?**
 - **Where does the phrase "one if by land, two if by sea" come from?**
