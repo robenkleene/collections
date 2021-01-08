@@ -1,6 +1,9 @@
 # US History
 
-- **What was the Stamp Act of 1765? When was it repealed and why?** A tax on the British colonies on all paper goods, including  legal documents, magazines, playing cards, newspapers. It was repealed on March 18th, 1766, after protests in the colonies and pressure from British exporters who were threatened by boycotts.
+- **What was the Stamp Act? When was it repealed and why?** A tax on the British colonies on all paper goods, including  legal documents, magazines, playing cards, newspapers.
+- **Why was the Stamp Act repealed?** It was repealed after protests in the colonies and pressure from British exporters who were threatened by boycotts.
+- **When was the Stamp Act repealed?** March 18th, 1766
+- **When did the Stamp Act receive royal assent?** March 22nd, 1765
 - **What were the Townshend Acts? When did they pass? When were they repealed?** A series of British acts of Parliament passed during 1767 and 1768 that taxed goods imported into the American colonies. Named after Charles Townshend who proposed them, believing a tax on imported goods would be more palatable to the colonies than one on locally produced goods. They were mostly repealed by the Repeal Act which received royal assent on April 12th, 1770; the tax on tea remained in place.
 - **What was the Boston Massacre? When did it happen?** On March 5, 1770, British soldiers killed several people while being harassed by a mob, partially in protest of the Townshend Acts.
 
