@@ -11,7 +11,7 @@
 - **Which significant Townshend Acts tax still remained in place after they were repealed?** The tax on tea.
 - **What was the Boston Massacre?** British soldiers killed several people while being harassed by a mob that formed partially in protest of the Townshend Acts.
 - **When did the Boston Massacre happen?** March 5, 1770
-- **Who were the Sons of Liberty?** A revolutionary organization founded by Samuel Adams to advance the rights of the colonies and fight taxation by the British, like the Stamp Act of 1765 in particular, and later the Tea Act of 1773.
+- **Who were the Sons of Liberty?** A revolutionary organization founded by Samuel Adams to fight taxation by the British, especially the Stamp Act and the Tea Act.
 - **What was the Tea Act? When did it receive royal assent?** The Tea Act was intended to bail out the British East India Company, who had a tea surplus in storage. It gave the company beneficial terms for importing its tea directly to the colonies, bypassing American merchants who had been acting as resellers. t received royal assent on May 10th, 1773.
 - **What were the Intolerable Acts? When did they happen?** The Intolerable Acts were punitive laws passed by the British Parliament in 1774, after the Boston Tea Party.
 - **What was the Boston Tea Party? When did it happen?** A protest to the Tea Act, where on December 16, 1773 members of the Sons of Liberty, some dressed as Native Americans, threw the East India Company's tea sitting on ships into the Boston Harbor.
