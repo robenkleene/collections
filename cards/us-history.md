@@ -4,9 +4,11 @@
 - **Why was the Stamp Act repealed?** It was repealed after protests in the colonies, and pressure from British exporters who were threatened by boycotts.
 - **When was the Stamp Act repealed?** March 18th, 1766
 - **When did the Stamp Act receive royal assent?** March 22nd, 1765
-- **What were the Townshend Acts? When did they pass? When were they repealed?** A series of British acts of Parliament passed during 1767 and 1768 that taxed goods imported into the American colonies. Named after Charles Townshend who proposed them, believing a tax on imported goods would be more palatable to the colonies than one on locally produced goods. - **When were the Townshend Acts passed?**
+- **What were the Townshend Acts? When did they pass? When were they repealed?** A series of British acts of Parliament that taxed goods imported into colonies.
+- **Who were the Townshend Acts proposed by and what was their justification for them?** Charles Townshend thought that a tax on imported goods would be more palatable to the colonies than one on locally produced goods.
+- **Over which years were the Townshend Acts passed?** 1767-1768
 - **When were the Townshend Acts repealed? Were they repealed completely?** April 12th, 1770
-- **What significant Townshend Acts tax remained in place after they were repealed?** The tax on tea.
+- **Which significant Townshend Acts tax still remained in place after they were repealed?** The tax on tea.
 - **What was the Boston Massacre? When did it happen?** On March 5, 1770, British soldiers killed several people while being harassed by a mob, partially in protest of the Townshend Acts.
 
     A famous engraving of the incident was made and sold by Paul Revere.
