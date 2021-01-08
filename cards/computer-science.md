@@ -95,6 +95,13 @@
 - **How does the MP3 compression algorithm work?** By removing sound information outside of the audible frequency range and applying a Huffman coding.
 - **How does the JPG compression algorithm work?** By removing color information that's less perceptible by humans, and applying Huffman coding.
 
+### Dynamic Programming
+
+- **What is a problem that's a good candidate for dynamic programming and why?** Calculating a Fibonacci number is an example of a problem with optimal substructure and overlapping subproblems. Calculating the Fibonacci number `F(n)` involves calculating the numbers for `F(n - 1)` and `F(n - 2)` and adding them. This means the problem can benefit from memoization, a form of dynamic programming.
+- **What is optimal substructure?** Optimal substructure means that an optimal solution can be constructed from optimal solutions to its subproblems.
+- **What are overlapping subproblems?** Overlapping subproblems means a problem can be broken down into subproblems that are solved repeatedly.
+- **What is the relationship between optimal substructure and overlapping subproblems?** A problem that has both optimal substructure and overlapping subproblems is a good candidate for dynamic programming because it means a problem can be broken into smaller problems, and those smaller problems recur, which means it will benefit from dynamic programming's caching.
+
 ### Trees
 
 - **How do you find the shortest path to a node in a tree?** Just have each node store a reference to its parent, and walk up the parent nodes.
