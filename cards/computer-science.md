@@ -94,10 +94,9 @@
 - **What is Huffman Coding? What is its time complexity?** Symbols are stored in a priority queue where a bit string describing the path to each symbol (`0` for the left node, `1` for the right) is used as a code word. The code words follow the "prefix property" where no code word has a prefix matching a shorter code word, thereby assuring individual code words can be uniquely parsed from a bit string. The compressed data is then stored as a bit string. The bit string is shorter than the original data because more common symbols have shorter code words. The time complexity of encoding is `O(n log n)`, `log n` to insert each symbol into the heap (for the priority queue), and `n` to iterate over each symbol. Decoding is `O(n)` to iterate over the bit string (look up time for a heap is `O(1)`).
 - **How does the MP3 compression algorithm work?** By removing sound information outside of the audible frequency range and applying a Huffman coding.
 - **How does the JPG compression algorithm work?** By removing color information that's less perceptible by humans, and applying Huffman coding.
-- **What is Dijkstra's Dutch national flag problem?**
-- **How do you solve Dijkstra's Dutch national flag problem?**
-- **What's the name of the problem where you need to sort three items?** Dijkstra's Dutch national flag problem
-
+- **What is Dijkstra's Dutch national flag problem?** Sort an array with any number of items, each representing one of three colors.
+- **How do you solve Dijkstra's Dutch national flag problem? What is the time complexity of the solution?** Iterate the array keeping track of indexes for the current item, the count of the lowest item found, and the length of the array minus the count of the highest item found. If the current item is the lowest item, swap it with the index of the count of lowest items, if it's the highest item, swap it with the array length minus highest count, then adjust the highest and lowest counts accordingly, and increment the current item. (If it's the middle item, only increment the current item.) The time complexity is `O(n)`.
+- **What's the name of the problem where you need to sort any of number of items each of one of three different values?** Dijkstra's Dutch national flag problem
 
 ### Dynamic Programming
 
