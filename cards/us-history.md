@@ -19,6 +19,6 @@
 - **Which year were the Intolerable Acts passed?** 1774
 - **What was the Boston Tea Party? When did it happen?** To protest the Tea Act, members of the Sons of Liberty, some dressed as Native Americans, threw tea sitting on East India Company ships into the Boston Harbor.
 - **When did the Boston Tea Party happen?** December 16, 1773
-- **What was Paul Revere's Midnight Ride?**
-- **When did Paul Revere's Midnight Ride happen?**
-- **Where does the phrase "one if by land, two if by sea" come from?**
+- **What was Paul Revere's Midnight Ride?** 
+- **When was Paul Revere's Midnight Ride?** April 18, 1775
+- **Where does the phrase "one if by land, two if by sea" come from? What was the result?** Paul Revere's instructions for alerting colonists in Charlestown about the movements of the British troops. Two lanterns were used because the British came by sea, across the Charles River.
