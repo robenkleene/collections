@@ -16,7 +16,7 @@
 - **What is Quartz? Which framework is it related to?** Quartz is the graphics API for iOS and macOS. Quartz is practically synonymous with Core Graphics.
 - **What are the two components of Quartz?** Quartz 2D for 2D rendering, and Quartz Compositor for compositing.
 - **What important technology is Quartz backed by?** OpenGL
-- **How do UIKit classes and methods like `drawRect` work with Core Graphics?** UIKit configures a context and sets it as the current context before calling `drawRect`, so classes like `UIBezierPath` can use it automatically.
+- **Where do UIKit drawing classes like `UIBezierPath` get a `CGContext` in `drawRect`?** UIKit configures a context and sets it as the current context before calling `drawRect`.
 - **What is the difference between UIKit and AppKit as it relates to Core Animation?** `UIView` are automatically backed by `CALayer` whereas `NSView` are not (they can be turned on with the `wantsLayer` property).
 
 ### Core Data

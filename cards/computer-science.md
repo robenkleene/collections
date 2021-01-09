@@ -4,7 +4,8 @@
 
 - **What is logarithm (e.g., `log_2 N`)?**: Logarithm is the inverse of exponentiation, so `x = log_b n` is `b^x = n`. E.g., `log_2 16 = 4`.
 - **Why does `log_2 N` grow slowly?** Logarithms increase slowly for the same reason exponential growth increases quickly: For base `2`, `N` doubles before the result increments by `1`.
-- **What is asymptotic notation?** An asymptote of a curve is a line where the distance between the line and the curve approaches zero as the curve's coordinates approach infinity. Asymptotic notation is the umbrella term for big O, big Omega, and big Theta.
+- **What is asymptotic notation?** The umbrella term for big O, big Omega, and big Theta.
+- **What is an asymptote?** An asymptote of a curve is a line where the distance between the line and the curve approaches zero as the curve's coordinates approach infinity.
 - **What is Big O (e.g., `O(N)`)?** The upper bound of an algorithm.
 - **What is Big Omega (e.g., `Ω(N)`)?** The lower bound of an algorithm.
 - **What is Big Theta (e.g., `Θ(N)`)?** The upper and lower bound of an algorithm (i.e., a tightly bound algorithm). Big Theta is more informative than Big Oh or Big Omega, but harder to prove.
@@ -73,7 +74,7 @@
 - **What is FIFO and LIFO?** First in, first out (a queue), and last in, first out (a stack).
 - **What is dynamic memory allocation?** Memory allocated at runtime on the heap (e.g., `malloc()`).
 - **What is static memory allocation?** Memory allocated at compile time (load time).
-- **In C, where is static memory allocation?** Data segment
+- **In C, where is static memory allocated?** Data segment
 - **What is manual memory management?** Manually calling functions to return memory to the heap, this is in contrast to automatic memory management techniques like garbage collection or automatic reference counting.
 - **Where are global and static variables stored in C?** They're stored in the data segment, which is separate from the stack and the heap.
 
@@ -107,6 +108,8 @@
 
 ### Dynamic Programming
 
+- **What is dynamic programming?** Simplifying a problem by recursively breaking it into sub-problems.
+- **Which two properties does a problem need to be good candidate for dynamic programming?** Optimal substructure and overlapping subproblems
 - **What is a problem that's a good candidate for dynamic programming and why?** Calculating a Fibonacci number is an example of a problem with optimal substructure and overlapping subproblems. Calculating the Fibonacci number `F(n)` involves calculating the numbers for `F(n - 1)` and `F(n - 2)` and adding them. This means the problem can benefit from memoization, a form of dynamic programming.
 - **What is optimal substructure?** Optimal substructure means that an optimal solution can be constructed from optimal solutions to its subproblems.
 - **What are overlapping subproblems?** Overlapping subproblems means a problem can be broken down into subproblems that are solved repeatedly.
