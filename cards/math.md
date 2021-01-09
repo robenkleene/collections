@@ -10,3 +10,4 @@
 - **What is a parabola?** 
 
     ![Parabola](assets/parabola.png)
+- **What is the Cartesian product?** All permutations of the members of two sets.
