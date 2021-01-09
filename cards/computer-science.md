@@ -72,7 +72,8 @@
 - **What does a "stack overflow" mean? When do they happen?** A stack overflow happens when too many calls are put on the call stack. The most-common cause is recursion that fails to terminate.
 - **What is FIFO and LIFO?** First in, first out (a queue), and last in, first out (a stack).
 - **What is dynamic memory allocation?** Memory allocated at runtime on the heap (e.g., `malloc()`).
-- **What is static memory allocation?** Memory allocated at compile time (load time) on the stack.
+- **What is static memory allocation?** Memory allocated at compile time (load time).
+- **In C, where is static memory allocation?** Data segment
 - **What is manual memory management?** Manually calling functions to return memory to the heap, this is in contrast to automatic memory management techniques like garbage collection or automatic reference counting.
 - **Where are global and static variables stored in C?** They're stored in the data segment, which is separate from the stack and the heap.
 
@@ -87,6 +88,12 @@
 - **What is a queue? When should it be used?** A first in, first out (FIFO) data structure. It's used when order is important.
 - **What is a stack? When should it be used?** A last in, first out (LIFO) data structure. The call stack and the memory stack are examples, it's also an easy optimization when populating a cache.
 - **What's the difference between implementing a stack and a queue using an array?** When removing an item to process, is it removed from the beginning (queue) or end of the array (stack).
+- **What are the advantages of linked lists over arrays and vice-versa?** - Linked lists don't have a fixed size, and elements don't have to be shifted after insertion and removal, whereas arrays do.
+
+    - Arrays support random access, whereas linked lists only support sequential access.
+- **What is the term for when an item in a sequence can be accessed directly?** Random access
+- **What is the term for when an items in a sequence can only be accessed in order?** Sequential access
+
 
 ## Algorithms
 

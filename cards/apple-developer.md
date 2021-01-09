@@ -13,7 +13,7 @@
 - **What is a `CALayer`?** The lower-level class managing the bitmap representation of a `UIView`.
 - **What is the type of a `UIView` `layer` property?** `CALayer`
 - **What is a `CGContext`?** A 2D Quartz drawing destination, it might be a view, an image, or something else.
-- **What is Quartz? Which library is it related to?** Quartz is the graphics API for iOS and macOS. Quartz is practically synonymous with Core Graphics.
+- **What is Quartz? Which framework is it related to?** Quartz is the graphics API for iOS and macOS. Quartz is practically synonymous with Core Graphics.
 - **What are the two components of Quartz?** Quartz 2D for 2D rendering, and Quartz Compositor for compositing.
 - **What important technology is Quartz backed by?** OpenGL
 - **How do UIKit classes and methods like `drawRect` work with Core Graphics?** UIKit configures a context and sets it as the current context before calling `drawRect`, so classes like `UIBezierPath` can use it automatically.
