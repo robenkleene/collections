@@ -71,7 +71,8 @@
 - **What is the stack vs. the heap?** The stack is memory that is used for variables scoped to functions, that isn't dynamically allocated. Since the stack is a stack, memory is allocated and released LIFO. The heap is always used for memory that is explicitly allocated.
 - **What are the advantages of the stack vs. the heap?** The stack is faster, because of the execution overhead of `malloc()` and `free()`, but the heap can be any size.
 - **Where are the stack and heap stored?** They're both stored in RAM.
-- **When are stack and heap memory allocated?** The stack is allocated at runtime and the heap is allocated at compile time. (Compile time really means load time.)
+- **When is stack memory allocated?** The stack is allocated at runtime.
+- **When is heap memory allocated?** The heap is allocated at compile time (which really means load time).
 - **How do you allocate a variable to the stack vs. the heap in C?** A variable scoped to a function, e.g., `main() { int x }` is stored on the stack, memory allocated with `malloc()` is stored on the heap.
 - **Are value types and reference types generally stored on the stack or the heap?** Value types are stored in the stack, and reference types are stored in the heap.
 - **Why are reference types always stored on the heap?** Reference types are pointers, and pointers point to a memory location on the heap.

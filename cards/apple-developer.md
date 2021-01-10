@@ -46,8 +46,10 @@
 
 ### Types
 
-- **In Swift, what are examples of types?** Named types are `class`, `enum`, `struct`, or `protocol`. There are also two compound types (types without a name): Function types and tuple types.
-- **In Swift, where are built-in types defined?** Named types are defined in the standard library, compound types are defined in the Swift language itself.
+- **In Swift, what are named types?** `class`, `enum`, `struct`, and `protocol`
+- **In Swift, what are the two compound types?** Function types and tuple types
+- **In Swift, where are built-in named types defined?** The standard library
+- **In Swift, where are the two compound types defined?** In the Swift language itself.
 - **In Swift, how are named types in the standard library defined?** `struct`
 
 ## Memory Management
