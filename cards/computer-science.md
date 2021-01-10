@@ -41,6 +41,9 @@
     ```
 
     O(A * B)
+- **What is "little-o notation"?** A loose upper bounds.
+- **How is little-o expressed?**
+- **Which is the stronger statement and why, little o or big O?** 
 
 ### Sorting
 
@@ -72,7 +75,8 @@
 - **How do you allocate a variable to the stack vs. the heap in C?** A variable scoped to a function, e.g., `main() { int x }` is stored on the stack, memory allocated with `malloc()` is stored on the heap.
 - **Are value types and reference types generally stored on the stack or the heap?** Value types are stored in the stack, and reference types are stored in the heap.
 - **Why are reference types always stored on the heap?** Reference types are pointers, and pointers point to a memory location on the heap.
-- **What does a "stack overflow" mean? When do they happen?** A stack overflow happens when too many calls are put on the call stack. The most-common cause is recursion that fails to terminate.
+- **What is a "stack overflow"?** A stack overflow is when a program exceeds the amount of memory available for the call stack and in overwrites adjacent data in the call stack.
+- **What is the most common cause of a stack overflow?** Recursion that fails to terminate.
 - **What is FIFO and LIFO?** First in, first out (a queue), and last in, first out (a stack).
 - **What is dynamic memory allocation?** Memory allocated at runtime on the heap (e.g., `malloc()`).
 - **What is static memory allocation?** Memory allocated at compile time (load time).
