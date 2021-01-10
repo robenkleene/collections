@@ -129,6 +129,12 @@
 - **How do you traverse a tree depth-first recursively?** Recursively call the function with each child.
 - **Why is it impractical to traverse a tree breadth-first?** Breadth-first tree traversal uses a queue, which isn't available when recursing the same that the a depth-first search uses the call stack as a stack.
 
+## Object-Orientated Programming
+
+- **What is a concrete type?** A type that can be instantiated.
+- **What is a abstract type?** A type that cannot be instantiated.
+- **What is instantiation?** Creating an instance.
+
 ## Recursion
 
 - **In recursion, what is each recursive call called?** A recursive step.

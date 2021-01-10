@@ -5,3 +5,4 @@
 - **When was the first iPhone released?** June 29th, 2007
 - **When was the first iPad announced?** January 27, 2010
 - **When was the first iPad released?** April 3rd, 2010
+- **What does "opaque" mean?** Not transparent.
