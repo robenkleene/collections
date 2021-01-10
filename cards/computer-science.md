@@ -41,9 +41,9 @@
     ```
 
     O(A * B)
-- **What is "little-o notation"?** A loose upper bounds.
-- **How is little-o expressed?**
-- **Which is the stronger statement and why, little o or big O?** 
+- **What is "little-o notation"?** A loose upper bounds, equivalent to `<`, where as Big O is equivalent to `=<`.
+- **How is little-o expressed?** `o(n^2)`
+- **Which is the stronger statement, little o or big O?** Little o
 
 ### Sorting
 
