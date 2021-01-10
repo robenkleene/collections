@@ -46,7 +46,7 @@
 
 ### Types
 
-- **In Swift, what are named types?** `class`, `enum`, `struct`, and `protocol`
+- **In Swift, what are named types?** A type with a name, e.g., a `class`, `enum`, `struct`, or `protocol`.
 - **In Swift, what are the two compound types?** Function types and tuple types
 - **In Swift, where are built-in named types defined?** The standard library
 - **In Swift, where are the two compound types defined?** In the Swift language itself.
