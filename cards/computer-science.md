@@ -48,7 +48,7 @@
 ### Sorting
 
 - **How does quicksort work?** First choose an item to be the pivot (either randomly or use the middle item), then iterate over each item in the list and place it correctly relative to the pivot, on the right or left side. Now the pivot is in the correct position. Recursively do the same to the arrays to the right and the left of the pivot.
-- **What does it mean for a sorting algorithm to be stable?** Equal items are in the same order in the result as they were in the input.
+- **What does it mean for a sorting algorithm to be stable?** That the order of items is preserved for equal items.
 - **How does the bubble sort algorithm work?** Sort items in-place by repeatedly iterate the list and put adjacent items in the correct order.
 - **How does the selection sort algorithm work?** Sort items in-place by repeatedly finding the smallest (or largest item) item and putting it in the correct order in a sorted subarray.
 - **How does the insertion sort algorithm work?** Sort items in-place by repeatedly finding the correct position of each item and placing it in a sorted subarray.
