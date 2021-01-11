@@ -56,9 +56,15 @@
 ### Arrays
 
 - **In Swift, how do you create an array from a string?** `Array("string")`
-- **In Swift, how do you get an `ArraySlice` with the first or last items of an array?** `dropFirst(_ k: Int = 1)`, `dropLast(_ k: Int)`
+- **In Swift, how do you get an `ArraySlice` with just the first or last items of an array?** `dropFirst(_ k: Int = 1)`, `dropLast(_ k: Int)`
 - **In Swift, how do you get an `ArraySlice` of an arbitrary subarray?** Use a `Range` as the subscript, e.g., `arr(0..<4)`.
 - **In Swift, why do some methods return `ArraySlice` instead of an array?** To avoid overhead of creating a new array.
+
+### Strings
+
+- **In Swift, why can't you access a substring with a range like you can for an array (e.g., `array[0..<5]`)?** `String` does not support random access, because support for Unicode means that characters aren't the same size.
+- **In Swift, how do you get a substring of just the first or last characters?** `string.suffix(3)`, `string.prefix(3)`
+- **In Swift, how do you create an arbitrary substring from a string?**
 
 ### Types
 
