@@ -19,7 +19,7 @@
 - **Which year were the Intolerable Acts passed?** 1774
 - **What was the Boston Tea Party? When did it happen?** To protest the Tea Act, members of the Sons of Liberty, some dressed as Native Americans, threw tea sitting on East India Company ships into the Boston Harbor.
 - **When did the Boston Tea Party happen?** December 16, 1773
-- **What was Paul Revere's Midnight Ride?** Revere from Charlestown rode to meet John Hancock and Samuel Adams in Lexington, then they headed towards Concord, but were captured by British troops in Lincoln along the way.
+- **What was Paul Revere's Midnight Ride?** Revere's rode to alert the colonial militia of the British advance by sea by way of the Charles River. Revere rode from Boston to Lexington, where he alerted John Hancock and Samuel Adams, then headed towards Concord, but was captured by the British en route.
 - **Which battle did Paul Revere's Midnight Ride precede?** Battles of Lexington and Concord
 - **What were the first military engagements of the American Revolutionary war?** Battles of Lexington and Concord
 - **When was Paul Revere's Midnight Ride?** April 18, 1775
