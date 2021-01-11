@@ -46,16 +46,19 @@
 
 ### Ranges
 
-- **In Swift, how do you make half-opened range?** `1..<5`
-- **In Swift, how do you make closed range?** `1...5`
-- **In Swift, what is `..<` called?** The half-open range operator.
+- **In Swift, how do you create a half-opened range?** `1..<5`
+- **In Swift, how do you create a closed range?** `1...5`
+- **In Swift, what is a range created with the `..<` operator called?** A half-opened range
+- **In Swift, what is a range created with the `...` operator called?** A closed range
+- **In Swift, what is `..<` called?** The half-open range operator
+- **In Swift, what is `...` called?** The closed range operator
 
 ### Arrays
 
 - **In Swift, how do you create an array from a string?** `Array("string")`
 - **In Swift, how do you get an `ArraySlice` with the first or last items of an array?** `dropFirst(_ k: Int = 1)`, `dropLast(_ k: Int)`
-- **In Swift, how do you get an `ArraySlice` of an arbitrary subarray?** Use a `Range` as the subscript, e.g., `arr(0..<4)`
-- **In Swift, why do some methods return `ArraySlice` instead of array?** 
+- **In Swift, how do you get an `ArraySlice` of an arbitrary subarray?** Use a `Range` as the subscript, e.g., `arr(0..<4)`.
+- **In Swift, why do some methods return `ArraySlice` instead of an array?** To avoid overhead of creating a new array.
 
 ### Types
 
