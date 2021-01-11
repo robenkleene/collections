@@ -52,9 +52,10 @@
 
 ### Arrays
 
+- **In Swift, how do you create an array from a string?** `Array("string")`
 - **In Swift, how do you get an `ArraySlice` with the first or last items of an array?** `dropFirst(_ k: Int = 1)`, `dropLast(_ k: Int)`
-- **In Swift, how do you get an `ArraySlice` of an arbitrary subarray?**
-- **In Swift, why do some methods return `ArraySlice` instead of array?**
+- **In Swift, how do you get an `ArraySlice` of an arbitrary subarray?** Use a `Range` as the subscript, e.g., `arr(0..<4)`
+- **In Swift, why do some methods return `ArraySlice` instead of array?** 
 
 ### Types
 
