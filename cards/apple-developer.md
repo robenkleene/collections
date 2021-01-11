@@ -62,7 +62,7 @@
 
 ### Strings
 
-- **In Swift, why can't you access a substring with a range like you can for an array (e.g., `array[0..<5]`)?** `String` does not support random access, because support for Unicode means that characters aren't the same size.
+- **In Swift, why can't you access a substring with a range like you can for an array (e.g., `array[0..<5]`)?** `String` does not support random access because Unicode characters are variable size.
 - **In Swift, how do you get a substring of just the first or last characters?** `string.suffix(3)`, `string.prefix(3)`
 - **In Swift, how do you create an arbitrary substring from a string?** Create a start and end index with `str.index(str.startIndex, offsetBy: 7)`, then use the start and end index as a range subscript `str[start..<end]`.
 
