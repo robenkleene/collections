@@ -44,6 +44,18 @@
 - **In Swift, what does putting an `&` in front of a variable name do?** It means pass that variable by reference instead of by value. It must be used when passing in `inout` arguments.
 - **In Swift, how do you add a `description` to a type?** Make it conform to `CustomStringConvertible`.
 
+### Ranges
+
+- **In Swift, how do you make half-opened range?** `1..<5`
+- **In Swift, how do you make closed range?** `1...5`
+- **In Swift, what is `..<` called?** The half-open range operator.
+
+### Arrays
+
+- **In Swift, how do you get an `ArraySlice` with the first or last items of an array?** `dropFirst(_ k: Int = 1)`, `dropLast(_ k: Int)`
+- **In Swift, how do you get an `ArraySlice` of an arbitrary subarray?**
+- **In Swift, why do some methods return `ArraySlice` instead of array?**
+
 ### Types
 
 - **In Swift, what are named types?** A type with a name, e.g., a `class`, `enum`, `struct`, or `protocol`.
