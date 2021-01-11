@@ -17,12 +17,12 @@
 - **When did the Tea Act receive royal assent?** May 10th, 1773
 - **What were the Intolerable Acts?** Punitive laws passed by the British Parliament to punish the colonies after the Boston Tea Party.
 - **Which year were the Intolerable Acts passed?** 1774
-- **What was the Boston Tea Party? When did it happen?** To protest the Tea Act, members of the Sons of Liberty, some dressed as Native Americans, threw tea sitting on East India Company ships into the Boston Harbor.
+- **What was the Boston Tea Party?** To protest the Tea Act, members of the Sons of Liberty, some dressed as Native Americans, threw tea from East India Company's ships into the Boston Harbor.
 - **When did the Boston Tea Party happen?** December 16, 1773
-- **What was Paul Revere's Midnight Ride?** Revere's ride to warn the colonial militia that the British were advancing from the Charles River.
+- **What was Paul Revere's Midnight Ride?** Revere rode to warn the colonial militia that the British were advancing from the Charles River.
+- **When was Paul Revere's Midnight Ride?** April 18, 1775
 - **Where did Paul Revere ride? Who did he meet?** Revere rode from Boston to Lexington, where he warned John Hancock and Samuel Adams, then headed towards Concord.
 - **How did Paul Revere's ride end?** He was captured by the British en route to Concord.
-- **Which battle did Paul Revere's Midnight Ride precede?** Battles of Lexington and Concord
-- **What were the first military engagements of the American Revolutionary war?** Battles of Lexington and Concord
-- **When was Paul Revere's Midnight Ride?** April 18, 1775
 - **Where does the phrase "one if by land, two if by sea" come from? What was the result?** Paul Revere's instructions to warn the colonial militia in Charlestown about the movements of the British troops. Two lanterns were used because the British came by sea, across the Charles River.
+- **Which battle was preceded by Paul Revere's Midnight Ride?** The Battles of Lexington and Concord
+- **What were the first military engagements of the American Revolutionary war?** The Battles of Lexington and Concord
