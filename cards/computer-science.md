@@ -157,6 +157,7 @@
 - **How do you make a positive number negative with bitwise operations?**
 - **What is `2` in binary?** `10`
 - **What is `-2` in binary?** `01`
+- **What are the numbers one through four in binary?**
 
 ## Trivia
 
