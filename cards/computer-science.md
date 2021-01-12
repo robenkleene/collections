@@ -146,9 +146,8 @@
 - **What will the value of a bitwise `&` be relative to its operands?** Less than or equal to the lowest number.
 - **What will the value of a bitwise `|` be relative to its operands?** Greater than or equal to the highest number.
 - **What is the `^` bitwise operator?** Exclusive OR, `3 & 5 = 6` (`011 & 101 = 110`)
-- **What is the `^` bitwise operator called?** Exclusive OR
-- **What does the `<<` bitwise operator do?**
-- **What does the `>>` bitwise operator do?**
+- **What is the `<<` bitwise operator?**
+- **What is the `>>` bitwise operator?**
 - **What are the `<<` and `>>` bitwise operators called?** Left and right shift
 - **What does `x << 1` do to the value of `x`? What about `x << 2` and `x << 3`?**
 - **What is the `~` bitwise operator called?** One's complement or unary operator
