@@ -21,15 +21,18 @@
 
 ### Core Data
 
-- **What does `NSPersistentContainer` do?** It sets up Core Data stack: The managed object model, persistent store coordinator, and managed object context.
+- **What does `NSPersistentContainer` do?** It sets up the three Core Data classes: `NSManagedObjectModel`, `NSPersistentStoreCoordinator`, and `NSManagedObjectContext`.
 - **When was `NSPersistentContainer` introduced?** 2016, iOS 10, macOS Sierra 10.12.
 - **What is an `NSManagedObjectContext` do?** An in-memory object graph.
 - **Describe how multiple `NSManagedObjectContext` can interact with the same object.** Multiple `NSManagedObjectContext` can have their own copies of the same object.
 - **What is an `NSManagedObjectModel`?** An in-memory representation schema.
 - **What does `NSPersistentStoreCoordinator` do?** Coordinates between the managed object context and persistent store.
 - **What does `NSPersistentStore` do?** A wrapper around the persistent store itself, either SQLite, Binary, XML, or In-Memory.
-- **How do you do Core Data work on a background queue?** Setup a child context with a private concurrency type, and use perform block to do the work, when you save the child context, the changes will be propagated up to the parent context. Changes are propagated only one level up, so to save to the persistent store, save on the main managed object as well.
-- **In Core Data, how does saving on child contexts work?** A save propagates changes one level up, so a child context propagates to its parent, a root context saves to the persistent store.
+- **How do you use Core Data on a background queue?** Setup a child context with a private concurrency type, perform work on its internal queue, when you save the child context, the changes will be propagated up to the parent context.
+- **With Core Data, how do you perform work on a child `NSManagedObjectContext` internal queue?** `performBlock { }`
+- **With Core Data, how do you initialize a background `NSManagedObjectContext`?** `NSManagedObjectContext(concurrencyType: .PrivateQueueConcurrencyType)`
+- **In Core Data, what happens when you save on a child context?** The save propagates changes one level up, so a child context propagates to its parent.
+- **In Core Data, what happens when you save on the root context?** The save is propagated to the persistent store.
 
 ## Swift
 
@@ -41,8 +44,8 @@
 - **In Swift, how do you make a function parameter mutable?** Just assign it a `var` in the function body `var parameter = parameter`.
 - **In Swift, what is an`inout` parameter?** It makes the parameter mutable, and it assigns the parameter's value back to the argument when the function ends.
 - **In Swift, how are `inout` arguments passed in?** Preceded with an ampersand `myFunc(&myValue)`.
-- **In Swift, what does putting an `&` in front of a variable name do?** It means pass that variable by reference instead of by value. It must be used when passing in `inout` arguments.
-- **In Swift, how do you add a `description` to a type?** Make it conform to `CustomStringConvertible`.
+- **In Swift, what does putting an `&` in front of a variable name do? When is it used?** It passes in the variable by reference instead of by value, it's used when passing in `inout` arguments.
+- **In Swift, which protocol adds a `description` to a type?** `CustomStringConvertible`
 
 ### Ranges
 
