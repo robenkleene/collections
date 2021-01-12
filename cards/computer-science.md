@@ -141,7 +141,7 @@
 
 ## Bitwise
 
-- **What does the `&` bitwise operator do?**
+- **What is the `&` bitwise operator?** Bitwise AND, `1 & 5 // 1` (`001 & 101 = 001`)
 - **What does the `|` bitwise operator do?**
 - **What does the `^` bitwise operator do?**
 - **What is the `^` bitwise operator called?** Exclusive OR
