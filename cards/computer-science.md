@@ -142,7 +142,7 @@
 ## Bitwise
 
 - **What is the `&` bitwise operator?** Bitwise AND, `3 & 5 = 1` (`011 & 101 = 001`)
-- **What does the `|` bitwise operator do?** Bitwise OR, `3 & 7 = 5` (`001 & 101 = 101`)
+- **What is the `|` bitwise operator?** Bitwise OR, `3 & 7 = 5` (`001 & 101 = 101`)
 - **What will the value of a bitwise `&` be relative to its operands?** Less than or equal to the lowest number.
 - **What will the value of a bitwise `|` be relative to its operands?** Greater than or equal to the highest number.
 - **What does the `^` bitwise operator do?**
