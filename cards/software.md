@@ -1,5 +1,9 @@
 # Software
 
+## Fish
+
+- **In Fish, how do you do process substitution, (e.g., `<(cat file.txt)`)?** Pipe to `psub`.
+
 ## Bash
 
 - **In Bash, how do you remove new lines?** `tr -d '\n'`
