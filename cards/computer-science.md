@@ -141,12 +141,12 @@
 
 ## Bitwise
 
-- **What is the `&` bitwise operator?** Bitwise AND, `3 & 5 = 1` (`011 & 101 = 001`)
-- **What is the `|` bitwise operator?** Bitwise OR, `3 & 5 = 7` (`011 & 101 = 101`)
+- **What is the `&` bitwise operator?** Bitwise AND, `3 & 5 = 1 // 011 & 101 = 001`
+- **What is the `|` bitwise operator?** Bitwise OR, `3 & 5 = 7 // 011 & 101 = 101`
 - **What will the value of a bitwise `&` be relative to its operands?** Less than or equal to the lowest number.
 - **What will the value of a bitwise `|` be relative to its operands?** Greater than or equal to the highest number.
-- **What is the `^` bitwise operator?** Exclusive OR, `3 & 5 = 6` (`011 & 101 = 110`)
-- **What is the `<<` bitwise operator?**
+- **What is the `^` bitwise operator?** Exclusive OR, `3 & 5 = 6 // 011 & 101 = 110`
+- **What is the `<<` bitwise operator?** Left shift, `5 << 3 //000101 << 3 = 101000`
 - **What is the `>>` bitwise operator?**
 - **What are the `<<` and `>>` bitwise operators called?** Left and right shift
 - **What does `x << 1` do to the value of `x`? What about `x << 2` and `x << 3`?**
