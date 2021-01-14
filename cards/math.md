@@ -11,3 +11,6 @@
 
     ![Parabola](assets/parabola.png)
 - **What is the Cartesian product?** All permutations of the members of two sets.
+- **What is an open interval?** An interval that does not include its endpoints.
+- **What is a closed interval?** An interval that does include its endpoints.
+- **What is a half-open interval?** An interval that includes only one of its endpoints.

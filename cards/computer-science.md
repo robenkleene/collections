@@ -102,7 +102,6 @@
 - **What is the term for when an item in a sequence can be accessed directly?** Random access
 - **What is the term for when an items in a sequence can only be accessed in order?** Sequential access
 
-
 ## Algorithms
 
 - **How does lossless compression work?** By reducing redundancy.
