@@ -131,7 +131,8 @@
 ### Trees
 
 - **How do you find the shortest path to a node in a tree?** Just have each node store a reference to its parent, and walk up the parent nodes.
-- **How do you traverse a tree iteratively? How do you switch between depth-first and breadth-first? How do you return the path taken?** Create an array with just the root node to use as a queue or stack of nodes to visit, and create a set to track visited nodes. Loop until the stack is empty: Pop a node, add it to visited, and add its children to the end of the queue or stack. A queue is breadth-first and a stack is depth-first. Use an array for visited and return it to get the path taken.
+- **How do you traverse a tree iteratively?** Create an array of nodes to visit, starting with just the root node. Loop until the array is empty, removing a node from the array and add its children to the end of the array.
+- **When traversing a tree iteratively, how do you switch between a depth-first and breadth-first search?** A queue is breadth-first and a stack is depth-first.
 - **How do you traverse a tree depth-first recursively?** Recursively call the function with each child.
 - **Why is it impractical to traverse a tree breadth-first?** Breadth-first tree traversal uses a queue, which isn't available when recursing the same that the a depth-first search uses the call stack as a stack.
 
