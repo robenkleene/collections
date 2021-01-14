@@ -95,7 +95,7 @@
 - **What is a priority queue?** A queue with a priority property.
 - **What is a queue? When should it be used?** A first in, first out (FIFO) data structure. It's used when order is important.
 - **What is a stack? When should it be used?** A last in, first out (LIFO) data structure. The call stack and the memory stack are examples, it's also an easy optimization when populating a cache.
-- **What is the difference between processing an array of jobs as a stack and a queue?** When removing an item to process, is it removed from the beginning (queue) or end of the array (stack).
+- **What is the difference between processing an array of jobs as a stack or a queue?** Removing the next item to process from the beginning (queue) or end (stack) of the array.
 - **What are the advantages of linked lists over arrays and vice-versa?** - Linked lists don't have a fixed size, and elements don't have to be shifted after insertion and removal, whereas arrays do.
 
     - Arrays support random access, whereas linked lists only support sequential access.
@@ -105,8 +105,14 @@
 
 ## Algorithms
 
-- **How do you design a data compression algorithm?** Compression is either lossy or lossless. Lossless compression works by reducing redundancy. Lossy compression works by removing less important information.
-- **What is Huffman Coding? What is its time complexity?** Symbols are stored in a priority queue where a bit string describing the path to each symbol (`0` for the left node, `1` for the right) is used as a code word. The code words follow the "prefix property" where no code word has a prefix matching a shorter code word, thereby assuring individual code words can be uniquely parsed from a bit string. The compressed data is then stored as a bit string. The bit string is shorter than the original data because more common symbols have shorter code words. The time complexity of encoding is `O(n log n)`, `log n` to insert each symbol into the heap (for the priority queue), and `n` to iterate over each symbol. Decoding is `O(n)` to iterate over the bit string (look up time for a heap is `O(1)`).
+- **How does lossless compression work?** By reducing redundancy.
+- **How does lossy compression work?** By removing less important information.
+- **Which data structure does Huffman Coding store symbols in?** A priority queue (heap)
+- **How does Huffman Coding track the path to a symbol?** A bit string describes the path to each symbol (`0` for the left node, `1` for the right).
+- **How does Huffman Coding assure that encoded data can be parsed into unique code words?** The code words follow the "prefix property" where no code word has a prefix matching a shorter code word, thereby assuring individual code words can be uniquely parsed from a bit string.
+- **What is the result of compressing data with Huffman Coding?** A bit string made of up code words that are paths to each symbol.
+- **How is data compressed with Huffman Coding assured to be smaller than the original data?** More common symbols will have shorter code words.
+- **What's the time complexity of Huffman Coding?** The time complexity of encoding is `O(n log n)`, `log n` to insert each symbol into the heap (for the priority queue), and `n` to iterate over each symbol. Decoding is `O(n)` to iterate over the bit string (look up time for a heap is `O(1)`).
 - **How does the MP3 compression algorithm work?** By removing sound information outside of the audible frequency range and applying a Huffman coding.
 - **How does the JPG compression algorithm work?** By removing color information that's less perceptible by humans, and applying Huffman coding.
 - **What is Dijkstra's Dutch national flag problem?** Sort an array with any number of items, each representing one of three colors.
