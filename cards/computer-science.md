@@ -107,12 +107,13 @@
 
 - **How does lossless compression work?** By reducing redundancy.
 - **How does lossy compression work?** By removing less important information.
-- **Which data structure does Huffman Coding store symbols in?** A priority queue (heap)
+- **Which data structure does Huffman Coding use to store symbols?** A priority queue (heap)
 - **How does Huffman Coding track the path to a symbol?** A bit string describes the path to each symbol (`0` for the left node, `1` for the right).
-- **How does Huffman Coding assure that encoded data can be parsed into unique code words?** The code words follow the "prefix property" where no code word has a prefix matching a shorter code word, thereby assuring individual code words can be uniquely parsed from a bit string.
+- **How does Huffman Coding assure that encoded data can be parsed into unique code words?** The code words follow the "prefix property" where no code word has a prefix matching a shorter code word, therefore individual code words can be uniquely parsed from a bit string.
 - **What is the result of compressing data with Huffman Coding?** A bit string made of up code words that are paths to each symbol.
 - **How is data compressed with Huffman Coding assured to be smaller than the original data?** More common symbols will have shorter code words.
-- **What's the time complexity of Huffman Coding?** The time complexity of encoding is `O(n log n)`, `log n` to insert each symbol into the heap (for the priority queue), and `n` to iterate over each symbol. Decoding is `O(n)` to iterate over the bit string (look up time for a heap is `O(1)`).
+- **What is the time complexity encoding with Huffman Coding? Based on which operations?** `O(n log n)`, `log n` to insert each symbol into the heap (for the priority queue), and `n` to iterate over each symbol.
+- **In Huffman Coding, what is the time complexity of decoding? Based on which operations**? `O(n)` to iterate over the bit string (look up time for a heap is `O(1)`).
 - **How does the MP3 compression algorithm work?** By removing sound information outside of the audible frequency range and applying a Huffman coding.
 - **How does the JPG compression algorithm work?** By removing color information that's less perceptible by humans, and applying Huffman coding.
 - **What is Dijkstra's Dutch national flag problem?** Sort an array with any number of items, each representing one of three colors.
