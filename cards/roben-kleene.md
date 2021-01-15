@@ -9,3 +9,4 @@
 - **What is the question "what are your salary expectations" really asking** "Please take a wild guess at what we're willing to pay for this position?"
 - **How do you answer questions like "we want to make sure the salary range meets your requirements"** Sure, if you let me know the salary range I'll let you know is we're close.
 - **How do you avoid giving your current salary if they persist?** "I'm not comfortable sharing proprietary information about how my previous employers pay people like me.
+- **How do you answer questions about your salary expectations?** "I honestly don't have a number in mind, for this position I'll definitely be evaluating the whole package, which of course would include benefits. What's the salary range for the position?"
