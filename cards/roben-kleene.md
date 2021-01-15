@@ -7,3 +7,4 @@
 - **When was the first iPad released?** April 3rd, 2010
 - **What does "opaque" mean?** Not transparent.
 - **What is the question "what are your salary expectations" really asking** "Please take a wild guess at what we're willing to pay for this position?"
+- **How do you answer questions like "we want to make sure the salary range meets your requirements"** Sure, if you let me know the salary range I'll let you know is we're close.
