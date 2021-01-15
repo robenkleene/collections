@@ -6,3 +6,4 @@
 - **When was the first iPad announced?** January 27, 2010
 - **When was the first iPad released?** April 3rd, 2010
 - **What does "opaque" mean?** Not transparent.
+- **What is the question "what are your salary expectations" really asking** "Please take a wild guess at what we're willing to pay for this position?"
