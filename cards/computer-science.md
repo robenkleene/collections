@@ -102,6 +102,12 @@
 - **What is the term for when an item in a sequence can be accessed directly?** Random access
 - **What is the term for when an items in a sequence can only be accessed in order?** Sequential access
 
+### Arrays
+
+- **Given an array index `i`, how do you calculate the number of indexes less than `i`?** `i - 1`
+- **Given an array with a highest index of `n` and an index value `i`, how do you calculate the number of indexes greater than `i`?** `n - i`
+- **Given an array with a length of `n` and an index value `i`, what does `n - i` calculate?** The number of indexes greater than or equal to `i`.
+
 ## Algorithms
 
 - **How does lossless compression work?** By reducing redundancy.
