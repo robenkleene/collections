@@ -108,8 +108,8 @@
 - **Given an array with a highest index of `n` and an index value `i`, how do you calculate the number of indexes greater than `i`?** `n - i`
 - **Given an array with a length of `n` and an index value `i`, what does `n - i` calculate?** The number of indexes greater than or equal to `n`.
 - **How do you calculate the highest index of an array?** Take the length and subtract one.
-- **How do you get the midpoint of an array?**
-- **How do you get the midpoint of a range?**
+- **How do you get the midpoint of an array?** Integer divide the length by 2.
+- **How do you get the midpoint of a range?** Integer divide the start plus the end by 2.
 
 ## Algorithms
 
