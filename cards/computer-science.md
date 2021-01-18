@@ -127,7 +127,8 @@
 - **What is Dijkstra's Dutch national flag problem?** Sort an array with any number of items, each representing one of three colors.
 - **How do you solve Dijkstra's Dutch national flag problem? What is the time complexity of the solution?** Iterate the array keeping track of indexes for the current item, the count of the lowest item found, and the length of the array minus the count of the highest item found. If the current item is the lowest item, swap it with the index of the count of lowest items, if it's the highest item, swap it with the array length minus highest count, then adjust the highest and lowest counts accordingly, and increment the current item. (If it's the middle item, only increment the current item.) The time complexity is `O(n)`.
 - **What's the name of the problem where you need to sort any of number of items each of one of three different values?** Dijkstra's Dutch national flag problem
-- **How do you binary search an array?** Set two variables to the start and end indexes of an array. Loop while the start is less than the end: Get the value at the midpoint between the start and the end. If the target is less, set the end to the midpoint minus one, if it's greater, set the start to the midpoint plus one.
+- **How do you iteratively binary search an array?** Set two variables to the start and end indexes of an array. Loop while the start is less than the end: Get the value at the midpoint between the start and the end. If the target is less, set the end to the midpoint minus one, if it's greater, set the start to the midpoint plus one.
+- **How do you recursively binary search an array?** 
 
 ### Dynamic Programming
 
