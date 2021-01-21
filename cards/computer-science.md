@@ -113,6 +113,12 @@
 
 ## Algorithms
 
+- **What is Dijkstra's Dutch national flag problem?** Sort an array with any number of items, each representing one of three colors.
+- **How do you solve Dijkstra's Dutch national flag problem? What is the time complexity of the solution?** Iterate the array keeping track of indexes for the current item, the count of the lowest item found, and the length of the array minus the count of the highest item found. If the current item is the lowest item, swap it with the index of the count of lowest items, if it's the highest item, swap it with the array length minus highest count, then adjust the highest and lowest counts accordingly, and increment the current item. (If it's the middle item, only increment the current item.) The time complexity is `O(n)`.
+- **What's the name of the problem where you need to sort any of number of items each of one of three different values?** Dijkstra's Dutch national flag problem
+
+### Compression
+
 - **How does lossless compression work?** By reducing redundancy.
 - **How does lossy compression work?** By removing less important information.
 - **Which data structure does Huffman Coding use to store symbols?** A priority queue (heap)
@@ -124,12 +130,18 @@
 - **With Huffman Coding, what is the time complexity of decoding? Based on which operations?** `O(n)` to iterate over the bit string (look up time for a heap is `O(1)`).
 - **How does the MP3 compression algorithm work?** By removing sound information outside of the audible frequency range and applying a Huffman coding.
 - **How does the JPG compression algorithm work?** By removing color information that's less perceptible by humans, and applying Huffman coding.
-- **What is Dijkstra's Dutch national flag problem?** Sort an array with any number of items, each representing one of three colors.
-- **How do you solve Dijkstra's Dutch national flag problem? What is the time complexity of the solution?** Iterate the array keeping track of indexes for the current item, the count of the lowest item found, and the length of the array minus the count of the highest item found. If the current item is the lowest item, swap it with the index of the count of lowest items, if it's the highest item, swap it with the array length minus highest count, then adjust the highest and lowest counts accordingly, and increment the current item. (If it's the middle item, only increment the current item.) The time complexity is `O(n)`.
-- **What's the name of the problem where you need to sort any of number of items each of one of three different values?** Dijkstra's Dutch national flag problem
+
+### Binary Search
+
 - **How do you iteratively binary search an array?** Set two variables to the start and end indexes of an array. Loop while the start is less than the end: Get the value at the midpoint between the start and the end. If the target is less, set the end to the midpoint minus one, if it's greater, set the start to the midpoint plus one. Otherwise return the midpoint.
 - **How do you recursively binary search an array?** Take the start and end as parameters defaulting to the start and end of the array. Set a base case to return nothing if the start is greater than the end. Get the value at the midpoint between the start and the end. If the target is less, recursively call the function with the end as midpoint minus one, if it's greater, recursively call it with the start as the midpoint plus one. Otherwise return the midpoint.
+
+### Sort
+
 - **How do you implement selection sort on an array?** Iterate through each index: Get the index and value of the lowest item with an index greater than the current index, then swap the value of the lowest item with the item at the current index.
+
+### Least Recently Used Cache
+
 - **Which state do you need to implement a least recently used cache?** An associative array to be able to look up a value by key, a doubly linked list to keep track of the order values were accessed, a capacity, and a current size.
 - **How do you implement a least recently used cache?** Create an associative array and a doubly linked list, the associative array is the key-value store, and the linked list keeps track of the order an item was accessed (it's doubly linked so a node can delete itself in `O(1)`). Create an integer capacity and a counter for the current size. Make a node class that has a key and value. When accessing a key-value pair, move its node to the head of the linked list. When adding a key-value pair, if the cache is over capacity, then remove the key-value pair for the tail node.
 - **What is a trick for deleting a node that you just have a pointer to in a singly linked list in `O(1)`? What has to be true for this technique to work?** Set the nodes value to the value of the next node, and delete the next node. The list must be circular for this technique to work, otherwise you can't delete the last node.
