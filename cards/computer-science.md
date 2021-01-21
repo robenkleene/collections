@@ -121,7 +121,8 @@
 
 ### Combinations & Permutations
 
-
+- **How do you find every permutation of two sets?**
+- **How do you find every combination of two sets?**
 
 ### Compression
 
