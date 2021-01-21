@@ -121,10 +121,10 @@
 
 ### Combinations & Permutations
 
-- **How do you find every permutation of two lists?**
-- **How do you find every combination of two lists?**
-- **How do you find the count of combinations of two lists?**
-- **How do you find the count of permutations of two lists?**
+- **How do you find every combination of two lists?** Iterate both arrays nested, and combine items.
+- **How do you find every permutation of two lists?** Iterate both arrays nested, and combine items in both orders.
+- **How do you find the count of combinations of two lists?** Multiple the counts of each list.
+- **How do you find the count of permutations of two lists?** Multiple the counts of each list and double it.
 
 ### Compression
 
