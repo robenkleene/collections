@@ -130,6 +130,8 @@
 - **How do you iteratively binary search an array?** Set two variables to the start and end indexes of an array. Loop while the start is less than the end: Get the value at the midpoint between the start and the end. If the target is less, set the end to the midpoint minus one, if it's greater, set the start to the midpoint plus one. Otherwise return the midpoint.
 - **How do you recursively binary search an array?** Take the start and end as parameters defaulting to the start and end of the array. Set a base case to return nothing if the start is greater than the end. Get the value at the midpoint between the start and the end. If the target is less, recursively call the function with the end as midpoint minus one, if it's greater, recursively call it with the start as the midpoint plus one. Otherwise return the midpoint.
 - **How do you implement selection sort on an array?** Iterate through each index: Get the index and value of the lowest item with an index greater than the current index, then swap the value of the lowest item with the item at the current index.
+- **How do you implement a least recently used cache?** Create an associative array and a linked list, the associative array is the key-value store, and the linked list keeps track of the order an item was accessed. Create an integer capacity and a counter for the current size.
+Make a node class that has a key and value. When accessing a key-value pair, move its node to the head of the linked list. When adding a key-value pair, if the cache is over capacity, then remove the oldest node.
 
 ### Dynamic Programming
 
