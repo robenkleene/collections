@@ -121,8 +121,10 @@
 
 ### Combinations & Permutations
 
-- **How do you find every permutation of two sets?**
-- **How do you find every combination of two sets?**
+- **How do you find every permutation of two lists?**
+- **How do you find every combination of two lists?**
+- **How do you find the count of combinations of two lists?**
+- **How do you find the count of permutations of two lists?**
 
 ### Compression
 
