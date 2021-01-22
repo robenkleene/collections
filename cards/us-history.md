@@ -26,3 +26,5 @@
 - **Where does the phrase "one if by land, two if by sea" come from? What was the result?** Paul Revere's instructions to warn the colonial militia in Charlestown about the movements of the British troops. Two lanterns were used because the British came by sea, across the Charles River.
 - **Which battle was preceded by Paul Revere's Midnight Ride?** The Battles of Lexington and Concord
 - **What were the first military engagements of the American Revolutionary war?** The Battles of Lexington and Concord
+- **In which order did the following events happen? Boston Massacre, Boston Tea Party, Intolerable Acts passed, Revolutionary War starts, Stamp Act pass, Stamp Act repealed, Tea Act passes, Townshend Acts passed, Townshend Acts repealed.** Stamp Act pass, Stamp Act repealed, Townshend Acts passed, Boston Massacre, Townshend Acts repealed, Tea Act passes, Boston Tea Party, Intolerable Acts passed,  Revolutionary War starts.
+- **What are the key years leading to the Revolutionary War?** 1765-1775
