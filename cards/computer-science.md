@@ -151,8 +151,8 @@
 
 ### Least Recently Used Cache
 
-- **Which state do you need to implement a least recently used cache?** An associative array to be able to look up a value by key, a doubly linked list to keep track of the order values were accessed, a capacity, and a current size.
-- **How do you implement a least recently used cache?** Create an associative array and a doubly linked list, the associative array is the key-value store, and the linked list keeps track of the order an item was accessed (it's doubly linked so a node can delete itself in `O(1)`). Create an integer capacity and a counter for the current size. Make a node class that has a key and value. When accessing a key-value pair, move its node to the head of the linked list. When adding a key-value pair, if the cache is over capacity, then remove the key-value pair for the tail node.
+- **Which data structures and variables do you need to implement a least recently used cache? Why?** An associative array to look up values by key, a doubly linked list to track last-accessed order (it's doubly linked so a node can delete itself in `O(1)`), and variables for capacity and current size.
+- **Which two operations use the doubly linked list in a least recently used cache? How?** When adding or accessing a key-value pair, move its node to the head of the linked list. When adding a key-value pair, if the cache is over capacity, then remove the key-value pair for the tail node.
 - **What is a trick for deleting a node that you just have a pointer to in a singly linked list in `O(1)`? What has to be true for this technique to work?** Set the nodes value to the value of the next node, and delete the next node. The list must be circular for this technique to work, otherwise you can't delete the last node.
 
 ### Dynamic Programming
