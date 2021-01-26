@@ -14,3 +14,17 @@
 - **What is an open interval?** An interval that does not include its endpoints.
 - **What is a closed interval?** An interval that does include its endpoints.
 - **What is a half-open interval?** An interval that includes only one of its endpoints.
+
+### Geometry
+
+- **What is geometry?** The mathematics of shapes.
+- **What is trigonometry?** The mathematics of triangles (a subset of geometry).
+
+### Calculus
+
+- **What is calculus?** The mathematics of continuous change.
+- **What is a derivative?** An expression representing a rate of change.
+- **In calculus, what is an integral?** The area under a curve.
+- **What is integral calculus?** The subfield of calculus that studies areas under curves.
+- **What is differential calculus?** The subfield of calculus that studies rates of change.
+- **What does infinitesimal mean?** Infinitely small
