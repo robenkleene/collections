@@ -12,11 +12,13 @@
 
 ## Grammar
 
+- **What is an adjacent clause?**
+- **What is a conjunctive adverb?** An adverb that connects two clauses, by converting the clause it introduces into a modifier of the main clause
 - **What is a dependent clause?**
 - **What is "the"?**
 - **What is "of"?**
 - **What is the "to be"?**
-- **What is a subordinate clause?**
+- **What is a dependent clause or subordinate clause?**
 - **What is a subordinating conjunction?**
 - **What is a conjunction?**
 - **What is a predicate?** The part of a clause that contains the verb
@@ -27,8 +29,9 @@
 - **What is an adverb?**
 - **What is an appositive?**
 - **What is a subordinator?**
-- **What is a relative pronoun?**o
+- **What is a relative pronoun?**
 - **How do you determine a complete sentence?** A sentence has a subject and a verb.
+- **Is a definition a complete sentence?**
 
 ### Title Case
 
