@@ -12,6 +12,11 @@
 
 ## Grammar
 
+- **What is a dependent clause?**
+- **What is "the"?**
+- **What is "of"?**
+- **What is the "to be"?**
+- **What is a subordinate clause?**
 - **What is a subordinating conjunction?**
 - **What is a conjunction?**
 - **What is a predicate?** The part of a clause that contains the verb
@@ -20,6 +25,9 @@
 - **What is a clause?**
 - **What is a preposition?**
 - **What is an adverb?**
+- **What is an appositive?**
+- **What is a subordinator?**
+- **What is a relative pronoun?**o
 - **How do you determine a complete sentence?** A sentence has a subject and a verb.
 
 ### Title Case
