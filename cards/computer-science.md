@@ -150,7 +150,7 @@
 
 ### Sort
 
-- **How do you implement selection sort on an array?** Iterate through each index: Get the index and value of the lowest item with an index greater than the current index, then swap the value of the lowest item with the item at the current index.
+- **How do you implement selection sort on an array?** Iterate through each index, then iterate through the remaining indices, if the value at the second index is lower than the value at the first index, then swap them.
 
 ### Least Recently Used Cache
 
