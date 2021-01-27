@@ -10,4 +10,4 @@
 - **What is differential calculus?** The subfield of calculus that studies rates of change.
 - **What does infinitesimal mean?** Infinitely small
 - **What does antifragile mean?** Something that becomes stronger under stress.
-- **What is the premise of Nassim Nicholas Taleb's book *Antifragile*?** Things are either fragile, robust, or antifragile. Antifragile things get stronger the more they're under stress, like bones.
+- **What is the premise of Nassim Nicholas Taleb's book *Antifragile*?** Things are either fragile, robust, or antifragile. Antifragile things get stronger the more they're put under stress, like bones.
