@@ -25,6 +25,7 @@
 - **In grammar, what is an article?**
 - **What is an indefinite article?**
 - **What is an definite article?**
+- **What is a demonstrative?**
 - **What is a determiner?**
 - **What is a dependent clause or subordinate clause?**
 - **What is a subordinating conjunction?**
@@ -41,6 +42,9 @@
 - **What is a relative pronoun?**
 - **How do you determine a complete sentence?** A sentence has a subject and a verb.
 - **Is a definition a complete sentence?** No, because the subject would be the word being defined, and that's being omitted.
+- **In grammar, what is imperative?**
+- **What is a clausal sentence?** A sentence in the form of a clause.
+- **What is a compound sentence?** A sentence in the form of a coordination of clauses.
 
 ### Title Case
 
