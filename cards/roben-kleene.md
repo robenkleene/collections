@@ -1,7 +1,5 @@
 # Roben Kleene
 
-- **In title case, what are the three types of words that are capitalized?** 1. Nouns, 2. Other major words, 3. Words with four or more letters.
-- **In title case, what type of words should not be capitalized?** Minor words with three or less letters.
 - **When was the first iPhone announced?** January 9th, 2007
 - **When was the first iPhone released?** June 29th, 2007
 - **When was the first iPad announced?** January 27, 2010
@@ -16,3 +14,8 @@
 
 - **What is an adverb?**
 - **How do you determine a complete sentence?**
+
+### Title Case
+
+- **In title case, what are the three types of words that are capitalized?** 1. Nouns, 2. Other major words, 3. Words with four or more letters.
+- **In title case, what type of words should not be capitalized?** Minor words with three or less letters.

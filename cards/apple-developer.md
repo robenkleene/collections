@@ -47,6 +47,10 @@
 - **In Swift, what does putting an `&` in front of a variable name do? When is it used?** It passes in the variable by reference instead of by value, it's used when passing in `inout` arguments.
 - **In Swift, which protocol adds a `description` to a type?** `CustomStringConvertible`
 
+### Collections
+
+- **In Swift, what does Copy-on-Write mean?** Swift's built-in collections don't copy on assignment, they reference the same array until a change is actually made. This can be implemented for your own collections.
+
 ### Ranges
 
 - **In Swift, how do you create a half-opened range?** `1..<5`
