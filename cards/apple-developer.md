@@ -75,6 +75,10 @@
 - **In Swift, how do you get a substring of just the first or last characters?** `string.suffix(3)`, `string.prefix(3)`
 - **In Swift, how do you create an arbitrary substring from a string?** Create a start and end index with `str.index(str.startIndex, offsetBy: 7)`, then use the start and end index as a range subscript `str[start..<end]`.
 
+### Value Types vs. Reference Types
+
+- **In Swift, why can't a struct contain a property of its own type? Why can it contain an array of its own type?** Memory for structs is statically allocated, and it's impossible to determine the size of a struct that can recursively contain itself at compile time. Since arrays change in size dynamically, they already cannot be statically allocated, so arrays are really reference types with value semantics. An array is contains a pointer to its elements, so it's size in the struct is static.
+
 ### Types
 
 - **In Swift, what are named types?** A type with a name, e.g., a `class`, `enum`, `struct`, or `protocol`.
