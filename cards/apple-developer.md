@@ -77,7 +77,9 @@
 
 ### Value Types vs. Reference Types
 
-- **In Swift, why can't a struct contain a property of its own type? Why can it contain an array of its own type?** Memory for structs is statically allocated, and it's impossible to determine the size of a struct that can recursively contain itself at compile time. Since arrays change in size dynamically, they already cannot be statically allocated, so arrays are really reference types with value semantics. An array is contains a pointer to its elements, so it's size in the struct is static.
+- **In Swift, why can't a struct contain a property of its own type? Why can it contain an array of its own type?** Memory for structs is statically allocated, and it's impossible to determine the size of a struct that can recursively contain itself at compile time. Since arrays change in size dynamically, they already cannot be statically allocated, so arrays are really reference types with value semantics (implemented via Copy-on-Write). An array is contains a pointer to its elements, so it's size in the struct is static.
+- **In Swift, how do collections implement value semantics?** Collections use reference semantics on assignment, and then, when they're mutated, they first check if they're uniquely referenced, and if not they make a copy of their internal storage to replicate value semantics.
+- **In Swift, why do collections have a special implementation of value semantics?** Value semantics usually imply static memory allocation, which is impossible for collections that dynamically change size.
 
 ### Types
 
