@@ -11,3 +11,8 @@
 - **What does infinitesimal mean?** Infinitely small
 - **What does antifragile mean?** Something that becomes stronger under stress
 - **What is the premise of Nassim Nicholas Taleb's book *Antifragile*?** Things are either fragile, robust, or antifragile. Antifragile things get stronger the more they're put under stress, like bones.
+- **What does catechism mean?** A question and answer format for learning the principles of Christianity.
+- **What are the two names of the cognitive bias where there is a tendency to notice something more often after first learning about it?** The Frequency illusion or Baader–Meinhof phenomenon
+- **What is the Baader–Meinhof phenomenon?** The tendency to notice something more often after first learning about it.
+- **Why is the Baader–Meinhof phenomenon called that?** Terry Mullen wrote a newspaper column mentioning that he came across the term Baader–Meinhof Group in another source after he had first heard about it.
+- **What is the frequency illusion?** The tendency to notice something more often after first learning about it.
