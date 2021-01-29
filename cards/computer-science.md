@@ -207,6 +207,11 @@
 - **What is `-2` in binary?** `01`
 - **What are the numbers one through four in binary?**
 
+## Terminology
+
+- **What does initialization mean?** To set to an initial value.
+- **What does instantiation mean?** To create an instance.
+
 ## Trivia
 
 - **What is the origin of the phrase "Go To Statement Considered Harmful"?** Dijkstra's 1968 private paper "A Case against the GO TO Statement", it was later published under the heading "Go To Statement Considered Harmful".

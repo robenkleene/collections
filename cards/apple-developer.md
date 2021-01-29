@@ -51,6 +51,33 @@
 
 - **In Swift, what does Copy-on-Write mean?** Swift's built-in collections don't copy on assignment, they reference the same array until a change is actually made. This can be implemented for your own collections.
 
+### Enumerations
+
+- **In Swift, what is the syntax for an enum?**
+
+    ```
+    enum CompassPoint {
+        case north
+        case south
+        case east
+        case west
+    }
+    ```
+- **In Swift, what are the the related values in an enum called?** Enumeration cases
+- **In Swift, how do you specify multiple enum cases on the same line?** `case north, south, east, west`
+- **In Swift, how do you specify an associated value for an enum case?** `case value(Int)`
+- **In Swift, what is the syntax for an enum with an associated value of its own type?** `indirect case sameType(SameType)`
+- **In Swift, what does the indirect keyword on an enumeration case allow you to do?** Have an associated value of its own type.
+- **In Swift, how do you specify a raw value for an enum case?**
+
+    ```
+    enum IntType: Int {
+        case Int = 1
+    }
+    ```
+- **In Swift, what is the default value for an enum called?** Raw value
+- **In Swift, what aspect of enum makes it a good choice for defining constants?** They can't be instantiated.
+
 ### Ranges
 
 - **In Swift, how do you create a half-opened range?** `1..<5`
@@ -80,6 +107,12 @@
 - **In Swift, why can't a struct contain a property of its own type? Why can it contain an array of its own type?** Memory for structs is statically allocated, and it's impossible to determine the size of a struct that can recursively contain itself at compile time. Since arrays change in size dynamically, they already cannot be statically allocated, so arrays are really reference types with value semantics (implemented via Copy-on-Write). An array is contains a pointer to its elements, so it's size in the struct is static.
 - **In Swift, how do collections implement value semantics?** Collections use reference semantics on assignment, and then, when they're mutated, they first check if they're uniquely referenced, and if not they make a copy of their internal storage to replicate value semantics.
 - **In Swift, why do collections have a special implementation of value semantics?** Value semantics usually imply static memory allocation, which is impossible for collections that dynamically change size.
+- **In Swift, what aspect of a struct prevents them from having properties that can vary in size?** Static memory allocation
+- **In Swift, why can't a struct have an associated value of its own type?** Because then its size couldn't be determined at compile time.
+- **In Swift, how is the `indirect` keyword implemented on enum?** By making it a reference type and using Copy-on-Write to give it value semantics.
+- **In Swift, why can a statically allocated type have an associated value that's an array of its own type?** Because an array is a reference type with value semantics implemented by Copy-on-Write.
+- **In Swift, why can a statically allocated type have an associated value that's a reference type?** Because the value of a reference type is just a pointer, and a pointer is of a constant size.
+- **In Swift, are collections value or reference types?** They're reference types with value semantics implemented by Copy-on-Write.
 
 ### Types
 
@@ -90,6 +123,10 @@
 - **In Swift, how are named types in the standard library defined?** `struct`
 - **In Swift, what is an opaque type?** A type that conforms to a protocol without specifying the underlying concrete type.
 - **In Swift, what is a metatype type?** The type of a type `MyClass.Type`.
+
+### Terminology
+
+- **In Swift, what is the term that covers both properties and values for enumeration cases?** Associated values
 
 ## Memory Management
 
