@@ -209,8 +209,12 @@
 
 ## Terminology
 
-- **What does initialization mean?** To set to an initial value.
-- **What does instantiation mean?** To create an instance.
+- **What does initialization mean?** To set to an initial value
+- **What does instantiation mean?** To create an instance
+- **In computer science, what does functional programming mean?**
+- **In computer science, what does declarative mean?** Expressing a program in terms of what it should accomplish.
+- **In computer science, what does imperative mean?** Expressing a program in terms of how it should do it.
+
 
 ## Trivia
 
