@@ -211,10 +211,14 @@
 
 - **What does initialization mean?** To set to an initial value
 - **What does instantiation mean?** To create an instance
-- **In computer science, what does functional programming mean?**
-- **In computer science, what does declarative mean?** Expressing a program in terms of what it should accomplish.
-- **In computer science, what does imperative mean?** Expressing a program in terms of how it should do it.
-
+- **In computer science, what is a pure function?** A function with no side effects, that always returns the same value for the same input
+- **What does functional programming mean?** Programming with pure functions
+- **In computer science, what does declarative mean?** Expressing a program in terms of what it should accomplish
+- **In computer science, what does imperative mean?** Expressing a program in terms of how it should do it
+- **What are two examples of imperative programming languages?** C, Python
+- **What are four examples of declarative programming languages?** SQL, HTML, CSS, XSLT
+- **In computer science, what is referential transparency?** If a function can be replaced with the returned value without changing the programs behavior
+- **What is the term for when when a function can be replaced with the value it returns without changing the programs behavior?** Referential transparency
 
 ## Trivia
 
