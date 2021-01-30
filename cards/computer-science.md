@@ -231,6 +231,8 @@
 - **What is the term for when when a function can be replaced with the value it returns without changing the programs behavior?** Referential transparency
 - **What is the relationship between declarative programming and functional programming?** Functional languages do not have loops
 - **What is control flow?** Loops and conditionals
+- **In computer science, what is starvation?** When a process is denied the resource it needs to complete its work
+- **In computer science, what is a typical example of starvation?** When a thread isn't running, due to a deadlock or even just a long running process
 
 ## Trivia
 
