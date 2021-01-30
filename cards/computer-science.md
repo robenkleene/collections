@@ -102,6 +102,13 @@
 - **What is the term for when an item in a sequence can be accessed directly?** Random access
 - **What is the term for when an items in a sequence can only be accessed in order?** Sequential access
 
+### Bloom Filter
+
+- **What is a bloom filter?** A data structure designed to quickly tell if an element is either definitely not in a set or maybe in the set
+- **How is a bloom filter implemented?** Use a bit array, to add an element, hash it and set the index of the hash value to `1`.
+- **Why can a bloom filter only tell you if an element is maybe in the set?** Because it doesn't account for hash collisions
+- **Why doesn't a bloom filter allow the removal of elements?** Because hash collisions make it impossible
+
 ### Arrays
 
 - **Given an array index `i`, how do you calculate the number of indexes less than `i`?** `i - 1`
@@ -187,6 +194,9 @@
 
 ## Bitwise
 
+- **What is a bit?** 0 or 1
+- **What is a bit array?** An array of bits
+- **What are the four other names for a bit array?** bit map, bit set, bit string, or bit vector
 - **What is the `&` bitwise operator?** Bitwise AND, `3 & 5 = 1 // 011 & 101 = 001`
 - **What is the `|` bitwise operator?** Bitwise OR, `3 & 5 = 7 // 011 & 101 = 101`
 - **What will the value of a bitwise `&` be relative to its operands?** Less than or equal to the lowest number.
