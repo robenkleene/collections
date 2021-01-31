@@ -234,6 +234,9 @@
 - **What is control flow?** Loops and conditionals
 - **In computer science, what is starvation?** When a process is denied the resource it needs to complete its work
 - **In computer science, what is a typical example of starvation?** When a thread isn't running, due to a deadlock or even just a long running process
+- **In computer science, what is a statement?** The smallest standalone element of a computer program
+- **In computer science, what is an expression?** A unit of code that evaluates to a value
+- **In computer science, what is the difference between an expression and a statement?** A statement does something, an expression evaluates to a value
 
 ## Trivia
 
