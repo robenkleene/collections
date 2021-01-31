@@ -108,6 +108,7 @@
 - **How is a bloom filter implemented?** Use a bit array, to add an element, hash it and set the index of the hash value to `1`.
 - **Why can a bloom filter only tell you if an element is maybe in the set?** Because it doesn't account for hash collisions
 - **Why doesn't a bloom filter allow the removal of elements?** Because hash collisions make it impossible
+- **What is a good use case for a bloom filter?** Determine if a URL is malicious by testing it against a list of known malicious URLs
 
 ### Arrays
 
