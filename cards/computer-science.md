@@ -121,6 +121,8 @@
 
 ## Algorithms
 
+- **How do you determine whether to iterate a list and build up a associative array versus iterating the array twice in nested loops?** The only time you need to iterate a single array in nested loops is when performing a sort.
+
 ### Dijkstra's Dutch National Flag Problem
 
 - **What is Dijkstra's Dutch national flag problem?** Sort an array with any number of items, each representing one of three colors.
