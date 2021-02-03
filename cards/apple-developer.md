@@ -78,8 +78,8 @@
 - **In Swift, what is the default value for an enum called?** Raw value
 - **In Swift, what aspect of enum makes it a good choice for defining constants?** They can't be instantiated.
 - **In Swift, how do you set the associated value for an enumeration case?** `let direction = CompassPoint.north("north")`
-- **In Swift, how do you access the associated value for an enumeration case in a switch statement?**
-- **In Swift, how do you access the associated value for an enumeration case in an if statement?**
+- **In Swift, how do you access the associated value for an enumeration case in a switch statement?** `case .letter(let value):`
+- **In Swift, how do you access the associated value for an enumeration case in an if statement?** `if case .letter(let value) = item {`
 
 ### Ranges
 
