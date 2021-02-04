@@ -143,8 +143,8 @@
 - **In Swift, where are built-in named types defined?** The standard library
 - **In Swift, where are the two compound types defined?** In the Swift language itself.
 - **In Swift, how are named types in the standard library defined?** `struct`
-- **In Swift, what is an opaque type?** A type that conforms to a protocol without specifying the underlying concrete type.
 - **In Swift, what is a metatype type?** The type of a type `MyClass.Type`.
+- **In Swift, what is an example of an opaque type?** Declaring a protocol conformance without declaring a concrete type.
 
 ### Terminology
 

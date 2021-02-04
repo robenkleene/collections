@@ -189,6 +189,8 @@
 
 - **What is a concrete type?** A type that can be instantiated.
 - **What is a abstract type?** A type that cannot be instantiated.
+- **What is an opaque type?** A type whose concrete type isn't known.
+- **What is the difference between opaque, abstract, and concrete types?** An opaque means concrete type isn't known, an abstract type means it can't be instantiated, a concrete type can be instantiated.
 - **What is instantiation?** Creating an instance.
 
 ## Recursion
