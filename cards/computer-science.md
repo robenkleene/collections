@@ -1,5 +1,7 @@
 # Computer Science
 
+- **What does the modulo operator (`%`) calculate?** Remainder
+
 ## Big O
 
 - **What is logarithm (e.g., `log_2 N`)?**: Logarithm is the inverse of exponentiation, so `x = log_b n` is `b^x = n`. E.g., `log_2 16 = 4`.
@@ -101,6 +103,8 @@
     - Arrays support random access, whereas linked lists only support sequential access.
 - **What is the term for when an item in a sequence can be accessed directly?** Random access
 - **What is the term for when an items in a sequence can only be accessed in order?** Sequential access
+- **What is an adjacency matrix?** A `n x n` matrix to represent a graph of `n` items where each value represents connections between items `i` and `j`.
+- **What is an adjacency list?** A multidimensional list that represents a graph where each list describes the set of neighbors for that item.
 
 ### Bloom Filter
 
