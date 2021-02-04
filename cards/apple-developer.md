@@ -65,10 +65,10 @@
     ```
 - **In Swift, what are the the related values in an enum called?** Enumeration cases
 - **In Swift, how do you specify multiple enum cases on the same line?** `case north, south, east, west`
-- **In Swift, how do you specify an associated value for an enum case?** `case value(Int)`
+- **In Swift, how do you declare an associated value for an enum case?** `case value(Int)`
 - **In Swift, what is the syntax for an enum with an associated value of its own type?** `indirect case sameType(SameType)`
 - **In Swift, what does the indirect keyword on an enumeration case allow you to do?** Have an associated value of its own type.
-- **In Swift, how do you specify a raw value for an enum case?**
+- **In Swift, how do you declare a raw value for an enum case?**
 
     ```
     enum IntType: Int {
@@ -77,9 +77,10 @@
     ```
 - **In Swift, what is the default value for an enum called?** Raw value
 - **In Swift, what aspect of enum makes it a good choice for defining constants?** They can't be instantiated.
-- **In Swift, how do you set the associated value for an enumeration case?** `let direction = CompassPoint.north("north")`
+- **In Swift, how do you assign the associated value for an enumeration case?** `let direction = CompassPoint.north("north")`
 - **In Swift, how do you access the associated value for an enumeration case in a switch statement?** `case .letter(let value):`
 - **In Swift, how do you access the associated value for an enumeration case in an if statement?** `if case .letter(let value) = item {`
+- **In Swift, what are the two ways of getting the associated value for an enumerations case?** ``if case .letter(let value) = item {` or `case .letter(let value):`
 
 ### Ranges
 
@@ -122,7 +123,6 @@
     ```
 - **In Swift, how do you put multiple values in a single switch statement case?** With commas `case value1, value2:`
 - **In Swift, how do you use a range in a switch statement case?** `case 1..<5:`
-
 
 ### Value Types vs. Reference Types
 
