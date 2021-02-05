@@ -103,7 +103,7 @@
     - Arrays support random access, whereas linked lists only support sequential access.
 - **What is the term for when an item in a sequence can be accessed directly?** Random access
 - **What is the term for when an items in a sequence can only be accessed in order?** Sequential access
-- **What is an adjacency matrix?** A `n x n` matrix to represent a graph of `n` items where each value represents connections between items `i` and `j`.
+- **What is an adjacency matrix? How use string nodes with one?** A `n x n` matrix to represent a graph of `n` items where each value represents connections between items `i` and `j`. To use string nodes, use a hash table to map a key to an integer.
 - **What is an adjacency list? How is it implemented for integer nodes versus string nodes?** Storing neighboring nodes in a list, using a multidimensional list for integers or an associative array for other types of nodes.
 - **In a graph, what are neighbors?** Two connected nodes
 
