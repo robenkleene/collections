@@ -8,7 +8,7 @@
 
 - **What is Core Image?** A non-destructive image editing framework, e.g., for applying filters.
 - **What is Core Graphics?** A vector drawing framework.
-- **What is Core Animation?**: An animation framework, all of `UIKit` is backed by `CALayer  a Core Animation class.
+- **What is Core Animation?**: An animation framework, all of `UIKit` is backed by `CALayer`  a Core Animation class.
 - **What is a `CGLayer`?** An offscreen Core Graphics drawing destination.
 - **What is a `CALayer`?** The lower-level class managing the bitmap representation of a `UIView`.
 - **What is the type of a `UIView` `layer` property?** `CALayer`
@@ -16,8 +16,12 @@
 - **What is Quartz? Which framework is it related to?** Quartz is the graphics API for iOS and macOS. Quartz is practically synonymous with Core Graphics.
 - **What are the two components of Quartz?** Quartz 2D for 2D rendering, and Quartz Compositor for compositing.
 - **What important technology is Quartz backed by?** OpenGL
+
+## UIKit
+
 - **Where do UIKit drawing classes like `UIBezierPath` get a `CGContext` in `drawRect`?** UIKit configures a context and sets it as the current context before calling `drawRect`.
 - **What is the difference between UIKit and AppKit as it relates to Core Animation?** `UIView` are automatically backed by `CALayer` whereas `NSView` are not (they can be turned on with the `wantsLayer` property).
+- **What are the main UIKit user interface classes?** `UISplitViewController`, `UINavigationController`, `UITabBar`
 
 ### Core Data
 
