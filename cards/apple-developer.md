@@ -28,7 +28,7 @@
     - Split Views
     - Tab Bars
     - Tool Bars
-- **What are the main UIKit `UIView` subclasses?**
+- **What are the ten main UIKit `UIView` subclasses?**
     - `UIAlertView`
     - `UIButton`
     - `UICollectionView`
@@ -39,7 +39,7 @@
     - `UITableView`
     - `UITextView`
     - `UIToolbar`
-- **What are the main UIKit `UIViewController` subclasses?**
+- **What are the eight main UIKit `UIViewController` subclasses?**
     - `UIAlertController`
     - `UICollectionController`
     - `UINavigationController`
