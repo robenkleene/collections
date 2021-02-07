@@ -19,8 +19,6 @@
 
 - **Where do UIKit drawing classes like `UIBezierPath` get a `CGContext` in `drawRect`?** UIKit configures a context and sets it as the current context before calling `drawRect`.
 - **What is the difference between UIKit and AppKit as it relates to Core Animation?** `UIView` are automatically backed by `CALayer` whereas `NSView` are not (they can be turned on with the `wantsLayer` property).
-
-- **What are the main UIKit user interface classes?** `UIToolbar`, `UISplitViewController`, `UINavigationController`, `UITabBar`, 
 - **What are the eight main iOS user interface elements?**
     - Action Sheets
     - Alerts
@@ -30,11 +28,26 @@
     - Split Views
     - Tab Bars
     - Tool Bars
-- **What are the main UIKit view classes?**
-    - `UIPopoverController`
-- **What are the main UIKit controller classes?**
+- **What are the main UIKit `UIView` subclasses?**
+    - `UIAlertView`
+    - `UIButton`
+    - `UICollectionView`
+    - `UILabel`
+    - `UINavigationBar`
+    - `UIScrollView`
+    - `UITabBar`
+    - `UITableView`
+    - `UITextView`
+    - `UIToolbar`
+- **What are the main UIKit `UIViewController` subclasses?**
+    - `UIAlertController`
+    - `UICollectionController`
     - `UINavigationController`
+    - `UIPageViewController`
     - `UIPopoverPresentationController`
+    - `UISplitViewController`
+    - `UITabBarController`
+    - `UITableViewController`
 
 ## Core Data
 
