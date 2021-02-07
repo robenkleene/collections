@@ -1,10 +1,8 @@
 # Apple Developer
 
-## Cocoa
-
 - **Why did Apple switch from `insertRows(at:with:)` to `performBatchUpdates(_:completion:)`?** The new approach allows you to group multiple types of animations.
 
-### Frameworks
+## Frameworks
 
 - **What is Core Image?** A non-destructive image editing framework, e.g., for applying filters.
 - **What is Core Graphics?** A vector drawing framework.
@@ -21,9 +19,24 @@
 
 - **Where do UIKit drawing classes like `UIBezierPath` get a `CGContext` in `drawRect`?** UIKit configures a context and sets it as the current context before calling `drawRect`.
 - **What is the difference between UIKit and AppKit as it relates to Core Animation?** `UIView` are automatically backed by `CALayer` whereas `NSView` are not (they can be turned on with the `wantsLayer` property).
-- **What are the main UIKit user interface classes?** `UISplitViewController`, `UINavigationController`, `UITabBar`
 
-### Core Data
+- **What are the main UIKit user interface classes?** `UIToolbar`, `UISplitViewController`, `UINavigationController`, `UITabBar`, 
+- **What are the eight main iOS user interface elements?**
+    - Action Sheets
+    - Alerts
+    - Collections
+    - Pages
+    - Popovers
+    - Split Views
+    - Tab Bars
+    - Tool Bars
+- **What are the main UIKit view classes?**
+    - `UIPopoverController`
+- **What are the main UIKit controller classes?**
+    - `UINavigationController`
+    - `UIPopoverPresentationController`
+
+## Core Data
 
 - **What does `NSPersistentContainer` do?** It sets up the three Core Data classes: `NSManagedObjectModel`, `NSPersistentStoreCoordinator`, and `NSManagedObjectContext`.
 - **When was `NSPersistentContainer` introduced?** 2016, iOS 10, macOS Sierra 10.12.
