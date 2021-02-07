@@ -5,6 +5,8 @@
 
 ## Pagination
 
-- **How is pagination without a pagination token implemented?** By sending up a current page and number of items per page
-- **How is pagination implemented with a pagination token?**
-- **Why are pagination tokens used?** Because if the results have changed between calls the then items can end up duplicated or skipped.
+- **What is classic pagination?** Sending a number of items per page and a current page.
+- **What is cursor-based pagination?** The API returns a next cursor used to get the next page of results along with the limit
+- **In cursor-based pagination, how do you go back to the previous page?** This isn't usually provided by the API, but the client can keep track of cursors for the previous pages itself.
+- **In a pagination API, what is the limit?** The number of items per page
+- **What is the advantage of cursor-based pagination?** Prevents results from being skipped or duplicated as the data mutates, more efficient database operations
