@@ -106,6 +106,9 @@
 - **What is an adjacency matrix? How use string nodes with one?** A `n x n` matrix to represent a graph of `n` items where each value represents connections between items `i` and `j`. To use string nodes, use a hash table to map a key to an integer.
 - **What is an adjacency list? How is it implemented for integer nodes versus string nodes?** Storing neighboring nodes in a list, using a multidimensional list for integers or an associative array for other types of nodes.
 - **In a graph, what are neighbors?** Two connected nodes
+- **How do you insert a node at the beginning of a doubly linked list?**
+    1. First, set the new node's pointers, so its previous is head and its next is head's next.
+    2. Then, set head and head's next's pointers, so previous of head's next is the new node, and head's next is the new node.
 
 ### Bloom Filter
 
