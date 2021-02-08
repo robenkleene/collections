@@ -23,9 +23,16 @@
     - Action Sheets
     - Alerts
     - Collections
+    - Edit Menus
     - Pages
+    - Pickers
     - Popovers
+    - Pull-Down Menus
+    - Search Bars
+    - Sliders
     - Split Views
+    - Steppers
+    - Switches
     - Tab Bars
     - Tool Bars
 - **What are the ten main UIKit `UIView` subclasses?**
@@ -35,6 +42,7 @@
     - `UILabel`
     - `UINavigationBar`
     - `UIScrollView`
+    - `UISegmentedControl`
     - `UITabBar`
     - `UITableView`
     - `UITextView`
