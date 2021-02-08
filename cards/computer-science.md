@@ -106,10 +106,14 @@
 - **What is an adjacency matrix? How use string nodes with one?** A `n x n` matrix to represent a graph of `n` items where each value represents connections between items `i` and `j`. To use string nodes, use a hash table to map a key to an integer.
 - **What is an adjacency list? How is it implemented for integer nodes versus string nodes?** Storing neighboring nodes in a list, using a multidimensional list for integers or an associative array for other types of nodes.
 - **In a graph, what are neighbors?** Two connected nodes
+
+### Linked List
+
 - **How do you insert a node at the beginning of a doubly linked list?**
      1. First set the new node's pointers: Set its previous to head and its next to head's next.
      2. Then set head and head's next's pointers: Set the previous of head's next to the new node, and head's next to the new node.
 - **What is a simple way to move a node to the beginning of a linked list?** Remove the node, then add it
+- **What is a trick for deleting a node that you just have a pointer to in a singly linked list in `O(1)`? What has to be true for this technique to work?** Set the nodes value to the value of the next node, and delete the next node. The list must be circular for this technique to work, otherwise you can't delete the last node.
 
 ### Bloom Filter
 
@@ -175,7 +179,8 @@
 
 - **Which data structures and variables do you need to implement a least recently used cache? Why?** An associative array to look up values by key, a doubly linked list to track last-accessed order (it's doubly linked so a node can delete itself in `O(1)`), and variables for capacity and current size.
 - **Which two operations use the doubly linked list in a least recently used cache? How?** When adding or accessing a key-value pair, move its node to the head of the linked list. When adding a key-value pair, if the cache is over capacity, then remove the key-value pair for the tail node.
-- **What is a trick for deleting a node that you just have a pointer to in a singly linked list in `O(1)`? What has to be true for this technique to work?** Set the nodes value to the value of the next node, and delete the next node. The list must be circular for this technique to work, otherwise you can't delete the last node.
+- **How do you implement getting a value from a least recently used cache?** Get the node from the hash table, and move it to the front of the list
+- **How do you implement setting a value in a least recently used cache?** If there's an existing node for that key, set it to the new value and move it to head. Otherwise, make a new node, and add it, increment the size. If the size is over capacity, remove the tail of the linked list, including from the cache, and decrement the size.
 
 ### Dynamic Programming
 
