@@ -41,10 +41,9 @@
     - `UIToolbar`
 - **What are the eight main UIKit `UIViewController` subclasses?**
     - `UIAlertController`
-    - `UICollectionController`
+    - `UICollectionViewController`
     - `UINavigationController`
     - `UIPageViewController`
-    - `UIPopoverPresentationController`
     - `UISplitViewController`
     - `UITabBarController`
     - `UITableViewController`
