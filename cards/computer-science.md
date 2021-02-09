@@ -199,6 +199,12 @@
 - **How do you traverse a tree depth-first recursively?** Recursively call the function with each child.
 - **Why is it impractical to traverse a tree breadth-first?** Breadth-first tree traversal uses a queue, which isn't available when recursing the same that the a depth-first search uses the call stack as a stack.
 
+#### Binary Trees
+
+- **How do you implement inserting into a binary tree?**
+- **How do you implement search in a binary tree?**
+- **How are search and insert into a binary tree similar?**
+
 ## Object-Orientated Programming
 
 - **What is a concrete type?** A type that can be instantiated.
