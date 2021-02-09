@@ -215,7 +215,8 @@
 
 ## Recursion
 
-- **In recursion, what is each recursive call called?** A recursive step.
+- **In recursion, what is each recursive call called?** A recursive step
+- **If a function has a base case, assigns the result of a recursive call, and returns a value, what happens?**
 
 ## Bitwise
 
