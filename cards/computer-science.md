@@ -213,10 +213,17 @@
 - **What is the difference between opaque, abstract, and concrete types?** An opaque means concrete type isn't known, an abstract type means it can't be instantiated, a concrete type can be instantiated.
 - **What is instantiation?** Creating an instance.
 
+## Functional Programming
+
+- **In computer science, what is referential transparency?** Being able to replace function calls with their returned values without affecting the programs behavior
+- **What is the term for when when a function can be replaced with the value it returns without changing the programs behavior?** Referential transparency
+- **What is the relationship between declarative programming and functional programming?** Functional languages do not have loops
+- **What is the relationship between pure functions and referential transparency?** Pure functions are always referentially transparent, because if you can replace a function with its value, that means the function has no side effects and always returns the same value for the same input.
+
 ## Recursion
 
 - **In recursion, what is each recursive call called?** A recursive step
-- **If a function has a base case, assigns the result of a recursive call, and returns a value, what happens?**
+- **If a function has a base case that returns a result, assigns the result of a recursive call, and a final return returns a value, what happens?** When the base case hits, it's returned as the assignment from the innermost recursive step, as the recursion resolves, the rest of the recursive steps are assigned from the final return.
 
 ## Bitwise
 
@@ -253,9 +260,6 @@
 - **In computer science, what does imperative mean?** Expressing a program in terms of how it should do it
 - **What are two examples of imperative programming languages?** C, Python
 - **What are four examples of declarative programming languages?** SQL, HTML, CSS, XSLT
-- **In computer science, what is referential transparency?** A function being replacable with its returned value, without altering the programs behavior
-- **What is the term for when when a function can be replaced with the value it returns without changing the programs behavior?** Referential transparency
-- **What is the relationship between declarative programming and functional programming?** Functional languages do not have loops
 - **What is control flow?** Loops and conditionals
 - **In computer science, what is starvation?** When a process is denied the resource it needs to complete its work
 - **In computer science, what is a typical example of starvation?** When a thread isn't running, due to a deadlock or even just a long running process
