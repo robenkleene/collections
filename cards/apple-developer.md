@@ -104,3 +104,8 @@ queue.async {
     // Do something
 }
 ```
+
+## Links
+
+- **On Apple platforms, what is the system called where a website and an app can share URLs?** Universal Links
+- **On Apple platforms, where a specific place in an app can be opened via a URL scheme?** Deep Linking
