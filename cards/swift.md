@@ -99,9 +99,9 @@
 - **In Swift, why can a statically allocated type have an associated value that's an array of its own type?** Because an array is a reference type with value semantics implemented by Copy-on-Write.
 - **In Swift, why can a statically allocated type have an associated value that's a reference type?** Because the value of a reference type is just a pointer, and a pointer is of a constant size.
 - **In Swift, are collections value or reference types?** They're reference types with value semantics implemented by Copy-on-Write.
-- **In Swift, what is the syntax for `map`**? `let letterCounts = cast.map { $0.count }`
-- **In Swift, what is the syntax for `reduce`**? `let numberSum = numbers.reduce(0, { x, y in x + y })`
-- **In Swift, what is the syntax for `filter`**? `let shortNames = cast.filter { $0.count < 5 }`
+- **In Swift, what is the syntax for `map`?** `let letterCounts = cast.map { $0.count }`
+- **In Swift, what is the syntax for `reduce`?** `let numberSum = numbers.reduce(0, { x, y in x + y })`
+- **In Swift, what is the syntax for `filter`?** `let shortNames = cast.filter { $0.count < 5 }`
 
 ## Types
 
