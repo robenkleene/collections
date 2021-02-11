@@ -16,5 +16,7 @@
 - **What is the Baader–Meinhof phenomenon?** The tendency to notice something more often after first learning about it.
 - **Why is the Baader–Meinhof phenomenon called that?** Terry Mullen wrote a newspaper column mentioning that he came across the term Baader–Meinhof Group in another source after he had first heard about it.
 - **What is the frequency illusion?** The tendency to notice something more often after first learning about it.
-- **What is a Fermi problem?**
+- **What is a Fermi problem?** Making an approximate calculation based on little or no data
+- **What is the name for a problem that's making an approximate calculation based on little or no actual data?** A Fermi problem
 - **What is the Fermi paradox?** The contradiction between estimates of the probability of extraterrestrial civilizations existing, the their lack of evidence.
+- **Where did Fermi problem get its name?** The physicist Enrico Fermi was known for making good approximate calculations based on little or no data, like estimating the strength of the Trinity test by dropping a piece of paper and seeing how far it moved.

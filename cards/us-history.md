@@ -1,5 +1,7 @@
 # US History
 
+## Revolutionary War
+
 - **What was the Stamp Act? Which good were included?** A tax on the colonies of all paper goods, including legal documents, magazines, playing cards, newspapers.
 - **Why was the Stamp Act repealed?** Protests in the colonies, and pressure from British exporters who were threatened by boycotts.
 - **When was the Stamp Act repealed?** March 18th, 1766
@@ -28,3 +30,9 @@
 - **What were the first military engagements of the American Revolutionary war?** The Battles of Lexington and Concord
 - **In which order did the following events happen? Boston Massacre, Boston Tea Party, Intolerable Acts passed, Revolutionary War starts, Stamp Act pass, Stamp Act repealed, Tea Act passes, Townshend Acts passed, Townshend Acts repealed.** Stamp Act pass, Stamp Act repealed, Townshend Acts passed, Boston Massacre, Townshend Acts repealed, Tea Act passes, Boston Tea Party, Intolerable Acts passed,  Revolutionary War starts.
 - **What are the key years leading to the Revolutionary War?** 1765-1775
+
+## World War 2
+
+- **What was the Trinity test?** The first detonation of a nuclear device
+- **When was the Trinity test?** July 16th, 1945
+- **Where was the Trinity test site?** Jornada del Muerto, New Mexico
