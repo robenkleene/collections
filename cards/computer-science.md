@@ -219,10 +219,14 @@
 - **What is the term for when when a function can be replaced with the value it returns without changing the programs behavior?** Referential transparency
 - **What is the relationship between declarative programming and functional programming?** Functional languages do not have loops
 - **What is the relationship between pure functions and referential transparency?** Pure functions are always referentially transparent, because if you can replace a function with its value, that means the function has no side effects and always returns the same value for the same input.
-- **What is a first-order function?**
-- **What is a higher-order function?** A function that takes a function as an argument, and returns a function
-- **What are the  higher-order functions?**
-- **What are map, reduce, and filter?**
+- **What is a first-order function?** A function that does not take a function as an argument or return a function
+- **What is a higher-order function?** A function that either a function as an argument, and returns a function
+- **What are the common higher-order functions?** Map, reduce, filter
+- **What is the term for functions that take functions as arguments like map, reduce, and filter?** Higher-order functions
+- **What is the higher-order function map used for?** Transform each item in a list
+- **What is the higher-order function reduce or fold used for?** Reduce a list to a single return value
+- **What is the higher-order function filter used for?** To remove items from a list
+
 
 ## Recursion
 
