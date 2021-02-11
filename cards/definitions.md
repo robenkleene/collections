@@ -16,3 +16,5 @@
 - **What is the Baader–Meinhof phenomenon?** The tendency to notice something more often after first learning about it.
 - **Why is the Baader–Meinhof phenomenon called that?** Terry Mullen wrote a newspaper column mentioning that he came across the term Baader–Meinhof Group in another source after he had first heard about it.
 - **What is the frequency illusion?** The tendency to notice something more often after first learning about it.
+- **What is a Fermi problem?**
+- **What is the Fermi paradox?** The contradiction between estimates of the probability of extraterrestrial civilizations existing, the their lack of evidence.
