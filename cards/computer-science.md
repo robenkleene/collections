@@ -227,7 +227,6 @@
 - **What is the higher-order function reduce or fold used for?** Reduce a list to a single return value
 - **What is the higher-order function filter used for?** To remove items from a list
 
-
 ## Recursion
 
 - **In recursion, what is each recursive call called?** A recursive step
