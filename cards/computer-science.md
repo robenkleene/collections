@@ -182,6 +182,12 @@
 - **How do you implement getting a value from a least recently used cache?** Get the node from the hash table, and move it to the front of the list
 - **How do you implement setting a value in a least recently used cache?** If there's an existing node for that key, set it to the new value and move it to head. Otherwise, make a new node, and add it, increment the size. If the size is over capacity, remove the tail of the linked list, including from the cache, and decrement the size.
 
+### Hashing
+
+- **What is a hash function?**
+- **What is a hash value?**
+- **What is a checksum?**
+
 ### Dynamic Programming
 
 - **What is dynamic programming?** Simplifying a problem by recursively breaking it into sub-problems.
