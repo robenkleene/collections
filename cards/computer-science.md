@@ -184,9 +184,9 @@
 
 ### Hashing
 
-- **What is a hash function?**
-- **What is a hash value?**
-- **What is a checksum?**
+- **What is a hash function?** A function that maps data of arbitrary size to a fixed-size value
+- **What is a hash value?** The value returned by a hash function
+- **What is a checksum?** A hash value for the purpose of detecting errors
 
 ### Dynamic Programming
 
