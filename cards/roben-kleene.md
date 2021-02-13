@@ -19,8 +19,7 @@
 
 ## Daylight Saving Time
 
-- **When does daylight saving time start?**
-- **When does daylight saving time end?**
-- **Which direction does the clock move for daylight saving time in spring?**
-- **Which direction does the clock move for daylight saving time in fall?**
-
+- **Which month does daylight saving time start?** March
+- **Which month does daylight saving time end?** November
+- **How does the clock move for daylight saving time in spring?** One hour forward
+- **How does the clock move for daylight saving time in fall?** One hour backward
