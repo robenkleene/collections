@@ -131,6 +131,8 @@
 - **How do you calculate the highest index of an array?** Take the length and subtract one.
 - **How do you get the midpoint of an array?** Integer divide the length by 2.
 - **How do you get the midpoint of a range?** Integer divide the start plus the end by 2.
+- **How is an array implemented?** As contiguous allocated memory of the same type
+- **How is an array element accessed by subscript?** By adding the subscript times the size of the type to the first element
 
 ## Algorithms
 
