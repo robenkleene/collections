@@ -8,7 +8,12 @@
 - **What happens to a frequency if it's above the Nyquist rate?** It becomes distorted with aliasing
 - **What does sample rate mean?** How many samples per second
 - **What is the frequency range audible by humans?** 20 Hz to 20 kHz
+
+## Guidelines
+
 - **Why is the standard sample rate 44.1 kHZ?** Because it can represent the audible frequency range, with a little bit of additional headroom for aliasing
+- **Which sample rate is typically used for audio for video?** 48 kHz
+- **Which sample rate is typically used for audio for music?** 44.1 kHz
 
 ## Effects
 
