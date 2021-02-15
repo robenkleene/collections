@@ -2,8 +2,10 @@
 
 ## Theory
 
-- **What is the Nyquist frequency?** The highest frequency that can be represented without distortion by a sample rate, which is one half the sample rate
-- **What is the Nyquist rate?** The sample rate that can represent a frequency without distortion, which is twice the frequency
+- **What is the Nyquist frequency?** The highest frequency that can be represented without distortion by a sample rate
+- **How do you calculate a Nyquest frequency?** Divide the sample rate in half
+- **How do you calculate a Nyquest rate?** Double the frequency
+- **What is the Nyquist rate?** The sample rate that can represent a frequency without distortion
 - **Why is the Nyquist rate twice the highest frequency?** To represent a wave, two samples per cycle are needed
 - **What happens to a frequency if it's above the Nyquist rate?** It becomes distorted with aliasing
 - **What does sample rate mean?** How many samples per second
