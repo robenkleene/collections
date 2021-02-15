@@ -14,6 +14,6 @@
 ## Terminology
 
 - **In software engineering, what does ETL stand for?** Extract, transform, load
-- **In software engineering, what is an ETL problem?** Extract data from a source, transform it to match a new system, load it into a new database
+- **In software engineering, what is an ETL problem?** Extract data from a source, transform it to a new format, load it into a new database
 - **In software engineering, what is an example of an ETL problem?**
 
