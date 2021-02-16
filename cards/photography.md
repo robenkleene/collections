@@ -1,5 +1,7 @@
 # Photography
 
+## Fundamentals
+
 - **In photography, what is ISO? How does it effect light?** Light sensitivity
 - **What are the ISO ranges?**
     - 32--100: Lowest Noise
@@ -8,20 +10,26 @@
     - 800--1600: High Noise
 - **In photography, what is aperture? How does it effect light?** 
 - **In photography, what is shutter speed? How does it effect light?** How long the shutter is open measured in fractions of a second, the longer the shutter is open, the more light is let in.
-- **What is the aperture of an iPhone X?** f2.2
+
+## Focal Length
+
+- **What is depth of field?**
+- **What is zone of sharpness?**
+- **What is focal length?** The distance between where light convergence and the sensor
+- **What does focal length determine?** The wideness of the shot
+- **How does the zoom implementation differ on a mobile camera vs. a traditional camera?** A mobile camera just crops in software, a traditional camera changes the focal length by moving the lens
+- **How does increasing the focal length change the shot?** The larger the focal length, the more magnified and narrower the shot
+- **What is the aperture of an iPhone X?** f1.8
+- **How many cameras does the iPhone X have? What are they?** A wide-angle camera and telephoto camera
+- **What kind of additional camera does the iPhone 12 have over the iPhone X?** Ultra wide
 - **What is the focal length of an iPhone X?**
-- **How does the focal length and aperture differ in a telephoto lens?** It has a farther focal length, and similar aperture
-- **How does the focal length and aperture differ in a wide-angle lens?** It has a farther focal length, and smaller aperture
+- **How does the focal length and aperture differ in a telephoto lens?** It has a large focal length
+- **How does the focal length and aperture differ in a wide-angle lens?** It has a small focal length
 - **In photography, what is an f-number?** 
 - **What does changing the aperture do?** Changes the depth of field, and reduces increases the exposure
 - **How does aperture affect depth of field?**
-- **What is the focal length of an iPhone?** 4.25mm
+- **What is the focal length of an iPhone X?**
 - **What does an aperture of `f2.2` mean?**
-- **What does a focal length of 4.15mm mean?**
-- **What is a wide-angle lens?**
-- **What is a full-frame lens?**
-- **What is depth of field?**
-- **What is zone of sharpness?**
 - **In photography, what is HDR?** Taking several photos at different exposures and combining them to get a more balanced result
 - **Why in manual mode?** When you want more control over the ISO value, in order to sacrifice stability to reduce noise
 - **What is AWB?** Auto White Balance
@@ -32,5 +40,6 @@
 - **What are the three variables that control exposure, noise, and stability?** ISO, shutter speed, aperture
 - **What are the three variables that control that aperture, ?**
 
+## Exposure
 
 The less noisy you want your image, the more stable you have to hold the camera (so to get higher quality images, increase stability, which means you can reduce the shutter speed and increase the ISO, otherwise you need to increase the shutter speed and reduce the ISO, which introduces noise).
