@@ -1,5 +1,7 @@
 # Roben Kleene
 
+- **How should you first respond if someone says something you disagree with?** First find a cushion, a point of empathy or understanding
+
 ## Apple
 
 - **When was the first iPhone announced?** January 9th, 2007
