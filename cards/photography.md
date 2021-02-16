@@ -10,6 +10,7 @@
 - **What is a wide-angle lens?**
 - **What is a full-frame lens?**
 - **In photography, what is HDR?** Taking several photos at different exposures and combining them to get a more balanced result
+- **Why should you shoot exposure manually, rather than using automatic brightness?** Because if you can see the ISO value, you can make more informed choices about the amount of noise being introduced
 
 
 The less noisy you want your image, the more stable you have to hold the camera (so to get higher quality images, increase stability, which means you can reduce the shutter speed and increase the ISO, otherwise you need to increase the shutter speed and reduce the ISO, which introduces noise).
