@@ -2,8 +2,9 @@
 
 ## Exposure
 
-- **In photography, what is ISO? How does it effect light?** Light sensitivity
-- **What are the ISO ranges?**
+- **In photography, what does ISO stand for?** The International Organization for Standardization
+- **In photography, what does ISO mean?** Light sensitivity
+- **What are the four general ranges ISO can be broken into?**
     - 32--100: Lowest Noise
     - 100--400: Low Noise
     - 400--800: Medium Noise
