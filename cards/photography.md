@@ -13,8 +13,8 @@
 - **What is zone of sharpness?**
 - **In photography, what is HDR?** Taking several photos at different exposures and combining them to get a more balanced result
 - **Why should you shoot exposure manually, rather than using automatic brightness?** Because if you can see the ISO value, you can make more informed choices about the amount of noise being introduced
-- **What is AWB?**
-- **When should you use AWB?** In sunlight
+- **What is AWB?** Auto White Balance
+- **Why doesn't AWB matter when shooting RAW?** With the RAW file format the white balance can be adjusted later
 - **When should you turn off AWB?** If your photo is too warm or too cool
 - **Why is the white balance for cloudy orange?** Because light on a cloudy day is cool, so the cloudy setting warms it up
 - **Why is the white balance for a light bulb blue?** Because light from a light bulb is warm, so the light bulb setting cools it down
