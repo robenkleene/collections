@@ -23,3 +23,7 @@
 - **Which month does daylight saving time end?** November
 - **How does the clock move for daylight saving time in spring?** One hour forward
 - **How does the clock move for daylight saving time in fall?** One hour backward
+
+## Cooking
+
+- **How do you put out an grease fire?** Turn off the heat, then slowly slide a lid over the top from the side (putting it on quickly forces in too much air), or use baking soda or salt. Never use water!
