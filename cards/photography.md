@@ -13,19 +13,25 @@
 
 ## Focal Length
 
-- **What is depth of field?**
-- **What is zone of sharpness?**
+- **What is depth of field?** The distance between the nearest and farthest objects that are in focus
 - **What is focal length?** The distance between where light convergence in the lens and the camera's sensor
-- **What does focal length determine?** The wideness of the shot
-- **How does the zoom implementation differ on a mobile camera vs. a traditional camera?** A mobile camera just crops in software, a traditional camera changes the focal length by moving the lens
+- **What does focal length determine?** How wide a shot is
+- **How is the zoom implementation different between a traditional camera and a mobile camera?** A mobile camera just crops in software, a traditional camera changes the focal length moving the lens
 - **How does increasing the focal length change the shot?** The larger the focal length, the more magnified and narrower the shot
-- **What is the aperture of an iPhone X?** f1.8
-- **How many cameras does the iPhone X have? What are they?** A wide-angle camera and telephoto camera
-- **What kind of additional camera does the iPhone 12 have over the iPhone X?** Ultra wide
-- **What is the focal length of an iPhone X?**
+
+### Lens
+
+- **In photography, what is an f-number or f-stop?** 
 - **How does the focal length and aperture differ in a telephoto lens?** It has a large focal length
 - **How does the focal length and aperture differ in a wide-angle lens?** It has a small focal length
-- **In photography, what is an f-number?** 
+
+## iPhone
+
+- **What is the aperture of an iPhone X?** f/1.8
+- **What is the focal length of an iPhone X?** 28 mm
+- **How many cameras does the iPhone X have? What are they?** A wide-angle camera and telephoto camera
+- **What kind of additional camera does the iPhone 12 have over the iPhone X?** Ultra wide
+
 - **What does changing the aperture do?** Changes the depth of field, and reduces increases the exposure
 - **How does aperture affect depth of field?**
 - **What is the focal length of an iPhone X?**
