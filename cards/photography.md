@@ -10,8 +10,8 @@
 - **In photography, what is shutter speed? How does it effect light?** How long the shutter is open measured in fractions of a second, the longer the shutter is open, the more light is let in.
 - **What is the aperture of an iPhone X?** f2.2
 - **What is the focal length of an iPhone X?**
-- **How does the focal length and aperture differ in a telephoto lens?**
-- **How does the focal length and aperture differ in a wide-angle lens?**
+- **How does the focal length and aperture differ in a telephoto lens?** It has a farther focal length, and similar aperture
+- **How does the focal length and aperture differ in a wide-angle lens?** It has a farther focal length, and smaller aperture
 - **In photography, what is an f-number?** 
 - **What does changing the aperture do?** Changes the depth of field, and reduces increases the exposure
 - **How does aperture affect depth of field?**
