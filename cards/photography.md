@@ -1,6 +1,6 @@
 # Photography
 
-## Fundamentals
+## Exposure
 
 - **In photography, what is ISO? How does it effect light?** Light sensitivity
 - **What are the ISO ranges?**
@@ -10,6 +10,15 @@
     - 800--1600: High Noise
 - **In photography, what is aperture? How does it effect light?** 
 - **In photography, what is shutter speed? How does it effect light?** How long the shutter is open measured in fractions of a second, the longer the shutter is open, the more light is let in.
+- **How do you balance stability and exposure?** The less noisy you want your image, the more stable you have to hold the camera (so to get higher quality images, increase stability, which means you can reduce the shutter speed and increase the ISO, otherwise you need to increase the shutter speed and reduce the ISO, which introduces noise).
+
+### AWB
+
+- **What is AWB?** Auto White Balance
+- **Why doesn't AWB matter when shooting RAW?** With the RAW file format the white balance can be adjusted later
+- **When should you turn off AWB?** If your photo is too warm or too cool
+- **Why is the white balance for cloudy orange?** Because light on a cloudy day is cool, so the cloudy setting warms it up
+- **Why is the white balance for a light bulb blue?** Because light from a light bulb is warm, so the light bulb setting cools it down
 
 ## Focal Length
 
@@ -24,30 +33,19 @@
 - **In photography, what is an f-number or f-stop?** 
 - **How does the focal length and aperture differ in a telephoto lens?** It has a large focal length
 - **How does the focal length and aperture differ in a wide-angle lens?** It has a small focal length
-
-## iPhone
-
-- **What is the aperture of an iPhone X?** f/1.8
 - **What is an f-number?** Aperture relative to focal length
 - **What does dividing the focal length by the aperture calculate?** The diameter of the aperture
 - **What happens when you increase the f-number?** The aperture gets smaller
 - **What is the focal length of an iPhone X?** 28 mm
-- **How many cameras does the iPhone X have? What are they?** Two, a wide angle and telephoto camera
-- **What kind of additional camera does the iPhone 12 have over the iPhone X?** Ultra wide
 - **How does f-number affect depth of field?** A higher f-number means a deeper depth of field
 - **How does f-number affect exposure?** A smaller f-number means a higher exposure
-- **What is the focal length of an iPhone X?**
-- **What does an aperture of `f2.2` mean?**
+
+## iPhone
+
+- **What is the aperture of an iPhone X?** f/1.8
+- **How many cameras does the iPhone X have? What are they?** Two, a wide angle and telephoto camera
+- **What kind of additional camera does the iPhone 12 have over the iPhone X?** Ultra wide
 - **In photography, what is HDR?** Taking several photos at different exposures and combining them to get a more balanced result
-- **Why in manual mode?** When you want more control over the ISO value, in order to sacrifice stability to reduce noise
-- **What is AWB?** Auto White Balance
-- **Why doesn't AWB matter when shooting RAW?** With the RAW file format the white balance can be adjusted later
-- **When should you turn off AWB?** If your photo is too warm or too cool
-- **Why is the white balance for cloudy orange?** Because light on a cloudy day is cool, so the cloudy setting warms it up
-- **Why is the white balance for a light bulb blue?** Because light from a light bulb is warm, so the light bulb setting cools it down
+- **Why shoot in manual mode?** When you want more control over the ISO value, in order to sacrifice stability to reduce noise
 - **What are the three variables that control exposure, noise, and stability?** ISO, shutter speed, aperture
 - **What are the three variables that control that aperture, ?**
-
-## Exposure
-
-The less noisy you want your image, the more stable you have to hold the camera (so to get higher quality images, increase stability, which means you can reduce the shutter speed and increase the ISO, otherwise you need to increase the shutter speed and reduce the ISO, which introduces noise).
