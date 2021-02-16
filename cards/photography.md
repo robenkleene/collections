@@ -28,12 +28,14 @@
 ## iPhone
 
 - **What is the aperture of an iPhone X?** f/1.8
+- **What is an f-number?** Aperture relative to focal length
+- **What does dividing the focal length by the aperture calculate?** The diameter of the aperture
+- **What happens when you increase the f-number?** The aperture gets smaller
 - **What is the focal length of an iPhone X?** 28 mm
-- **How many cameras does the iPhone X have? What are they?** A wide-angle camera and telephoto camera
+- **How many cameras does the iPhone X have? What are they?** Two, a wide angle and telephoto camera
 - **What kind of additional camera does the iPhone 12 have over the iPhone X?** Ultra wide
-
-- **What does changing the aperture do?** Changes the depth of field, and reduces increases the exposure
-- **How does aperture affect depth of field?**
+- **How does f-number affect depth of field?** A higher f-number means a deeper depth of field
+- **How does f-number affect exposure?** A smaller f-number means a higher exposure
 - **What is the focal length of an iPhone X?**
 - **What does an aperture of `f2.2` mean?**
 - **In photography, what is HDR?** Taking several photos at different exposures and combining them to get a more balanced result
