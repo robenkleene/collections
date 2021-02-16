@@ -15,7 +15,7 @@
 
 - **What is depth of field?**
 - **What is zone of sharpness?**
-- **What is focal length?** The distance between where light convergence and the sensor
+- **What is focal length?** The distance between where light convergence in the lens and the camera's sensor
 - **What does focal length determine?** The wideness of the shot
 - **How does the zoom implementation differ on a mobile camera vs. a traditional camera?** A mobile camera just crops in software, a traditional camera changes the focal length by moving the lens
 - **How does increasing the focal length change the shot?** The larger the focal length, the more magnified and narrower the shot
