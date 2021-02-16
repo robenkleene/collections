@@ -10,8 +10,10 @@
     - 800--1600: High Noise
 - **In photography, what is aperture? How does it effect light?** 
 - **In photography, what is shutter speed? How does it effect light?** How long the shutter is open measured in fractions of a second, the longer the shutter is open, the more light is let in.
-- **How do you balance stability and exposure?** The less noisy you want your image, the more stable you have to hold the camera (so to get higher quality images, increase stability, which means you can reduce the shutter speed and increase the ISO, otherwise you need to increase the shutter speed and reduce the ISO, which introduces noise).
-- **Why shoot in manual mode?** When you want more control over the ISO value, in order to sacrifice stability to reduce noise
+- **What is the relationship between stability and exposure?** The less stable you have to hold the camera, the noisier the image.
+- **How do you increase stability by adding noise?** By increasing the ISO, which means the shutter speed can be decreased
+- **How do you decrease noise by decreasing stability?** By decreasing the ISO, which means the shutter speed must be increased
+- **Why shoot in manual mode?** When you want more control over the ISO value, in order to deliberately sacrifice stability in order to reduce noise
 
 ### AWB
 
