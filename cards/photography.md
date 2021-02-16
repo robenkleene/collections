@@ -11,6 +11,7 @@
 - **In photography, what is aperture? How does it effect light?** 
 - **In photography, what is shutter speed? How does it effect light?** How long the shutter is open measured in fractions of a second, the longer the shutter is open, the more light is let in.
 - **How do you balance stability and exposure?** The less noisy you want your image, the more stable you have to hold the camera (so to get higher quality images, increase stability, which means you can reduce the shutter speed and increase the ISO, otherwise you need to increase the shutter speed and reduce the ISO, which introduces noise).
+- **Why shoot in manual mode?** When you want more control over the ISO value, in order to sacrifice stability to reduce noise
 
 ### AWB
 
@@ -46,6 +47,3 @@
 - **How many cameras does the iPhone X have? What are they?** Two, a wide angle and telephoto camera
 - **What kind of additional camera does the iPhone 12 have over the iPhone X?** Ultra wide
 - **In photography, what is HDR?** Taking several photos at different exposures and combining them to get a more balanced result
-- **Why shoot in manual mode?** When you want more control over the ISO value, in order to sacrifice stability to reduce noise
-- **What are the three variables that control exposure, noise, and stability?** ISO, shutter speed, aperture
-- **What are the three variables that control that aperture, ?**
