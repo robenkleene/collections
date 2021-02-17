@@ -210,9 +210,9 @@
 
 #### Binary Trees
 
-- **How do you implement inserting into a binary tree?**
-- **How do you implement search in a binary tree?**
-- **How are search and insert into a binary tree similar?**
+- **How do you implement inserting into a binary tree?** Create a function that takes a node and a value as parameters, if the node is empty, return a new node with the value. If the value if less than the value of the current node, set the left node to the result of a recursive call with the left node, otherwise do the same with the right node. Finally, return the node.
+- **How do you implement search in a binary tree?** Create a function that takes a node and a value as parameters, if the node is empty or matches the value, return it. If the value is
+- **How are search and insert into a binary tree similar?** They both compare the parameter value to the parameter node's value, and recurse into the left child if it's lower, otherwise into the right child.
 
 ## Object-Orientated Programming
 
