@@ -240,6 +240,8 @@
 
 - **In recursion, what is each recursive call called?** A recursive step
 - **If a function has a base case that returns a result, assigns the result of a recursive call, and a final return returns a value, what happens?** When the base case hits, it's returned as the assignment from the innermost recursive step, as the recursion resolves, the rest of the recursive steps are assigned from the final return.
+- **What is the basic pattern for recursive look up?** Return the value if it's found or nothing as the base case, return the result of recursing into a value
+- **What is the basic pattern for recursive insertion?** Return the new value in the base case, set the variable being recursed into to the result of the recursive call, and return the original value at the end
 
 ## Bitwise
 
