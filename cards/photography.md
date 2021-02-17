@@ -10,7 +10,7 @@
     - 400--800: Medium Noise
     - 800--1600: High Noise
 - **In photography, what is shutter speed?** How long the shutter is open measured in seconds (usually fractions of a second)
-- **What do you need to reduce the amount of noise in a shot?** Increase the ISO, which decreases stability
+- **How do you reduce the amount of noise in a shot?** Reduce the ISO, which decreases stability
 - **What is the relationship between stability and exposure?** The less stable you have to hold the camera, the noisier the image.
 - **Why shoot in manual mode?** To have more control over the ISO value, to sacrifice stability to reduce noise
 
