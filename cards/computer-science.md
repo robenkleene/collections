@@ -134,7 +134,6 @@
 - **How is an array implemented?** As contiguous allocated memory of the same type
 - **How is an array element accessed by subscript?** By adding the subscript times the size of the type to the first element
 
-
 ## Algorithms
 
 - **How do you determine whether to iterate a list and build up a associative array versus iterating the array twice in nested loops?** The only time you need to iterate a single array in nested loops is when performing a sort.
