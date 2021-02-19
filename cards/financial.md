@@ -16,3 +16,12 @@
 - **In stock vesting, what is the right of first refusal?** The company having the option to first buy the stock themselves
 - **With stock options, what is an exercise window?** The period of time during which a person can buy shares at the strike price
 - **What is the typical exercise window for stock options?** 90 days after termination
+- **With stock, what does ISO stand for?** Inventive Stock Options
+- **With stock, what does NSO stand for?** Non-Qualifying Stock Options
+- **With stock, what is early exercise or forward exercise?** Exercising the stock options before they vest
+- **With stock, what does RSU stand for?** Restricted stock units
+- **With stock, what does an RSU represent?** One share of stock or its value
+- **With taxes, what is ordinary income?** Wages, salary, bonuses, and interest
+- **With taxes, what are capital gains?** Tax for selling assets, including stock
+- **With taxes, what are long-term capital gains?** Profits from selling assets held longer than a year
+- **With taxes, what are short-term capital gains?** Profits from selling assets held shorter than a year
