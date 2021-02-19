@@ -15,3 +15,4 @@
 - **In stock vesting, what is a cliff?** A length of time before stock starts vesting
 - **In stock vesting, what is the right of first refusal?** The company having the option to first buy the stock themselves
 - **With stock options, what is an exercise window?** The period of time during which a person can buy shares at the strike price
+- **What is the typical exercise window for stock options?** 90 days after termination
