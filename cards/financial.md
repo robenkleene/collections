@@ -8,3 +8,6 @@
 - **In the stock market, what does RSU stand for?** Restricted Stock Unit
 - **What does cost basis mean?** The original cost of an asset (that may have changed in value)
 - **Why is restricted stock called that?** Because it comes with a vesting schedule
+- **What is a restricted stock award?** Stock awarded with additional conditions on it, here "restricted" also means it has transfer restrictions required for a private stock
+- **When are restricted stock awards usually awarded?** To executives and very early employees
+- **What are stock options?** A contract allowing individuals to purchase a specified amount of stock at a fixed price
