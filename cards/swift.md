@@ -44,7 +44,8 @@
 - **In Swift, how do you assign the associated value for an enumeration case?** `let direction = CompassPoint.north("north")`
 - **In Swift, how do you get the associated value for an enumeration case in a switch statement?** `case .letter(let value):`
 - **In Swift, how do you get the associated value for an enumeration case in an if statement?** `if case .letter(let value) = item {`
-- **In Swift, what are the two ways of getting the associated value for an enumerations case?** `if case .letter(let value) = item {` or `case .letter(let value):`
+- **In Swift, what are the three ways of getting the associated value for an enumerations case?** In a if statement `if case .letter(let value) = item {` or in switch statement `case .letter(let value):` or a catch `catch JSONPluginWriteError.failedToWriteInfoError(let url, let error)`
+- **In Swift, how do you get the associated value for an `enum` in a try-catch?** `catch JSONPluginWriteError.failedToWriteInfoError(let url, let error)`
 
 ## Ranges
 

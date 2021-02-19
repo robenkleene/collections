@@ -1,11 +1,17 @@
 # Grammar
 
+## Done
+
 - **In grammar, what is VP?** Verb phrase
-- **What is a noun phrase?** A noun combined with an article
+- **In grammar, what is NP?** Noun phrase
+
+## In Progress
+
+- **What is a noun phrase?** A noun combined with an article, not a complete sentence
 - **What is a verb phrase?** 
 - **In grammar, what is a head?** The part of a phrase what kind it is (e.g., the verb in a verb phrase or noun in a noun phrase)
 - **What type of word is "that"?**
-- **What type of word is "then"?** Adverb
+- **What type of word is "then"?**
 - **What type of word is "the"?** An article
 - **What type of word is "of"?**
 - **What type of word is "or"?**
@@ -41,5 +47,4 @@
 - **What is a conjunctive adverb?** An adverb that connects two clauses by converting the clause it introduces into a modifier of the main clause
 - **What is a dependent clause?**
 - **What is an adverb?**
-- **In grammar, what is NP?** Noun phrase
 
