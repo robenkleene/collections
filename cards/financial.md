@@ -7,5 +7,4 @@
 - **What does insolvent mean?** Unable to pay back debts
 - **In the stock market, what does RSU stand for?** Restricted Stock Unit
 - **What does cost basis mean?** The original cost of an asset (that may have changed in value)
-
-## Terminology
+- **Why is restricted stock called that?** Because it comes with a vesting schedule
