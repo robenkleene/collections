@@ -11,3 +11,7 @@
 - **What is a restricted stock award?** Stock awarded with additional conditions on it, here "restricted" also means it has transfer restrictions required for a private stock
 - **When are restricted stock awards usually awarded?** To executives and very early employees
 - **What are stock options?** A contract allowing individuals to purchase a specified amount of stock at a fixed price
+- **In the stock market, what is the strike price or exercise price?** The fixed price per share that stock options can be purchased
+- **In stock vesting, what is a cliff?** A length of time before stock starts vesting
+- **In stock vesting, what is the right of first refusal?** The company having the option to first buy the stock themselves
+- **With stock options, what is an exercise window?** The period of time during which a person can buy shares at the strike price
