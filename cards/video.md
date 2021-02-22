@@ -8,5 +8,5 @@
 
 ## Adobe Premiere
 
-- **In Adobe Premiere, what is a good preset for video to share online? Why?** `AVCHD 1080p30`, because it's `1920x1080` and `16:9` and progressive
+- **In Adobe Premiere, what is a good preset for video to share online? Why?** `AVCHD 1080p30`, because it's `1920x1080`, `16:9`, progressive, and 30 FPS
 - **In Adobe Premiere, what is a sequence?** A timeline
