@@ -19,8 +19,8 @@
 
 ## CPU
 
-- **Why is `x86` called that?** Because it was originally for Intel 8086
-- **What is `x86`?** A family of instruction set architectures for Intel microprocessors
+- **Where does `x86` get its name?** Intel 8086
+- **What is `x86`?** Instruction set architectures for Intel microprocessors
 - **What is `x86_64`?** The 64-bit version of the `x86` instruction set
 - **What is `arm64`?** The 64-bit version of the ARM architecture
 - **What is `AArch64`?** The 64-bit version of the ARM architecture
