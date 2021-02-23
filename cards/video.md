@@ -1,8 +1,8 @@
 # Video
 
 - **What is a good resolution and aspect ratio for sharing video content online?** `1920x1080` / `16:9`
-- **What is progressive video?** Drawing alternating lines for half of each frame
-- **What is interlaced video?** Drawing every frame fully
+- **What is progressive video?** Drawing every frame fully
+- **What is interlaced video?** Drawing alternating lines for half of each frame
 - **What is the difference between 1080p and 1080i?** Progressive vs. interlaced
 - **What is combing?** An artifact of deinterlacing two frames because the frames don't quite match (horizontal lines that look like a comb)
 
