@@ -17,3 +17,14 @@
 - **In software engineering, what is an ETL problem?** Extract data from a source, transform it to a new format, load it into a new database
 - **In software engineering, what is an example of an ETL problem?**
 
+## CPU
+
+- **Why is `x86` called that?** Because it was originally for Intel 8086
+- **What is `x86`?** A family of instruction set architectures for Intel microprocessors
+- **What is `x86_64`?** The 64-bit version of the `x86` instruction set
+- **What is `arm64`?** The 64-bit version of the ARM architecture
+- **What is `AArch64`?** The 64-bit version of the ARM architecture
+- **What is difference between `AArch64` and `arm64`?** They are the same thing
+- **What is a CPU?** The part of a computer that executes instructions
+- **What is a microprocessor?** A single chip CPU
+- **What is the difference between a Microprocessor and a CPU?** A CPU is not necessarily one chip, while a microprocessor is (most CPUs produced today are microprocessors)
