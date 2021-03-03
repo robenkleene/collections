@@ -12,10 +12,10 @@
 
 ## Blend Modes
 
-- **How does the multiply blend mode work?** It multiplies the blended layer's color with the base layer.
+- **How does the multiply blend mode work?** Multiplies the top layer's RGB channel values with the bottom layer
 - **When do you use the multiply blend mode?** To give the base layer a tint
 - **Which blend modes darken?** Multiply
-- **What does the screen blend mode do?**
+- **What does the screen blend mode do?** Inverts the RGB channel values of the top and bottom layers, then multiplies them, then inverts them again
 - **What does the overlay blend mode do?**
 - **What does the lighten blend mode do?**
 - **What does the normal blend mode do?**
