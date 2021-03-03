@@ -35,3 +35,5 @@
 - **With stock, what does ISO stand for?** Inventive Stock Options
 - **With stock, what does NSO stand for?** Non-Qualifying Stock Options
 - **With stock, what is early exercise or forward exercise?** Exercising the stock options before they vest
+- **With stock options, what is the time period where you can purchase the stock at the strike price called?** The exercise window
+- **What are the two names for the price per share that stock options can be purchased at?** The strike price or exercise price
