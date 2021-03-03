@@ -9,3 +9,14 @@
 - **In typography, what is leading?** Line height
 - **In typography, what is kerning?** Letter spacing
 - **In typography, what is measure?** Line length
+
+## Blend Modes
+
+- **How does the multiply blend mode work?** It multiplies the blended layer's color with the base layer.
+- **When do you use the multiply blend mode?** To give the base layer a tint
+- **Which blend modes darken?** Multiply
+- **What does the screen blend mode do?**
+- **What does the overlay blend mode do?**
+- **What does the lighten blend mode do?**
+- **What does the normal blend mode do?**
+- **What does the add blend mode do?**

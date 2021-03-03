@@ -64,6 +64,7 @@
 - **In Swift, how do you get an `ArraySlice` of an arbitrary subarray?** Use a `Range` as the subscript, e.g., `arr[0..<4]`.
 - **In Swift, why do some methods return `ArraySlice` instead of an array?** To avoid overhead of creating a new array.
 - **In Swift, what should the loop condition be when doing a depth-first tree traversal? Why can't this technique be used when doing breadth-first?** `while let node = stack.popLast()`, this doesn't work for breadth-first search because there's no way to optionally return the first element of an array.
+- **In Swift, how do you iterate through all the values of a loop that aren't `nil`?** `for case let value? in val`
 
 ## Strings
 
