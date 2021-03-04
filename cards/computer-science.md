@@ -206,6 +206,7 @@
 - **When traversing a tree iteratively, how do you switch between a depth-first and breadth-first search?** A queue is breadth-first and a stack is depth-first.
 - **How do you traverse a tree depth-first recursively?** Recursively call the function with each child.
 - **Why is it impractical to traverse a tree breadth-first?** Breadth-first tree traversal uses a queue, which isn't available when recursing the same that the a depth-first search uses the call stack as a stack.
+- **How do you calculate the depth of a tree?** If the node is `nil` return zero, otherwise return the `max` of the depth of the left and right nodes plus one.
 
 #### Binary Trees
 
