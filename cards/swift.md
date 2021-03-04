@@ -15,6 +15,20 @@
 
 - **In Swift, what does Copy-on-Write mean?** Swift's built-in collections don't copy on assignment, they reference the same array until a change is actually made. This can be implemented for your own collections.
 
+## Optionals
+
+- **In Swift, how are optionals implemented?** As an `enum`:
+
+    ```
+    enum Optional<T> {
+        case .some(T)
+        case .none
+    }
+    ```
+
+- **In Swift, what is `Int?` syntactical sugar for?** `Optional<Int>`
+- **In Swift, what is `if case let x? = someOptional` the equivalent of?** `if case .some(let x) = someOptional`
+
 ## Enumerations
 
 - **In Swift, what is the syntax for an enum?**
