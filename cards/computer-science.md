@@ -207,12 +207,15 @@
 - **How do you traverse a tree depth-first recursively?** Recursively call the function with each child.
 - **Why is it impractical to traverse a tree breadth-first?** Breadth-first tree traversal uses a queue, which isn't available when recursing the same that the a depth-first search uses the call stack as a stack.
 - **How do you calculate the depth of a tree?** If the node is `nil` return zero, otherwise return the `max` of the depth of the left and right nodes plus one.
+- **What is a binary tree?** A tree where at each node has at most two children, a left and a right
 
-#### Binary Trees
+#### Binary Search Trees
 
-- **How do you implement inserting into a binary tree?** Create a function that takes a node and a value as parameters and returns a node, if the node is empty, return a new node with the value. If the value is less than the value of the node, set the left child to the result of a recursive call passing in the left child, otherwise do it with the right child. Finally, return the node.
-- **How do you implement search in a binary tree?** Create a function that takes a node and a value as parameters and returns a node, if the node is empty or matches the value, return it. If the value is less than the value of the node, than return a recursive call passing in the left child, otherwise do it with the right child.
-- **How are searching and inserting into a binary tree similar?** They both compare the value to the node's value, and recurse into the left child if it's lower, otherwise into the right child.
+- **What do you call a weighted tree where lower values are stored to the left, and higher values are stored to the right?** A binary search tree
+- **What is a binary search tree?** A binary tree where lower values are stored to the left, and higher values are stored to the right
+- **How do you implement inserting into a binary search tree?** Create a function that takes a node and a value as parameters and returns a node, if the node is empty, return a new node with the value. If the value is less than the value of the node, set the left child to the result of a recursive call passing in the left child, otherwise do it with the right child. Finally, return the node.
+- **How do you implement search in a binary search tree?** Create a function that takes a node and a value as parameters and returns a node, if the node is empty or matches the value, return it. If the value is less than the value of the node, than return a recursive call passing in the left child, otherwise do it with the right child.
+- **How are searching and inserting into a binary search tree similar?** They both compare the value to the node's value, and recurse into the left child if it's lower, otherwise into the right child.
 
 ## Object-Orientated Programming
 
