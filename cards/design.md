@@ -12,11 +12,5 @@
 
 ## Blend Modes
 
-- **How does the multiply blend mode work?** Multiplies the top layer's RGB channel values with the bottom layer
-- **When do you use the multiply blend mode?** To give the base layer a tint
-- **Which blend modes darken?** Multiply
-- **How does the screen blend mode work?** Inverts the RGB channel values of the top and bottom layers, then multiplies them, then inverts them again
-- **How does the overlay blend mode work?** A combination 
-- **What does the lighten blend mode do?**
-- **What does the normal blend mode do?**
-- **What does the add blend mode do?**
+- **What are the really bright blend modes, from darkest to lightest?** Screen, color dodge, linear dodge (South California Lamborghini)
+- **What are the intense bright blend modes, from least contrast to highest contrast?** Linear Light, Hard Light, Vivid Light, Pin Light (Long-Haired Vice President)
