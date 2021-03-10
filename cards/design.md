@@ -15,3 +15,4 @@
 - **What are the really bright blend modes, from darkest to lightest?** Screen, color dodge, linear dodge (South California Lamborghini)
 - **What are the intense bright blend modes, from least contrast to highest contrast?** Linear Light, Hard Light, Vivid Light, Pin Light (Long-Haired Vice President)
 - **What are the tint blend modes, from lightest to darkest?** Overlay, Soft Light, Color (Open Sound Control)
+- **What is the difference between hard light and overlay blend modes?** Both use screen on light pixels and multiply on dark pixels, but overlay determines this using the base color and hard light uses the blend color (order hard liquor)
