@@ -27,3 +27,4 @@ Some memorization helpers.
 - **Vivid Light**: Color burn or color dodge based on the blend color ("Vi Vi" almost mark of the beast, for more extreme burning and dodging)
 - **Hard Light**: Multiply or screen based on the blend color ("H" for "home", the default way of doing things)
 - **Soft Light**: Lightened like dodging or darken like burning based on the blend color ("S" for "special" and "spotlight")
+- **Pin Light**: Darken and lighten simultaneously (Dark and light with a pin between them)
