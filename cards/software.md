@@ -16,3 +16,5 @@
 - **In Figma, what can layout grids be applied to?** Frames
 - **In Figma, how does snapping work when a layout grid is applied to a frame?** All of that frame's children snap to that grid.
 - **In Figma, which snap settings relate to layout grids?** None
+
+## Houdini
