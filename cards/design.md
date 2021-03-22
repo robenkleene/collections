@@ -21,7 +21,12 @@ Some memorization helpers.
 - **What are the four tint blend modes, from lightest to darkest?** Overlay, Soft Light, Color, Hue (Open Sound Control Hardware)
 - **What is the difference between hard light and overlay blend modes?** Both use screen on light pixels and multiply on dark pixels, but overlay determines this using the base color and hard light uses the blend color (order hard liquor)
 - **What are the four high contrast blend modes from lightest to darkest?** Darken, Color Burn, Multiply, Linear Burn (DC Marvel Logos)
+
+### Pairs
+
 - **What are the two blend modes that leave the image looking largely the same, from lightest to darkest?** Color, Hue
+- **What are the hard separation blend modes from darkest to lightest?** Difference and exclusion (difference is darker)
+
 
 ### Other
 
@@ -29,3 +34,4 @@ Some memorization helpers.
 - **Hard Light**: Multiply or screen based on the blend color ("H" for "home", the default way of doing things)
 - **Soft Light**: Lightened like dodging or darken like burning based on the blend color ("S" for "special" and "spotlight")
 - **Pin Light**: Darken and lighten simultaneously (Dark and light with a pin between them)
+
