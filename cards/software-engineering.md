@@ -28,3 +28,15 @@
 - **What is a CPU?** The part of a computer that executes instructions
 - **What is a microprocessor?** A single chip CPU
 - **What is the difference between a Microprocessor and a CPU?** A CPU is not necessarily one chip, while a microprocessor is (most CPUs produced today are microprocessors)
+
+## Character Sets
+
+- **What is Unicode?** A standard for mapping code points to characters
+- **In Unicode, what is a code point?** A mapping of a value to a character (E.g., `U+0024` for `$`)
+- **What are UTF-8 and UTF-16?** Encodings that converts Unicode to binary strings
+- **What does UTF-8 stand for?** Unicode Transformation Format (8-bit)
+- **What does ASCII stand for?** American Standard Code for Information Interchange
+- **What is ASCII?** A character set and encoding that maps 128 digits to letters
+- **What is the relationship between ASCII and UTF-8?** UTF-8 uses the same characters for the first 128 digits as ASCII
+- **What does ISO 8859-1 stand for?** International Organization for Standardization (the same one as for ISO in photography)
+- **What is ISO 8859-1 or Latin-1?** An extension to ASCII that adds one more bit for 256 characters
