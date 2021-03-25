@@ -2,48 +2,48 @@
 
 ## C
 
-![C](assets/music/c.svg)
+![C](assets/music/keyboard/c.svg)
 
 ## C# D♭
 
-![C# D♭](assets/music/c-sharp-d-flat.svg)
+![C# D♭](assets/music/keyboard/c-sharp-d-flat.svg)
 
 ## D
 
-![D](assets/music/d.svg)
+![D](assets/music/keyboard/d.svg)
 
 ## D# E♭
 
-![D# E♭](assets/music/d-sharp-e-flat.svg)
+![D# E♭](assets/music/keyboard/d-sharp-e-flat.svg)
 
 ## E
 
-![E](assets/music/e.svg)
+![E](assets/music/keyboard/e.svg)
 
 ## F
 
-![F](assets/music/f.svg)
+![F](assets/music/keyboard/f.svg)
 
 ## F# G♭
 
-![F# G♭](assets/music/f-sharp-g-flat.svg)
+![F# G♭](assets/music/keyboard/f-sharp-g-flat.svg)
 
 ## G
 
-![G](assets/music/g.svg)
+![G](assets/music/keyboard/g.svg)
 
 ## G# A♭
 
-![G# A♭](assets/music/g-sharp-a-flat.svg)
+![G# A♭](assets/music/keyboard/g-sharp-a-flat.svg)
 
 ## A
 
-![A](assets/music/a.svg)
+![A](assets/music/keyboard/a.svg)
 
 ## A# B♭
 
-![A# B♭](assets/music/a-sharp-b-flat.svg)
+![A# B♭](assets/music/keyboard/a-sharp-b-flat.svg)
 
 ## B
 
-![B](assets/music/b.svg)
+![B](assets/music/keyboard/b.svg)
