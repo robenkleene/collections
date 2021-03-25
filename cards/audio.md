@@ -2,10 +2,12 @@
 
 ## Other
 
+- **In music, what is an accidental?** A note that isn't in the current scale
 - **In music, what does the double sharp do?** Raise a note by two half steps
 - **In music, what does the double flat do?** Lower a note by two half steps
 - **In music, what does a sharp do?** Raise a note by a half steps
 - **In music, what does a flat do?** Lower a note by a half steps
+- **In music, what does a natural do?** Cancels out any accidental
 
 ## Keyboard
 
