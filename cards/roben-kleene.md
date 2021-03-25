@@ -29,3 +29,14 @@
 ## Cooking
 
 - **How do you put out an grease fire?** Turn off the heat, then slowly slide a lid over the top from the side (putting it on quickly forces in too much air), or use baking soda or salt. Never use water!
+
+## Dates
+
+- **When is the first day of spring?** March 19th, 20th, or 21st
+- **When is the first day of winter?** December 21st or 22nd
+- **When is the first day of fall?** Usually September 22nd or 23rd, rarely, 21st or 24th
+- **When is the first day of summer?** June 20th, 21st, or 22nd, 
+- **What is the summer solstice?** The longest day of the year and the first day of summer
+- **What is the winter solstice?** The shortest day of the year and the first day of winter
+- **What is the spring equinox?** Equal length day and night, and the first day of spring
+- **What is the fall equinox?** Equal length day and night, and the first day of fall
