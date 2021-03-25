@@ -24,7 +24,7 @@ Some memorization helpers.
 
 ### Pairs
 
-- **What are the two blend modes that leave the image looking largely the same, from lightest to darkest?** Color, Hue
+- **What are the two blend modes that leave the image looking largely the same, from darkest to lightest?** Hue, Color
 - **What are the hard separation blend modes from darkest to lightest?** Difference and exclusion (difference is darker)
 
 ### Other
@@ -37,3 +37,4 @@ Some memorization helpers.
 ### Close Matches
 
 - Linear Light (Loose Edges), Hard Light (Hard Edges), Vivid Light (Dodge & Burn), Pin Light (Poured paint)
+- Overlay (Yellow), Soft Light (Spotlight), Hue (Dark Green), Color (Dark Yellow)
