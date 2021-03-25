@@ -27,7 +27,6 @@ Some memorization helpers.
 - **What are the two blend modes that leave the image looking largely the same, from lightest to darkest?** Color, Hue
 - **What are the hard separation blend modes from darkest to lightest?** Difference and exclusion (difference is darker)
 
-
 ### Other
 
 - **Vivid Light**: Color burn or color dodge based on the blend color ("Vi Vi" almost mark of the beast, for more extreme burning and dodging)
@@ -35,3 +34,6 @@ Some memorization helpers.
 - **Soft Light**: Lightened like dodging or darken like burning based on the blend color ("S" for "special" and "spotlight")
 - **Pin Light**: Darken and lighten simultaneously (Dark and light with a pin between them)
 
+### Close Matches
+
+- Linear Light (Soft Edges), Hard Light (Hard Edges), Vivid Light (Split), Pin Light (Covered)
