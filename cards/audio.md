@@ -16,6 +16,16 @@
 - **In music, how do you calculate the duration of each note in a tuplet?** Take the division number and play that number of notes in the time it would usually take to play one less
 - **In music, what is measure?** The grouping of notes
 - **In music, what are barlines?** The lines between measures
+- **In music, what do the two and bottom numbers in a time signature mean?** The top number is the number of beats per measure, and the bottom number is the note division that's considered one beat.
+- **In music, what is a quaver?** An eighth note
+- **In music, what is a crotchet?** A quarter note
+- **In music, what is a compound time signature?** A time signature that can be counted multiple ways, usually in reference to groups of three eighth notes
+- **In music, what is a beam?** A flag connecting notes indicating rhythmic grouping
+- **In music, what is a tie?** A connection between notes of the same pitch indicating they should be played as one note
+- **In music, what is a slur?** A connection between notes of different pitches indicating they should be played with legato
+- **In music, what is legato?** A smooth transition between notes
+- **In music, what are the rules about when to use beams?** To group notes within beats
+- **In music, what are the rules about when to use a tie?** To connect notes across beats
 
 ## Keyboard
 
