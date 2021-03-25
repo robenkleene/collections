@@ -31,6 +31,9 @@
 - **In music, what is the formula for a major scale?** `WWHWWH`
 - **In music, what is the order of the circle of fifths in the flat direction?** C, G, D, A, E, B, F#, C#
 - **In music, what is the order of the circle of fifths in the sharp direction?** C, F, B♭, E♭, A♭, D♭, G♭, C♭
+- **In music, what is the rule of nines?** That an interval and it's inversion always add up to nine
+- **In music, what does it mean to invert an interval?** Move the lower note up by an octave, making it the higher note
+- **In music, what is the inversion of a 
 
 ## Keyboard
 
