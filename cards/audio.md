@@ -13,7 +13,7 @@
 - **In music, what do tied notes mean?** As one extended note
 - **In music, what is a tuplet?** An irregular note division
 - **In music, what does the number mean in a tuplet?** What the division is
-- **In music, how do you calculate the duration of each note in a tuplet?**
+- **In music, how do you calculate the duration of each note in a tuplet?** Take the division number and play that number of notes in the time it would usually take to play one less
 - **In music, what is measure?** The grouping of notes
 - **In music, what are barlines?** The lines between measures
 
