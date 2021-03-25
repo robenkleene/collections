@@ -33,7 +33,12 @@
 - **In music, what is the order of the circle of fifths in the sharp direction?** C, F, B♭, E♭, A♭, D♭, G♭, C♭
 - **In music, what is the rule of nines?** That an interval and it's inversion always add up to nine
 - **In music, what does it mean to invert an interval?** Move the lower note up by an octave, making it the higher note
-- **In music, what is the inversion of a 
+- **In music, what is the inversion of a 2nd?** 7th
+- **In music, what is the inversion of a 3rd?** 6th
+- **In music, what is the inversion of a 4th?** 5th
+- **In music, what is the inversion of a 5th?** 4th
+- **In music, what is the inversion of a 6th?** 3rd
+- **In music, what is the inversion of a 7th?** 2nd
 
 ## Keyboard
 
