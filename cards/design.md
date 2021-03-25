@@ -36,4 +36,4 @@ Some memorization helpers.
 
 ### Close Matches
 
-- Linear Light (Soft Edges), Hard Light (Hard Edges), Vivid Light (Split), Pin Light (Covered)
+- Linear Light (Loose Edges), Hard Light (Hard Edges), Vivid Light (Dodge & Burn), Pin Light (Poured paint)
