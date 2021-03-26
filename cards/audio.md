@@ -2,6 +2,7 @@
 
 ## Other
 
+- **In music, what is a clef?** A symbol that determines the pitch
 - **In music, what is an accidental?** A note that isn't in the current scale
 - **In music, what does the double sharp do?** Raise a note by two half steps
 - **In music, what does the double flat do?** Lower a note by two half steps
