@@ -54,6 +54,7 @@
 - **In music, how many half steps is an augmented fourth?** Six
 - **In music, how many half steps is a diminished fourth?** Four
 - **In music, what is the tonic?** The first key of a scale
+- **In music, what is the inflection of an interval?** Whether it's perfect, major, minor, augmented, or diminished
 - **In music, how do you determine the type of interval?**
     1. Determine the difference in scale degrees 
     2. Remove all accidentals
@@ -63,6 +64,7 @@
     6. Otherwise, it's either an augmented fourth or diminished fifth
     7. If the top note is in the major key of the bottom note, it's major
     8. If the bottom note is in the major key of the top note, it's minor
+    9. Add back the accidentals and determine if the interval is major, minor, augmented, or diminished (accidentals never change the distance of the interval, only the inflection)
 
 ## Keyboard
 
