@@ -54,6 +54,15 @@
 - **In music, how many half steps is an augmented fourth?** Six
 - **In music, how many half steps is a diminished fourth?** Four
 - **In music, what is the tonic?** The first key of a scale
+- **In music, how do you determine the type of interval?**
+    1. Determine the difference in scale degrees 
+    2. Remove all accidentals
+    3. 8 is perfect octave
+    4. 0 is perfect unison
+    5. If the interval uses F or B, it's perfect
+    6. Otherwise, it's either an augmented fourth or diminished fifth
+    7. If the top note is in the major key of the bottom note, it's major
+    8. If the bottom note is in the major key of the top note, it's minor
 
 ## Keyboard
 
