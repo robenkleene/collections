@@ -28,7 +28,8 @@
 - **In music, what are the rules about when to use a tie?** To connect notes across beats
 - **In music, what is a half step?** A step between two notes, regardless of color
 - **In music, what is a whole step?** Two half steps
-- **In music, what is the formula for a major scale?** `WWHWWH`
+- **In music, what is the formula for a major scale?** `WWHWWWH`
+- **In music, what is the formula for a minor scale?** `WHWWHWW`
 - **In music, what is the order of the circle of fifths in the flat direction?** C, G, D, A, E, B, F#, C#
 - **In music, what is the order of the circle of fifths in the sharp direction?** C, F, B♭, E♭, A♭, D♭, G♭, C♭
 - **In music, what is the rule of nines?** That an interval and it's inversion always add up to nine
