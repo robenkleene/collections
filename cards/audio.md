@@ -45,14 +45,15 @@
 - **In music, what is a diminished interval?** An interval that's a half-step smaller than a perfect interval
 - **In music, what is an augmented interval?** An interval that's a half-step larger than a perfect interval
 - **In music, what are the perfect intervals?** Unison, 4th, 5th, Octave
+- **In music, what are the major and minor intervals?** Second, Third, Sixth, Seventh
+- **In music, what is the difference between the major and minor intervals?** Major intervals have the tonic on the bottom, minor intervals have the tonic on top
 - **In music, why are the octave and unison called perfect?** Because the pitch doesn't change
 - **In music, why are the perfect fourth and perfect fifth called that?** Because those intervals have a high degree of consonance
 - **In music, what happens to the frequency when you move a note up one octave in pitch?** The frequency doubles
 - **In music, how many half steps is a perfect fourth?** Five
 - **In music, how many half steps is an augmented fourth?** Six
 - **In music, how many half steps is a diminished fourth?** Four
-
-
+- **In music, what is the tonic?** The first key of a scale
 
 ## Keyboard
 
