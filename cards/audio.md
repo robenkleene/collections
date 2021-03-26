@@ -66,6 +66,14 @@
     7. If the top note is in the major key of the bottom note, it's major
     8. If the bottom note is in the major key of the top note, it's minor
     9. Add back the accidentals and determine if the interval is major, minor, augmented, or diminished (accidentals never change the distance of the interval, only the inflection)
+- **In music, what is a triad?** A chord with three notes
+- **In music, what is tetrad?** A chord with four notes
+- **In music, what is the lowest note in a chord when it is not inverted called?** Root
+- **In music, what is a chord in when it is not inverted?** Root position
+- **In music, what is a diminished triad?** A chord with two minor thirds
+- **In music, what is a minor triad?** A chord with a major third on top of a minor third
+- **In music, what is a major triad?** A chord with a minor third on top of a major third
+**In music, what is an augmented triad?** A chord with two majors thirds
 
 ## Keyboard
 
