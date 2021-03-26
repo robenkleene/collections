@@ -73,7 +73,10 @@
 - **In music, what is a diminished triad?** A chord with two minor thirds
 - **In music, what is a minor triad?** A chord with a major third on top of a minor third
 - **In music, what is a major triad?** A chord with a minor third on top of a major third
-**In music, what is an augmented triad?** A chord with two majors thirds
+- **In music, what is an augmented triad?** A chord with two majors thirds
+- **In music, what is a diatonic triad?** A chord in the current key
+- **In music, what are the diatonic triads starting from the root chord?** Tonic, Supertonic, Mediant, Subdominant, Dominant, Submediant, Leading-Tone
+- **In music, what is a seventh chord?** A triad, plus a seventh interval above the chord's root
 
 ## Keyboard
 
