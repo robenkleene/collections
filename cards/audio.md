@@ -39,6 +39,20 @@
 - **In music, what is the inversion of a 5th?** 4th
 - **In music, what is the inversion of a 6th?** 3rd
 - **In music, what is the inversion of a 7th?** 2nd
+- **In music, what are scale degrees?** The position of notes on the scale
+- **In music, what do you call the position of notes on the scale?** Scale degrees
+- **In music, what is an interval?** The distance in scale degrees between two notes
+- **In music, what is a diminished interval?** An interval that's a half-step smaller than a perfect interval
+- **In music, what is an augmented interval?** An interval that's a half-step larger than a perfect interval
+- **In music, what are the perfect intervals?** Unison, 4th, 5th, Octave
+- **In music, why are the octave and unison called perfect?** Because the pitch doesn't change
+- **In music, why are the perfect fourth and perfect fifth called that?** Because those intervals have a high degree of consonance
+- **In music, what happens to the frequency when you move a note up one octave in pitch?** The frequency doubles
+- **In music, how many half steps is a perfect fourth?** Five
+- **In music, how many half steps is an augmented fourth?** Six
+- **In music, how many half steps is a diminished fourth?** Four
+
+
 
 ## Keyboard
 
