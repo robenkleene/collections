@@ -79,7 +79,25 @@
 
 ## Accents
 
-<img style="background-color: #FFF" src="assets/music/accents/horizontal.svg" alt="Horizontal">
+### Strong
+
+<img style="background-color: #FFF" src="assets/music/accents/strong-accent.svg"  alt="Horizontal">
+
+### Staccato
+
+<img style="background-color: #FFF" src="assets/music/accents/staccato-accent.svg" alt="Horizontal">
+
+### Staccatissimo
+
+<img style="background-color: #FFF" src="assets/music/accents/staccatissimo-accent.svg"  alt="Horizontal">
+
+## Normal
+
+<img style="background-color: #FFF" src="assets/music/accents/normal-accent.svg"  alt="Horizontal">
+
+## Legato
+
+<img style="background-color: #FFF" src="assets/music/accents/legato-accent.svg"  alt="Horizontal">
 
 ## Keyboard
 
