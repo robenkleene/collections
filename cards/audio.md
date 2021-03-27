@@ -1,7 +1,5 @@
 # Music
 
-## Other
-
 - **In music, what is a clef?** A symbol that determines the pitch
 - **In music, what is an accidental?** A note that isn't in the current scale
 - **In music, what does the double sharp do?** Raise a note by two half steps
@@ -78,6 +76,10 @@
 - **In music, what is a diatonic triad?** A chord in the current key
 - **In music, what are the diatonic triads starting from the root chord?** Tonic, Supertonic, Mediant, Subdominant, Dominant, Submediant, Leading-Tone
 - **In music, what is a seventh chord?** A triad, plus a seventh interval above the chord's root
+
+## Accents
+
+<img style="background-color: #FFF" src="assets/music/accents/horizontal.svg" alt="Horizontal">
 
 ## Keyboard
 
