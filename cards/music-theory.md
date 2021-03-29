@@ -99,6 +99,44 @@
 
 <img style="background-color: #FFF" src="assets/music/accents/legato-accent.svg">
 
+## Notes
+
+## One-Hundred-Twenty-Eighth Note
+
+<img style="background-color: #FFF" src="assets/music/notes/one-hundred-twenty-eighth-note.svg">
+
+## Sixty-Fourth Note
+
+<img style="background-color: #FFF" src="assets/music/notes/sixty-fourth-note.svg">
+
+## Thirty-Second Note
+
+<img style="background-color: #FFF" src="assets/music/notes/thirty-second-note.svg">
+
+## Sixteenth Note
+
+<img style="background-color: #FFF" src="assets/music/notes/sixteenth-note.svg">
+
+## Eighth Note
+
+<img style="background-color: #FFF" src="assets/music/notes/eighth-note.svg">
+
+## Quarter Note
+
+<img style="background-color: #FFF" src="assets/music/notes/quarter-note.svg">
+
+## Half Note
+
+<img style="background-color: #FFF" src="assets/music/notes/half-note.svg">
+
+## Whole Note
+
+<img style="background-color: #FFF" src="assets/music/notes/whole-note.svg">
+
+## Double Whole Note
+
+<img style="background-color: #FFF" src="assets/music/notes/double-whole-note.svg">
+
 ## Keyboard
 
 ### C
