@@ -229,6 +229,38 @@
 
 <img style="background-color: #FFF" src="assets/music/other/treble-clef.svg">
 
+## Keys
+
+![](assets/music/keys/E4.png)
+![](assets/music/keys/A1.png)
+![](assets/music/keys/A2.png)
+![](assets/music/keys/A3.png)
+![](assets/music/keys/A4.png)
+![](assets/music/keys/B1.png)
+![](assets/music/keys/B2.png)
+![](assets/music/keys/B3.png)
+![](assets/music/keys/B4.png)
+![](assets/music/keys/C1.png)
+![](assets/music/keys/C2.png)
+![](assets/music/keys/C3.png)
+![](assets/music/keys/C4.png)
+![](assets/music/keys/C5.png)
+![](assets/music/keys/D1.png)
+![](assets/music/keys/D2.png)
+![](assets/music/keys/D3.png)
+![](assets/music/keys/D4.png)
+![](assets/music/keys/E1.png)
+![](assets/music/keys/E2.png)
+![](assets/music/keys/E3.png)
+![](assets/music/keys/F1.png)
+![](assets/music/keys/F2.png)
+![](assets/music/keys/F3.png)
+![](assets/music/keys/F4.png)
+![](assets/music/keys/G1.png)
+![](assets/music/keys/G2.png)
+![](assets/music/keys/G3.png)
+![](assets/music/keys/G4.png)
+
 ## Keyboard
 
 ### C
