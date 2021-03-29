@@ -76,6 +76,10 @@
 - **In music, what is a diatonic triad?** A chord in the current key
 - **In music, what are the diatonic triads starting from the root chord?** Tonic, Supertonic, Mediant, Subdominant, Dominant, Submediant, Leading-Tone
 - **In music, what is a seventh chord?** A triad, plus a seventh interval above the chord's root
+- **In music, what is the mnemonic for the treble clef lines?** Every good boy deserves fudge
+- **In music, what is the mnemonic for the treble clef spaces?** FACE
+- **In music, what is the mnemonic for the bass clef lines?** Good boys do fine always
+- **In music, what is the mnemonic for the bass clef spaces?** Every good boy deserves fudge
 
 ## Accents
 
