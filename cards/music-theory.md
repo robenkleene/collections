@@ -137,6 +137,8 @@
 
 <img style="background-color: #FFF" src="assets/music/notes/double-whole-note.svg">
 
+## Rests
+
 ## Keyboard
 
 ### C
