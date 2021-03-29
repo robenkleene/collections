@@ -81,11 +81,11 @@
 
 ### Strong
 
-<img style="background-color: #FFF" src="assets/music/accents/strong-accent.svg"  alt="Horizontal">
+<img style="background-color: #FFF" src="assets/music/accents/strong-accent.svg">
 
 ### Staccato
 
-<img style="background-color: #FFF" src="assets/music/accents/staccato-accent.svg" alt="Horizontal">
+<img style="background-color: #FFF" src="assets/music/accents/staccato-accent.svg">
 
 ### Staccatissimo
 
