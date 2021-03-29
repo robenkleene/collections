@@ -139,14 +139,71 @@
 
 ## Rests
 
+### Double Whole Rest
+
 <img style="background-color: #FFF" src="assets/music/rests/double-whole-rest.svg">
+
+### Eighth Rest
+
 <img style="background-color: #FFF" src="assets/music/rests/eighth-rest.svg">
+
+### One-Hundred-Eighth Rest
+
 <img style="background-color: #FFF" src="assets/music/rests/one-hunderd-twenty-eighth-rest.svg">
+
+### Quarter Rest
+
 <img style="background-color: #FFF" src="assets/music/rests/quarter-rest.svg">
+
+### Sixteenth Rest
+
 <img style="background-color: #FFF" src="assets/music/rests/sixteenth-rest.svg">
+
+### Sixty Fourth Rest
+
 <img style="background-color: #FFF" src="assets/music/rests/sixty-fourth-rest.svg">
+
+### Thirty-Second Rest
+
 <img style="background-color: #FFF" src="assets/music/rests/thirty-second-rest.svg">
-<img style="background-color: #FFF" src="assets/music/rests/whole-rest-or-half-whole-rest.svg">
+
+### Whole or Half Rest
+
+<img style="background-color: #FFF" src="assets/music/rests/whole-rest-or-half-rest.svg">
+
+### Other
+
+#### Alto or Tenor Clef
+
+<img style="background-color: #FFF" src="assets/music/other/alto-or-tenor-clef.svg">
+
+#### Bass Clef
+
+<img style="background-color: #FFF" src="assets/music/other/bass-clef.svg">
+
+#### Double Flat
+
+<img style="background-color: #FFF" src="assets/music/other/double-flat.svg">
+
+#### Double Sharp
+
+<img style="background-color: #FFF" src="assets/music/other/double-sharp.svg">
+
+#### Flat
+
+<img style="background-color: #FFF" src="assets/music/other/flat.svg">
+
+#### Natural
+
+<img style="background-color: #FFF" src="assets/music/other/natural.svg">
+
+#### Sharp
+
+<img style="background-color: #FFF" src="assets/music/other/sharp.svg">
+
+#### Treble Clef
+
+<img style="background-color: #FFF" src="assets/music/other/treble-clef.svg">
 
 ## Keyboard
 
