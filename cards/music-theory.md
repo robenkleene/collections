@@ -89,15 +89,15 @@
 
 ### Staccatissimo
 
-<img style="background-color: #FFF" src="assets/music/accents/staccatissimo-accent.svg"  alt="Horizontal">
+<img style="background-color: #FFF" src="assets/music/accents/staccatissimo-accent.svg">
 
 ## Normal
 
-<img style="background-color: #FFF" src="assets/music/accents/normal-accent.svg"  alt="Horizontal">
+<img style="background-color: #FFF" src="assets/music/accents/normal-accent.svg">
 
 ## Legato
 
-<img style="background-color: #FFF" src="assets/music/accents/legato-accent.svg"  alt="Horizontal">
+<img style="background-color: #FFF" src="assets/music/accents/legato-accent.svg">
 
 ## Keyboard
 
