@@ -261,6 +261,8 @@
 ![](assets/music/keys/G3.png)
 ![](assets/music/keys/G4.png)
 
+## Key Signatures
+
 ## Keyboard
 
 ### C
