@@ -263,6 +263,21 @@
 
 ## Key Signatures
 
+![](assets/music/key-signatures/a-flat-major-f-minor.png)
+![](assets/music/key-signatures/a-major-f-sharp-minor.png)
+![](assets/music/key-signatures/b-flat-major-g-minor.png)
+![](assets/music/key-signatures/b-major-g-sharp-minor.png)
+![](assets/music/key-signatures/c-flat-major-a-flat-minor.png)
+![](assets/music/key-signatures/c-sharp-major-a-sharp-minor.png)
+![](assets/music/key-signatures/d-flat-major-b-flat-minor.png)
+![](assets/music/key-signatures/d-major-b-minor.png)
+![](assets/music/key-signatures/e-flat-major-c-minor.png)
+![](assets/music/key-signatures/e-major-c-sharp-minor.png)
+![](assets/music/key-signatures/f-major-d-minor.png)
+![](assets/music/key-signatures/f-sharp-major-d-sharp-minor.png)
+![](assets/music/key-signatures/g-flat-major-e-flat-minor.png)
+![](assets/music/key-signatures/g-major-e-minor.png)
+
 ## Keyboard
 
 ### C
