@@ -139,6 +139,15 @@
 
 ## Rests
 
+<img style="background-color: #FFF" src="assets/music/rests/double-whole-rest.svg">
+<img style="background-color: #FFF" src="assets/music/rests/eighth-rest.svg">
+<img style="background-color: #FFF" src="assets/music/rests/one-hunderd-twenty-eighth-rest.svg">
+<img style="background-color: #FFF" src="assets/music/rests/quarter-rest.svg">
+<img style="background-color: #FFF" src="assets/music/rests/sixteenth-rest.svg">
+<img style="background-color: #FFF" src="assets/music/rests/sixty-fourth-rest.svg">
+<img style="background-color: #FFF" src="assets/music/rests/thirty-second-rest.svg">
+<img style="background-color: #FFF" src="assets/music/rests/whole-rest-or-half-whole-rest.svg">
+
 ## Keyboard
 
 ### C
