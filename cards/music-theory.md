@@ -79,7 +79,7 @@
 - **In music, what is the mnemonic for the treble clef lines?** Every good boy deserves fudge
 - **In music, what is the mnemonic for the treble clef spaces?** FACE
 - **In music, what is the mnemonic for the bass clef lines?** Good boys do fine always
-- **In music, what is the mnemonic for the bass clef spaces?** Every good boy deserves fudge
+- **In music, what is the mnemonic for the bass clef spaces?** All cows eat grass
 
 ## Accents
 
