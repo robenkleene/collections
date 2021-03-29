@@ -163,25 +163,9 @@
 
 ## Rests
 
-### Double Whole Rest
-
-<img style="background-color: #FFF" src="assets/music/rests/double-whole-rest.svg">
-
-### Eighth Rest
-
-<img style="background-color: #FFF" src="assets/music/rests/eighth-rest.svg">
-
 ### One-Hundred-Eighth Rest
 
 <img style="background-color: #FFF" src="assets/music/rests/one-hunderd-twenty-eighth-rest.svg">
-
-### Quarter Rest
-
-<img style="background-color: #FFF" src="assets/music/rests/quarter-rest.svg">
-
-### Sixteenth Rest
-
-<img style="background-color: #FFF" src="assets/music/rests/sixteenth-rest.svg">
 
 ### Sixty Fourth Rest
 
@@ -191,9 +175,25 @@
 
 <img style="background-color: #FFF" src="assets/music/rests/thirty-second-rest.svg">
 
+### Sixteenth Rest
+
+<img style="background-color: #FFF" src="assets/music/rests/sixteenth-rest.svg">
+
+### Eighth Rest
+
+<img style="background-color: #FFF" src="assets/music/rests/eighth-rest.svg">
+
+### Quarter Rest
+
+<img style="background-color: #FFF" src="assets/music/rests/quarter-rest.svg">
+
 ### Whole or Half Rest
 
 <img style="background-color: #FFF" src="assets/music/rests/whole-rest-or-half-rest.svg">
+
+### Double Whole Rest
+
+<img style="background-color: #FFF" src="assets/music/rests/double-whole-rest.svg">
 
 ### Other
 
