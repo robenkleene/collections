@@ -4,15 +4,14 @@
 
 - **In music theory, what is a stave?** The lines representing pitches
 - **In music theory, what is a clef?** The symbol that determines the pitch of the lines in the stave
-- **In music theory, what is an accidental?** A note that isn't in the scale
 - **In music theory, what is measure?** The rhythmic grouping of notes
 - **In music theory, what is a bar?** A synonym for measure
 - **In music theory, what are barlines?** The lines between measures
 
 ## Meta
 
-- **In music theory, what do the top and bottom numbers in a time signature mean?** The top number is the number of beats per measure, and the bottom number is the note division that's considered one beat.
-- **In music theory, what is a compound time signature?** A time signature that can be counted multiple ways, usually in reference to groups of three eighth notes
+- **In music theory, what do the top and bottom numbers in a time signature mean?** Beats per measure over note that's one beat.
+- **In music theory, what is a compound time signature?** A time signature that's multiple ways to count (usually in groups of three eighth notes)
 
 ## Notes
 
@@ -27,6 +26,7 @@
 
 - **In music theory, what does the double sharp do?** Raise a note by two half steps
 - **In music theory, what does the double flat do?** Lower a note by two half steps
+- **In music theory, what is an accidental?** A note that isn't in the scale (indicated by a sharp or flat symbol)
 - **In music theory, what does a sharp do?** Raise a note by a half steps
 - **In music theory, what does a flat do?** Lower a note by a half steps
 - **In music theory, what does a natural do?** Cancels out a previous accidental
