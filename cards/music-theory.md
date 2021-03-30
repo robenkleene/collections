@@ -39,10 +39,9 @@
 - **In music theory, what is a tuplet?** Beamed notes with a number above indicating an irregular rhythm
 - **In music theory, how does a tuplet ratio work?** The number of notes to play to the number of normal notes to be played in the same time as
 - **In music theory, how do you calculate the duration of each note in a tuplet with one number?** Play that number of notes in the time it would take to play one less
-- **In music theory, what do tied notes mean?** One extended note
 - **In music theory, what is a beam?** A flag connecting notes indicating rhythmic grouping
-- **In music theory, what is a tie?** A connection between notes of the same pitch indicating they should be played as one note
-- **In music theory, what is a slur?** A connection between notes of different pitches indicating they should be played with legato
+- **In music theory, what is a tie?** A line grouping notes of the same pitch indicating they should be played as one note
+- **In music theory, what is a slur?** A line grouping notes of different pitches indicating they should be played with legato
 - **In music theory, what is legato?** A smooth transition between notes
 - **In music theory, what are the rules about when to use beams?** To group notes within beats
 - **In music theory, what are the rules about when to use a tie?** To connect notes across beats
