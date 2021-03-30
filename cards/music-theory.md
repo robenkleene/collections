@@ -58,7 +58,7 @@
 - **In music theory, what are the minor keys of the circle of fifths in the flat (right) direction?** a, e, b, f#, c#, g#, d#
 - **In music theory, what are the major keys of the circle of fifths in the sharp (left) direction?** C, F, B♭, E♭, A♭, D♭, G♭, C♭
 - **In music theory, what are the minor keys of the circle of fifths in the sharp (left) direction?** a, d, g, c, f, b♭, e♭
-- **In music theory, why is the circle of fifths called that?** Because each key to the right is a perfect fifth away
+- **In music theory, why is the circle of fifths called that?** Because each key to the right is a perfect fifth away from the previous key
 - **In music theory, what is the rule of nines?** That an interval and it's inversion always add up to nine
 
 ## Intervals
