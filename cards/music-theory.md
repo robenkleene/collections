@@ -73,8 +73,8 @@
 - **In music theory, what is the inversion of a 7th?** 2nd
 - **In music theory, what is the frequency ratio of a perfect fifth? `3:2`
 
-- **In music theory, what is a diminished interval?** An interval that's a half-step smaller than a perfect interval
-- **In music theory, what is an augmented interval?** An interval that's a half-step larger than a perfect interval
+- **In music theory, what does diminished mean on an interval?** A half-step fewer
+- **In music theory, what does augmented mean on an interval?** A half-step more
 - **In music theory, how many scale degrees is a fifth?** Five
 - **In music theory, what are the perfect intervals?** Unison, Perfect Fourth, Perfect Fifth, Octave
 - **In music theory, what are the major and minor intervals?** Second, Third, Sixth, Seventh
