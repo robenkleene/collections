@@ -92,11 +92,10 @@
 - **In music theory, how do you determine the type of interval?**
     1. Determine the difference in scale degrees 
     2. Remove all accidentals
-    3. 8 is perfect octave
-    4. 0 is perfect unison
-    5. If the interval is a fifth, if it's between F and B, it's either an augmented fourth or diminished fifth, otherwise it's perfect
-    7. If it's a second, third, sixth, or seventh, then if the top note is in the major key of the bottom note, it's major, otherwise if the bottom note is in the major key of the top note it's minor
-    8. Add back the accidentals and determine if the interval is major, minor, augmented, or diminished (accidentals never change the distance of the interval, only the type)
+    3. 8 scale degrees is a perfect octave, and 0 is a perfect unison
+    4. If the interval is a fifth, if it's between F and B, it's either an augmented fourth or diminished fifth, otherwise it's perfect
+    5. If it's a second, third, sixth, or seventh, then if the top note is in the major key of the bottom note, it's major, otherwise if the bottom note is in the major key of the top note it's minor
+    6. Add back the accidentals and determine if the interval is major, minor, augmented, or diminished (accidentals never change the distance of the interval, only the type)
 
 ### Chords
 
@@ -109,7 +108,7 @@
 - **In music theory, what is a major triad?** A chord with a minor third on top of a major third
 - **In music theory, what is an augmented triad?** A chord with two major thirds
 - **In music theory, what is a diatonic triad?** A chord in the current key
-- **In music theory, what are the diatonic triads starting from the root chord?** Tonic, Supertonic, Mediant, Subdominant, Dominant, Submediant, Leading-Tone
+- **In music theory, what are the scale degrees called starting from the root?** Tonic, supertonic, mediant, subdominant, dominant, submediant, leading note
 - **In music theory, what is a seventh chord?** A triad, plus a seventh interval above the chord's root
 - **In music theory, what is a major seventh chord?** A major triad, plus a major seventh
 - **In music theory, what is a dominant seventh?**A major triad, plus a minor seventh
