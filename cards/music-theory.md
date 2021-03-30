@@ -48,8 +48,8 @@
 
 ## Scales
 
-- **In music theory, what do you call the position of notes on the scale?** Scale degrees
-- **In music theory, what are scale degrees?** The position of notes on the scale
+- **In music theory, what is the position of a note relative to the root called?** Scale degrees
+- **In music theory, what are scale degrees?** The position of a notes relative to the root
 - **In music theory, what is a half step?** A step between two notes, regardless of color
 - **In music theory, what is a whole step?** Two half steps
 - **In music theory, what is the formula for a major scale?** `WWHWWWH`
