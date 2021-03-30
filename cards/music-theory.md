@@ -102,7 +102,7 @@
 
 - **In music theory, what is a triad?** A chord with three notes
 - **In music theory, what is tetrad?** A chord with four notes
-- **In music theory, what is the lowest note in a chord when it is not inverted called?** Root
+- **In music theory, what is the lowest note in a chord called (when it's not inverted called)?** The root
 - **In music theory, what is a chord in when it is not inverted?** Root position
 - **In music theory, what is a diminished triad?** A chord with two minor thirds
 - **In music theory, what is a minor triad?** A chord with a major third on top of a minor third
