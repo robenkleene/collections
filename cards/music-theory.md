@@ -96,9 +96,8 @@
     3. 8 is perfect octave
     4. 0 is perfect unison
     5. If the interval is a fifth, if it's between F and B, it's either an augmented fourth or diminished fifth, otherwise it's perfect
-    7. If the top note is in the major key of the bottom note, it's major
-    8. If the bottom note is in the major key of the top note, it's minor
-    9. Add back the accidentals and determine if the interval is major, minor, augmented, or diminished (accidentals never change the distance of the interval, only the inflection)
+    7. If it's a second, third, sixth, or seventh, then it's top note is in the major key of the bottom note, it's major, otherwise if the bottom note is in the major key of the top note it's minor
+    8. Add back the accidentals and determine if the interval is major, minor, augmented, or diminished (accidentals never change the distance of the interval, only the inflection)
 
 ### Chords
 
