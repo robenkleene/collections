@@ -61,18 +61,20 @@
 - **In music theory, why is the circle of fifths called that?** Because each key to the right is a perfect fifth away from the previous key
 ## Intervals
 
-- **In music theory, what is the rule of nines?** An interval and its inversion always add up to nine
+- **In music theory, what is an interval?** The distance in scale degrees between two notes
 - **In music theory, what is inverting an interval?** Moving the lower note up an octave, making it the higher note
+- **In music theory, what is the rule of nines?** An interval and its inversion always add up to nine
 - **In music theory, what is the inversion of a 2nd?** 7th
 - **In music theory, what is the inversion of a 3rd?** 6th
 - **In music theory, what is the inversion of a 4th?** 5th
 - **In music theory, what is the inversion of a 5th?** 4th
 - **In music theory, what is the inversion of a 6th?** 3rd
 - **In music theory, what is the inversion of a 7th?** 2nd
-- **In music theory, what is an interval?** The distance in scale degrees between two notes
 - **In music theory, what is the frequency ratio of a perfect fifth? `3:2`
+
 - **In music theory, what is a diminished interval?** An interval that's a half-step smaller than a perfect interval
 - **In music theory, what is an augmented interval?** An interval that's a half-step larger than a perfect interval
+- **In music theory, how many scale degrees is a fifth?** Five
 - **In music theory, what are the perfect intervals?** Unison, 4th, 5th, Octave
 - **In music theory, what are the major and minor intervals?** Second, Third, Sixth, Seventh
 - **In music theory, what is the difference between the major and minor intervals?** Major intervals have the tonic on the bottom, minor intervals have the tonic on top
