@@ -111,8 +111,8 @@
 - **In music theory, what are the scale degrees called starting from the root?** Tonic, supertonic, mediant, subdominant, dominant, submediant, leading note
 - **In music theory, what is a seventh chord?** A triad, plus a seventh interval above the chord's root
 - **In music theory, what is a major seventh chord?** A major triad, plus a major seventh
-- **In music theory, what is a dominant seventh?**A major triad, plus a minor seventh
-- **In music theory, what is a minor seventh?**A minor triad, plus a minor seventh
+- **In music theory, what is a dominant seventh?** A major triad, plus a minor seventh
+- **In music theory, what is a minor seventh?** A minor triad, plus a minor seventh
 - **In music theory, what is a half-diminished seventh?** A diminished triad, plus a minor seventh
 - **In music theory, what is a diminished seventh?** A diminished triad, plus a diminished seventh
 - **In music theory, what is the third of a chord?** The note at the third scale degree
