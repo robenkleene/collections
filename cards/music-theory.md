@@ -23,6 +23,10 @@
 
 - **In music theory, what is a quaver?** An eighth note
 - **In music theory, what is a crotchet?** A quarter note
+- **In music theory, what is the mnemonic for the treble clef lines?** Every good boy deserves fudge
+- **In music theory, what is the mnemonic for the treble clef spaces?** FACE
+- **In music theory, what is the mnemonic for the bass clef lines?** Good boys do fine always
+- **In music theory, what is the mnemonic for the bass clef spaces?** All cows eat grass
 
 ### Divisions
 
@@ -102,10 +106,6 @@
 - **In music theory, what is a half-diminished seventh?** A diminished triad, plus a minor seventh
 - **In music theory, what is a diminished seventh?** A diminished triad, plus a diminished seventh
 - **In music theory, what is the third of a chord?** The note two scale degrees above the root
-- **In music theory, what is the mnemonic for the treble clef lines?** Every good boy deserves fudge
-- **In music theory, what is the mnemonic for the treble clef spaces?** FACE
-- **In music theory, what is the mnemonic for the bass clef lines?** Good boys do fine always
-- **In music theory, what is the mnemonic for the bass clef spaces?** All cows eat grass
 
 ## Accents
 
