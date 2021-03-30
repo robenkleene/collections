@@ -59,6 +59,7 @@
 - **In music theory, what are the major keys of the circle of fifths in the sharp (left) direction?** C, F, B♭, E♭, A♭, D♭, G♭, C♭
 - **In music theory, what are the minor keys of the circle of fifths in the sharp (left) direction?** a, d, g, c, f, b♭, e♭
 - **In music theory, why is the circle of fifths called that?** Because each key to the right is a perfect fifth away from the previous key
+
 ## Intervals
 
 - **In music theory, what is an interval?** The distance in scale degrees between two notes
@@ -79,13 +80,14 @@
 - **In music theory, what are the major and minor intervals?** Second, Third, Sixth, Seventh
 - **In music theory, what is the difference between the major and minor intervals?** Major intervals have the tonic on the bottom, minor intervals have the tonic on top
 - **In music theory, why are the octave and unison called perfect?** Because the pitch doesn't change
-- **In music theory, all fifths are perfect except for those between which two keys?** F and B
+- **In music theory, all fourths and fifths are perfect except for those between which two keys?** F and B (the fourth has F on the bottom, the fifth has B on the bottom)
 - **In music theory, why are the perfect fourth and perfect fifth called that?** Because those intervals have a high degree of consonance
 - **In music theory, what happens to the frequency when you move a note up one octave in pitch?** The frequency doubles
 - **In music theory, how many half steps is a perfect fifth?** Seven
 - **In music theory, how many half steps is a perfect fourth?** Five
 - **In music theory, how many half steps is an augmented fourth?** Six
 - **In music theory, how many half steps is a diminished fourth?** Four
+- **In music theory, what is the difference between an augmented fourth and a diminished fifth?** They're identical
 - **In music theory, what is the tonic?** The first key of a scale
 - **In music theory, what is the inflection of an interval?** Whether it's perfect, major, minor, augmented, or diminished
 - **In music theory, how do you determine the type of interval?**
