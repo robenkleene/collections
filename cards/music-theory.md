@@ -11,7 +11,7 @@
 ## Meta
 
 - **In music theory, what do the top and bottom numbers in a time signature mean?** Beats per measure over note that's one beat.
-- **In music theory, what is a compound time signature?** A time signature that's multiple ways to count (usually in groups of three eighth notes)
+- **In music theory, what is a compound time signature?** A time signature that can be counted multiple ways (usually in groups of three eighth notes)
 
 ## Notes
 
@@ -26,10 +26,10 @@
 
 - **In music theory, what does the double sharp do?** Raise a note by two half steps
 - **In music theory, what does the double flat do?** Lower a note by two half steps
-- **In music theory, what is an accidental?** A note that isn't in the scale (indicated by a sharp or flat symbol)
+- **In music theory, what is an accidental?** A note that isn't in the current scale (indicated by a sharp or flat symbol)
 - **In music theory, what does a sharp do?** Raise a note by a half steps
 - **In music theory, what does a flat do?** Lower a note by a half steps
-- **In music theory, what does a natural do?** Cancels out a previous accidental
+- **In music theory, what does a natural do?** Cancels a previous accidental for a note
 - **In music theory, what does a dot mean on a note?** Add half of its length
 - **In music theory, what does a note with multiple dots mean?** Each dot adds half again of the length of the previous note
 
