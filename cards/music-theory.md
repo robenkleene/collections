@@ -15,8 +15,9 @@
 
 ## Notes
 
-- **In music theory, what is a quaver?** An eighth note
-- **In music theory, what is a crotchet?** A quarter note
+- **In music theory, what is a quaver?** Eighth note
+- **In music theory, what is a semiquaver?** Sixteenth note
+- **In music theory, what is a crotchet?** Quarter note
 - **In music theory, what is the mnemonic for the treble clef lines?** Every good boy deserves fudge
 - **In music theory, what is the mnemonic for the treble clef spaces?** FACE
 - **In music theory, what is the mnemonic for the bass clef lines?** Good boys do fine always
@@ -35,9 +36,10 @@
 
 ### Divisions
 
-- **In music theory, how do you calculate the duration of each note in a tuplet?** Take the division number and play that number of notes in the time it would usually take to play one less
+- **In music theory, what is a tuplet?** Tied notes with a number above indicating an irregular note division
+- **In music theory, how does a tuplet ratio work?** The number of notes to play to the number of normal notes they should be played in the same time as
+- **In music theory, how do you calculate the duration of each note in a tuplet with one number?** Play that number of notes in the time it would take to play one less
 - **In music theory, what do tied notes mean?** As one extended note
-- **In music theory, what is a tuplet?** An irregular note division
 - **In music theory, what does the number mean in a tuplet?** What the division is
 - **In music theory, what is a beam?** A flag connecting notes indicating rhythmic grouping
 - **In music theory, what is a tie?** A connection between notes of the same pitch indicating they should be played as one note
