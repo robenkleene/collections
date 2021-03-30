@@ -43,8 +43,8 @@
 - **In music theory, what is a tie?** A line grouping notes of the same pitch indicating they should be played as one note
 - **In music theory, what is a slur?** A line grouping notes of different pitches indicating they should be played with legato
 - **In music theory, what is legato?** A smooth transition between notes
-- **In music theory, what are the rules about when to use beams?** To group notes within beats
-- **In music theory, what are the rules about when to use a tie?** To connect notes across beats
+- **In music theory, when can beams be used?** To group notes within beats
+- **In music theory, when should ties be used?** To extend notes across beats
 
 ## Scales
 
