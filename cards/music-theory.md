@@ -75,10 +75,11 @@
 - **In music theory, what is a diminished interval?** An interval that's a half-step smaller than a perfect interval
 - **In music theory, what is an augmented interval?** An interval that's a half-step larger than a perfect interval
 - **In music theory, how many scale degrees is a fifth?** Five
-- **In music theory, what are the perfect intervals?** Unison, 4th, 5th, Octave
+- **In music theory, what are the perfect intervals?** Unison, Perfect Fourth, Perfect Fifth, Octave
 - **In music theory, what are the major and minor intervals?** Second, Third, Sixth, Seventh
 - **In music theory, what is the difference between the major and minor intervals?** Major intervals have the tonic on the bottom, minor intervals have the tonic on top
 - **In music theory, why are the octave and unison called perfect?** Because the pitch doesn't change
+- **In music theory, all fifths are perfect except for those between which two keys?** F and B
 - **In music theory, why are the perfect fourth and perfect fifth called that?** Because those intervals have a high degree of consonance
 - **In music theory, what happens to the frequency when you move a note up one octave in pitch?** The frequency doubles
 - **In music theory, how many half steps is a perfect fifth?** Seven
@@ -92,8 +93,7 @@
     2. Remove all accidentals
     3. 8 is perfect octave
     4. 0 is perfect unison
-    5. If the interval uses F or B, it's perfect
-    6. Otherwise, it's either an augmented fourth or diminished fifth
+    5. If the interval is a fifth, if it's between F and B, it's either an augmented fourth or diminished fifth, otherwise it's perfect
     7. If the top note is in the major key of the bottom note, it's major
     8. If the bottom note is in the major key of the top note, it's minor
     9. Add back the accidentals and determine if the interval is major, minor, augmented, or diminished (accidentals never change the distance of the interval, only the inflection)
