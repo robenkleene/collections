@@ -143,9 +143,9 @@
 
 ## Notes
 
-### One-Hundred-Twenty-Eighth Note
+### Hundred-Twenty-Eighth Note
 
-<img style="background-color: #FFF" src="assets/music/notes/one-hundred-twenty-eighth-note.svg">
+<img style="background-color: #FFF" src="assets/music/notes/hundred-twenty-eighth-note.svg">
 
 ### Sixty-Fourth Note
 
