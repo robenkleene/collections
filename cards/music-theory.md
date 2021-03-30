@@ -76,9 +76,10 @@
 - **In music theory, how many scale degrees is a fifth?** Five
 - **In music theory, what happens to the frequency when you move a note up one octave in pitch?** The frequency doubles
 - **In music theory, what is the frequency ratio of a perfect fifth?** `3:2`
+- **In music theory, what is the type of an interval?** Whether it's perfect, major, minor, augmented, or diminished
 - **In music theory, what are the perfect intervals?** Unison, Perfect Fourth, Perfect Fifth, Octave
 - **In music theory, what are the intervals that can be major or minor?** Second, Third, Sixth, Seventh
-- **In music theory, what is the tonic?** The first note of a scale
+- **In music theory, what is the tonic?** The first key of a scale
 - **In music theory, what is the difference between the major and minor intervals?** Major intervals have the tonic on the bottom, minor intervals have the tonic on top
 - **In music theory, why are the octave and unison called perfect?** Because the pitch doesn't change
 - **In music theory, why are the perfect fourth and perfect fifth called that?** Because those intervals are more consonance
@@ -88,8 +89,6 @@
 - **In music theory, how many half steps is an augmented fourth?** Six
 - **In music theory, how many half steps is a diminished fourth?** Four
 - **In music theory, what is the difference between an augmented fourth and a diminished fifth?** They're identical
-- **In music theory, what is the tonic?** The first key of a scale
-- **In music theory, what is the inflection of an interval?** Whether it's perfect, major, minor, augmented, or diminished
 - **In music theory, how do you determine the type of interval?**
     1. Determine the difference in scale degrees 
     2. Remove all accidentals
@@ -97,7 +96,7 @@
     4. 0 is perfect unison
     5. If the interval is a fifth, if it's between F and B, it's either an augmented fourth or diminished fifth, otherwise it's perfect
     7. If it's a second, third, sixth, or seventh, then if the top note is in the major key of the bottom note, it's major, otherwise if the bottom note is in the major key of the top note it's minor
-    8. Add back the accidentals and determine if the interval is major, minor, augmented, or diminished (accidentals never change the distance of the interval, only the inflection)
+    8. Add back the accidentals and determine if the interval is major, minor, augmented, or diminished (accidentals never change the distance of the interval, only the type)
 
 ### Chords
 
