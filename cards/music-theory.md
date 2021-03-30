@@ -77,6 +77,7 @@
 - **In music theory, what is the frequency ratio of a perfect fifth? `3:2`
 - **In music theory, what are the perfect intervals?** Unison, Perfect Fourth, Perfect Fifth, Octave
 - **In music theory, what are the intervals that can be major or minor?** Second, Third, Sixth, Seventh
+- **In music theory, what is the tonic?** The first note of a scale
 - **In music theory, what is the difference between the major and minor intervals?** Major intervals have the tonic on the bottom, minor intervals have the tonic on top
 - **In music theory, why are the octave and unison called perfect?** Because the pitch doesn't change
 - **In music theory, all fourths and fifths are perfect except for those between which two keys?** F and B (the fourth has F on the bottom, the fifth has B on the bottom)
