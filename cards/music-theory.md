@@ -1,22 +1,17 @@
 # Music Theory
 
-## Symbols
+## Stave
 
-- **In music theory, what is a clef?** The symbol that determines the pitch
-- **In music theory, what is an accidental?** A note that isn't in the current scale
-- **In music theory, what does the double sharp do?** Raise a note by two half steps
-- **In music theory, what does the double flat do?** Lower a note by two half steps
-- **In music theory, what does a sharp do?** Raise a note by a half steps
-- **In music theory, what does a flat do?** Lower a note by a half steps
-- **In music theory, what does a natural do?** Cancels out any accidental
-- **In music theory, what does a dot mean on a note?** Add one half of its length
-- **In music theory, what does a note with multiple dots mean?** Each dot adds one half the length of the previous notes value
+- **In music theory, what is a stave?** The lines representing pitches
+- **In music theory, what is a clef?** The symbol that determines the pitch of the lines in the stave
+- **In music theory, what is an accidental?** A note that isn't in the scale
+- **In music theory, what is measure?** The rhythmic grouping of notes
+- **In music theory, what is a bar?** A synonym for measure
+- **In music theory, what are barlines?** The lines between measures
 
 ## Meta
 
-- **In music theory, what is measure?** The grouping of notes
-- **In music theory, what are barlines?** The lines between measures
-- **In music theory, what do the two and bottom numbers in a time signature mean?** The top number is the number of beats per measure, and the bottom number is the note division that's considered one beat.
+- **In music theory, what do the top and bottom numbers in a time signature mean?** The top number is the number of beats per measure, and the bottom number is the note division that's considered one beat.
 - **In music theory, what is a compound time signature?** A time signature that can be counted multiple ways, usually in reference to groups of three eighth notes
 
 ## Notes
@@ -27,6 +22,16 @@
 - **In music theory, what is the mnemonic for the treble clef spaces?** FACE
 - **In music theory, what is the mnemonic for the bass clef lines?** Good boys do fine always
 - **In music theory, what is the mnemonic for the bass clef spaces?** All cows eat grass
+
+### Symbols
+
+- **In music theory, what does the double sharp do?** Raise a note by two half steps
+- **In music theory, what does the double flat do?** Lower a note by two half steps
+- **In music theory, what does a sharp do?** Raise a note by a half steps
+- **In music theory, what does a flat do?** Lower a note by a half steps
+- **In music theory, what does a natural do?** Cancels out a previous accidental
+- **In music theory, what does a dot mean on a note?** Add half of its length
+- **In music theory, what does a note with multiple dots mean?** Each dot adds half again of the length of the previous note
 
 ### Divisions
 
@@ -105,7 +110,9 @@
 - **In music theory, what is a minor seventh?**A minor triad, plus a minor seventh
 - **In music theory, what is a half-diminished seventh?** A diminished triad, plus a minor seventh
 - **In music theory, what is a diminished seventh?** A diminished triad, plus a diminished seventh
-- **In music theory, what is the third of a chord?** The note two scale degrees above the root
+- **In music theory, what is the third of a chord?** The note at the third scale degree
+- **In music theory, what is the fifth of a chord?** The note at the fifth scale degree
+- **In music theory, what is the seventh of a chord?** The note at the seventh scale degree
 
 ## Accents
 
