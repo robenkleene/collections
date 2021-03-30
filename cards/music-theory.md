@@ -1,5 +1,7 @@
 # Music Theory
 
+## Symbols
+
 - **In music theory, what is a clef?** The symbol that determines the pitch
 - **In music theory, what is an accidental?** A note that isn't in the current scale
 - **In music theory, what does the double sharp do?** Raise a note by two half steps
@@ -9,22 +11,36 @@
 - **In music theory, what does a natural do?** Cancels out any accidental
 - **In music theory, what does a dot mean on a note?** Add one half of its length
 - **In music theory, what does a note with multiple dots mean?** Each dot adds one half the length of the previous notes value
-- **In music theory, what do tied notes mean?** As one extended note
-- **In music theory, what is a tuplet?** An irregular note division
-- **In music theory, what does the number mean in a tuplet?** What the division is
-- **In music theory, how do you calculate the duration of each note in a tuplet?** Take the division number and play that number of notes in the time it would usually take to play one less
+
+## Meta
+
 - **In music theory, what is measure?** The grouping of notes
 - **In music theory, what are barlines?** The lines between measures
 - **In music theory, what do the two and bottom numbers in a time signature mean?** The top number is the number of beats per measure, and the bottom number is the note division that's considered one beat.
+- **In music theory, what is a compound time signature?** A time signature that can be counted multiple ways, usually in reference to groups of three eighth notes
+
+## Notes
+
 - **In music theory, what is a quaver?** An eighth note
 - **In music theory, what is a crotchet?** A quarter note
-- **In music theory, what is a compound time signature?** A time signature that can be counted multiple ways, usually in reference to groups of three eighth notes
+
+### Divisions
+
+- **In music theory, how do you calculate the duration of each note in a tuplet?** Take the division number and play that number of notes in the time it would usually take to play one less
+- **In music theory, what do tied notes mean?** As one extended note
+- **In music theory, what is a tuplet?** An irregular note division
+- **In music theory, what does the number mean in a tuplet?** What the division is
 - **In music theory, what is a beam?** A flag connecting notes indicating rhythmic grouping
 - **In music theory, what is a tie?** A connection between notes of the same pitch indicating they should be played as one note
 - **In music theory, what is a slur?** A connection between notes of different pitches indicating they should be played with legato
 - **In music theory, what is legato?** A smooth transition between notes
 - **In music theory, what are the rules about when to use beams?** To group notes within beats
 - **In music theory, what are the rules about when to use a tie?** To connect notes across beats
+
+## Scales
+
+- **In music theory, what do you call the position of notes on the scale?** Scale degrees
+- **In music theory, what are scale degrees?** The position of notes on the scale
 - **In music theory, what is a half step?** A step between two notes, regardless of color
 - **In music theory, what is a whole step?** Two half steps
 - **In music theory, what is the formula for a major scale?** `WWHWWWH`
@@ -32,6 +48,9 @@
 - **In music theory, what is the order of the circle of fifths in the flat direction?** C, G, D, A, E, B, F#, C#
 - **In music theory, what is the order of the circle of fifths in the sharp direction?** C, F, B♭, E♭, A♭, D♭, G♭, C♭
 - **In music theory, what is the rule of nines?** That an interval and it's inversion always add up to nine
+
+## Intervals
+
 - **In music theory, what does it mean to invert an interval?** Move the lower note up by an octave, making it the higher note
 - **In music theory, what is the inversion of a 2nd?** 7th
 - **In music theory, what is the inversion of a 3rd?** 6th
@@ -39,8 +58,6 @@
 - **In music theory, what is the inversion of a 5th?** 4th
 - **In music theory, what is the inversion of a 6th?** 3rd
 - **In music theory, what is the inversion of a 7th?** 2nd
-- **In music theory, what are scale degrees?** The position of notes on the scale
-- **In music theory, what do you call the position of notes on the scale?** Scale degrees
 - **In music theory, what is an interval?** The distance in scale degrees between two notes
 - **In music theory, what is a diminished interval?** An interval that's a half-step smaller than a perfect interval
 - **In music theory, what is an augmented interval?** An interval that's a half-step larger than a perfect interval
@@ -65,6 +82,9 @@
     7. If the top note is in the major key of the bottom note, it's major
     8. If the bottom note is in the major key of the top note, it's minor
     9. Add back the accidentals and determine if the interval is major, minor, augmented, or diminished (accidentals never change the distance of the interval, only the inflection)
+
+### Chords
+
 - **In music theory, what is a triad?** A chord with three notes
 - **In music theory, what is tetrad?** A chord with four notes
 - **In music theory, what is the lowest note in a chord when it is not inverted called?** Root
