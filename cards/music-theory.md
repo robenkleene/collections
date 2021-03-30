@@ -30,8 +30,8 @@
 - **In music theory, what does a sharp do?** Raise a note by a half steps
 - **In music theory, what does a flat do?** Lower a note by a half steps
 - **In music theory, what does a natural do?** Cancels a previous accidental for a note
-- **In music theory, what does a dot mean on a note?** Add half of its length
-- **In music theory, what does a note with multiple dots mean?** Each dot adds half again of the length of the previous note
+- **In music theory, what does a dot mean on a note?** Add half its length
+- **In music theory, what does a note with multiple dots mean?** Each dot adds half the length of the previous note
 
 ### Divisions
 
