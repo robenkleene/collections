@@ -201,9 +201,9 @@
 
 ## Rests
 
-### One-Hundred-Eighth Rest
+### Hundred Twenty-Eighth Rest
 
-<img style="background-color: #FFF" src="assets/music/rests/one-hunderd-twenty-eighth-rest.svg">
+<img style="background-color: #FFF" src="assets/music/rests/hunderd-twenty-eighth-rest.svg">
 
 ### Sixty Fourth Rest
 
