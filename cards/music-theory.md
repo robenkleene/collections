@@ -43,19 +43,22 @@
 - **In music theory, what is a tie?** Line grouping notes of the same pitch to be played as one extended note
 - **In music theory, what is a slur?** Line grouping notes of different pitches indicating they should be played with legato
 - **In music theory, what is legato?** A smooth transition between notes
-- **In music theory, when can beams be used?** To group notes within beats
-- **In music theory, when should ties be used?** To extend notes across beats
+- **In music theory, when should notes be beamed?** To group notes within beats
+- **In music theory, when should notes be tied?** To extend notes across beats
 
 ## Scales
 
 - **In music theory, what is the position of a note relative to the root called?** Scale degrees
 - **In music theory, what are scale degrees?** The position of a notes relative to the root
-- **In music theory, what is a half step?** A step between two notes, regardless of color
+- **In music theory, what is a half step?** A step between two notes (regardless of scale)
 - **In music theory, what is a whole step?** Two half steps
 - **In music theory, what is the formula for a major scale?** `WWHWWWH`
 - **In music theory, what is the formula for a minor scale?** `WHWWHWW`
-- **In music theory, what is the order of the circle of fifths in the flat direction?** C, G, D, A, E, B, F#, C#
-- **In music theory, what is the order of the circle of fifths in the sharp direction?** C, F, B♭, E♭, A♭, D♭, G♭, C♭
+- **In music theory, what are the major keys of the circle of fifths in the flat (right) direction?** C, G, D, A, E, B, F#, C#
+- **In music theory, what are the minor keys of the circle of fifths in the flat (right) direction?** a, e, b, f#, c#, g#, d#
+- **In music theory, what are the major keys of the circle of fifths in the sharp (left) direction?** C, F, B♭, E♭, A♭, D♭, G♭, C♭
+- **In music theory, what are the minor keys of the circle of fifths in the sharp (left) direction?** a, d, g, c, f, b♭, e♭
+- **In music theory, why is the circle of fifths called that?** Because each key is next to the keys that are a perfect fifth away
 - **In music theory, what is the rule of nines?** That an interval and it's inversion always add up to nine
 
 ## Intervals
@@ -68,6 +71,7 @@
 - **In music theory, what is the inversion of a 6th?** 3rd
 - **In music theory, what is the inversion of a 7th?** 2nd
 - **In music theory, what is an interval?** The distance in scale degrees between two notes
+- **In music theory, what is the frequency ratio of a perfect fifth? `3:2`
 - **In music theory, what is a diminished interval?** An interval that's a half-step smaller than a perfect interval
 - **In music theory, what is an augmented interval?** An interval that's a half-step larger than a perfect interval
 - **In music theory, what are the perfect intervals?** Unison, 4th, 5th, Octave
@@ -76,6 +80,7 @@
 - **In music theory, why are the octave and unison called perfect?** Because the pitch doesn't change
 - **In music theory, why are the perfect fourth and perfect fifth called that?** Because those intervals have a high degree of consonance
 - **In music theory, what happens to the frequency when you move a note up one octave in pitch?** The frequency doubles
+- **In music theory, how many half steps is a perfect fifth?** Seven
 - **In music theory, how many half steps is a perfect fourth?** Five
 - **In music theory, how many half steps is an augmented fourth?** Six
 - **In music theory, how many half steps is a diminished fourth?** Four
