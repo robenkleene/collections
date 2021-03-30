@@ -71,13 +71,12 @@
 - **In music theory, what is the inversion of a 5th?** 4th
 - **In music theory, what is the inversion of a 6th?** 3rd
 - **In music theory, what is the inversion of a 7th?** 2nd
-- **In music theory, what is the frequency ratio of a perfect fifth? `3:2`
-
-- **In music theory, what does diminished mean on an interval?** A half-step fewer
-- **In music theory, what does augmented mean on an interval?** A half-step more
+- **In music theory, what does diminished with intervals?** A half-step fewer
+- **In music theory, what does augmented with intervals?** A half-step more
 - **In music theory, how many scale degrees is a fifth?** Five
+- **In music theory, what is the frequency ratio of a perfect fifth? `3:2`
 - **In music theory, what are the perfect intervals?** Unison, Perfect Fourth, Perfect Fifth, Octave
-- **In music theory, what are the major and minor intervals?** Second, Third, Sixth, Seventh
+- **In music theory, what are the intervals that can be major or minor?** Second, Third, Sixth, Seventh
 - **In music theory, what is the difference between the major and minor intervals?** Major intervals have the tonic on the bottom, minor intervals have the tonic on top
 - **In music theory, why are the octave and unison called perfect?** Because the pitch doesn't change
 - **In music theory, all fourths and fifths are perfect except for those between which two keys?** F and B (the fourth has F on the bottom, the fifth has B on the bottom)
