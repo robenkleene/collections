@@ -59,11 +59,10 @@
 - **In music theory, what are the major keys of the circle of fifths in the sharp (left) direction?** C, F, B♭, E♭, A♭, D♭, G♭, C♭
 - **In music theory, what are the minor keys of the circle of fifths in the sharp (left) direction?** a, d, g, c, f, b♭, e♭
 - **In music theory, why is the circle of fifths called that?** Because each key to the right is a perfect fifth away from the previous key
-- **In music theory, what is the rule of nines?** That an interval and it's inversion always add up to nine
-
 ## Intervals
 
-- **In music theory, what does it mean to invert an interval?** Move the lower note up by an octave, making it the higher note
+- **In music theory, what is the rule of nines?** An interval and its inversion always add up to nine
+- **In music theory, what is inverting an interval?** Moving the lower note up an octave, making it the higher note
 - **In music theory, what is the inversion of a 2nd?** 7th
 - **In music theory, what is the inversion of a 3rd?** 6th
 - **In music theory, what is the inversion of a 4th?** 5th
