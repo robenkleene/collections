@@ -39,3 +39,4 @@ Some memorization helpers.
 - Linear Light (Loose Edges), Hard Light (Hard Edges), Vivid Light (Dodge & Burn), Pin Light (Poured paint)
 - Overlay (Yellow), Soft Light (Spotlight), Hue (Dark Green), Color (Dark Yellow)
 - Color Dodge (Color Eye), Linear Dodge (Low-Key Eye)
+- Difference (Dirty Brown), Exclusion (Green Egg)
