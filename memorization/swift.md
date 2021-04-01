@@ -80,6 +80,19 @@
 - **In Swift, what should the loop condition be when doing a depth-first tree traversal? Why can't this technique be used when doing breadth-first?** `while let node = stack.popLast()`, this doesn't work for breadth-first search because there's no way to optionally return the first element of an array.
 - **In Swift, how do you iterate through all the values of a loop that aren't `nil`?** `for case let value? in val`
 
+### Sorting
+
+- **In Swift, when passing a predicate to `sort` to sort in ascending order, should the should the predicate return true if the first or second argument is greater?** The second
+- **In Swift, if a predicate passed to `sort` returns true, which order will the two arguments be sorted?** The first before the second
+- **In Swift, how do you sort an array in an arbitrary order?** By passing a predicate to `sort`
+- **In Swift, how do you sort an array in descending order?** `arr.sort(by: >)`
+- **In Swift, what do you call the comparison function passed to sorted?** Predicate
+- **In Swift, what is the difference between `sort` and `sorted`?** `sort` is in place, `sorted` returns a sorted array
+
+## Dictionaries
+
+- **In Swift, what is the syntax for a dictionary literal?** `["key": "value"]`
+
 ## Strings
 
 - **In Swift, which feature does `String` not support that leads to a substring not being accessible with a range like an array is (e.g., `array[0..<5]`)?** Random access
