@@ -82,7 +82,7 @@
 
 ### Sorting
 
-- **In Swift, when passing a predicate to `sort` to sort in ascending order, should the should the predicate return true if the first or second argument is greater?** The second
+- **In Swift, when passing a predicate to `sort` to sort in ascending order, should it return true if the first or second argument is greater?** The second
 - **In Swift, if a predicate passed to `sort` returns true, which order will the two arguments be sorted?** The first before the second
 - **In Swift, how do you sort an array in an arbitrary order?** By passing a predicate to `sort`
 - **In Swift, how do you sort an array in descending order?** `arr.sort(by: >)`
