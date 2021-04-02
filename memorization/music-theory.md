@@ -126,6 +126,11 @@
 - Major Circle of Fifths sharp direction: Caroline Gets Drunk And Eats Butter Fly Cookies 
 - Major Circle of Fifths flat direction: Caroline fondles BEADS
 
+- Major sharp: `CGDAEBF`
+- Major flat:  `CFBEADG`
+- Minor sharp: `AEBFCGD`
+- Minor flat: `ADGCFBE`
+
 ### Key Signatures
 
 - Sharps added to key signatures: Five Cool Gentlemen Dining At Eight
