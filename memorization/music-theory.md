@@ -121,8 +121,13 @@
 
 ## Mnemonic
 
+### Circle of Fifths
+
 - Major Circle of Fifths sharp direction: Caroline Gets Drunk And Eats Butter Fly Cookies 
 - Major Circle of Fifths flat direction: Caroline fondles BEADS
+
+### Key Signatures
+
 - Sharps added to key signatures: Five Cool Gentlemen Dining At Eight
 - Flats added to key signatures: BEADS, Caroline!
 
