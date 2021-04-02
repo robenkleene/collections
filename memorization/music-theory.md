@@ -119,6 +119,13 @@
 - **In music theory, what is the fifth of a chord?** The note at the fifth scale degree
 - **In music theory, what is the seventh of a chord?** The note at the seventh scale degree
 
+## Mnemonic
+
+- Circle of Fifths sharp direction: Caroline Gets Drunk And Eats Butter Flies
+- Circle of Fifths flat direction: Caroline fondles BEADS
+- Sharps added to key signatures: Five Cool Gentlemen Dining At Eight
+- Flats added to key signatures: BEADS, Caroline!
+
 ## Accents
 
 ### Strong
