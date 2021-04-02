@@ -18,3 +18,15 @@
 - **In Figma, which snap settings relate to layout grids?** None
 
 ## Houdini
+
+- **In Houdini, what does a VOP do?**
+- **In Houdini, what does VOP stand for?**
+- **In Houdini, what does SOP stand for?**
+- **In Houdini, what does a SOP do?**
+- **In Houdini, what does VEX stand for?**
+- **In Houdini, what does VEX do?**
+- **In Houdini, what does DOP stand for?**
+- **In Houdini, what does a DOP do?**
+- **In Houdini, what does a VDB?**
+- **In Houdini, what does VDB stand for?** Nothing, sometimes interprted as "Voxel Data Base"
+- **What is a voxel?**
