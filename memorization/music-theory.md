@@ -138,6 +138,9 @@
 - Bead is spelt in the flat direction
 - Minor starts on A
 - Major starts on C
+- The sequence is BEADGCF
+- For Major/Minor in the sharps direction, the sharps start on F
+- For Major/Minor in the flats direction, the flats start on B
 
 ### Key Signatures
 
