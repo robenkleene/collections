@@ -126,10 +126,18 @@
 - Major Circle of Fifths sharp direction: Caroline Gets Drunk And Eats Butter Fly Cookies 
 - Major Circle of Fifths flat direction: Caroline fondles BEADS
 
+#### Sequence
+
 - Major sharp: `CGDAEBF`
 - Major flat:  `CFBEADG`
 - Minor sharp: `AEBFCGD`
 - Minor flat: `ADGCFBE`
+
+##### Notes
+
+- Bead is spelt in the flat direction
+- Minor starts on A
+- Major starts on C
 
 ### Key Signatures
 
