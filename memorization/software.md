@@ -34,13 +34,13 @@
 - **In Houdini, how do you pan?** `Right-Drag`
 - **In Houdini, how do you orbit?** `Drag`
 - **In Houdini, how do you zoom?** `Scroll`
-- **In Houdini, what does a VOP do?**
-- **In Houdini, what does VOP stand for?**
-- **In Houdini, what does SOP stand for?**
-- **In Houdini, what does a SOP do?**
-- **In Houdini, what does VEX stand for?**
-- **In Houdini, what does VEX do?**
-- **In Houdini, what does DOP stand for?**
-- **In Houdini, what does a DOP do?**
-- **In Houdini, what does a VDB do?**
+- **In Houdini, what are VOPs used for?** Anything
+- **In Houdini, what does VOP stand for?** Vector Operator
+- **In Houdini, what does SOP stand for?** Surface Operator
+- **In Houdini, what are SOPs used for?** Geometry
+- **In Houdini, what does VEX stand for?** Vector Expressions
+- **In Houdini, what is VEX used for?** Programming
+- **In Houdini, what does DOP stand for?** Dynamics Operator
+- **In Houdini, what are DOPs used for?** Simulations
 - **In Houdini, what does VDB stand for?** Nothing (sometimes interpreted as "Voxel Data Base")
+- **In Houdini, what are VDBs used for?** Volumes
