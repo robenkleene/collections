@@ -31,9 +31,9 @@
 
 ## Houdini
 
-- **In Houdini, how do you pan?** Right-click and drag
-- **In Houdini, how do you orbit?** Drag
-- **In Houdini, how do you zoom?** Scroll
+- **In Houdini, how do you pan?** `Right-Drag`
+- **In Houdini, how do you orbit?** `Drag`
+- **In Houdini, how do you zoom?** `Scroll`
 - **In Houdini, what does a VOP do?**
 - **In Houdini, what does VOP stand for?**
 - **In Houdini, what does SOP stand for?**
