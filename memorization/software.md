@@ -44,3 +44,4 @@
 - **In Houdini, what are DOPs used for?** Simulations
 - **In Houdini, what does VDB stand for?** Nothing (sometimes interpreted as "Voxel Data Base")
 - **In Houdini, what are VDBs used for?** Volumes
+- **In Houdini, what does COP stand for?** Compositing Operator
