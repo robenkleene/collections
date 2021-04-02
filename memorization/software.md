@@ -17,8 +17,23 @@
 - **In Figma, how does snapping work when a layout grid is applied to a frame?** All of that frame's children snap to that grid.
 - **In Figma, which snap settings relate to layout grids?** None
 
+## Unity
+
+- **In Unity, how do you pan?** `Drag` (with the hand tool active, hold `⌥⌘` to activate momentarily)
+- **In Unity, how do you orbit?** `⌥Drag`
+- **In Unity, how do you zoom?** `Scroll`
+
+## Blender
+
+- **In Blender, how do you pan?** `⇧Scroll`
+- **In Blender, how do you orbit?** `Scroll`
+- **In Blender, how do you zoom?** `Pinch`
+
 ## Houdini
 
+- **In Houdini, how do you pan?** Right-click and drag
+- **In Houdini, how do you orbit?** Drag
+- **In Houdini, how do you zoom?** Scroll
 - **In Houdini, what does a VOP do?**
 - **In Houdini, what does VOP stand for?**
 - **In Houdini, what does SOP stand for?**
@@ -27,6 +42,5 @@
 - **In Houdini, what does VEX do?**
 - **In Houdini, what does DOP stand for?**
 - **In Houdini, what does a DOP do?**
-- **In Houdini, what does a VDB?**
-- **In Houdini, what does VDB stand for?** Nothing, sometimes interprted as "Voxel Data Base"
-- **What is a voxel?**
+- **In Houdini, what does a VDB do?**
+- **In Houdini, what does VDB stand for?** Nothing (sometimes interpreted as "Voxel Data Base")
