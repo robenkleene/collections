@@ -246,7 +246,15 @@
 - **What is the basic pattern for recursive search?** Return the value if it's found, or nothing if the search is finished, as the base case. Then return the result of recursing into a value.
 - **What is the basic pattern for recursive insertion?** Return the new value in the base case, set the variable being recursed into to the result of the recursive call, and return the original value at the end
 
-## Bitwise
+## Binary
+
+- **What is `-1` in two's complement?** `11111111`
+- **What is `-2` in two's complement?** `11111110`
+- **In two's complement, how do you convert a positive integer to negative?** Invert the bits and add one
+- **In two's complement, how do you convert a negative integer to positive?** Invert the bits and add one
+- **In two's complement, why do you add one in both directions to convert between negative and positive?** Inverting always subtracts one
+
+### Bitwise
 
 - **What is a bit?** 0 or 1
 - **What is a bit array?** An array of bits
