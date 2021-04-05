@@ -89,13 +89,16 @@
 - **In music theory, how many half steps is an augmented fourth?** Six
 - **In music theory, how many half steps is a diminished fourth?** Four
 - **In music theory, what is the difference between an augmented fourth and a diminished fifth?** They're identical
-- **In music theory, how do you determine the type of interval?**
-    1. Determine the difference in scale degrees 
-    2. Remove all accidentals
-    3. 8 scale degrees is a perfect octave, and 0 is a perfect unison
-    4. If the interval is a fifth, if it's between F and B, it's either an augmented fourth or diminished fifth, otherwise it's perfect
-    5. If it's a second, third, sixth, or seventh, then if the top note is in the major key of the bottom note, it's major, otherwise if the bottom note is in the major key of the top note it's minor
-    6. Add back the accidentals and determine if the interval is major, minor, augmented, or diminished (accidentals never change the distance of the interval, only the type)
+- **In music theory, how do you determine the type of an interval?**
+    1. Remove accidentals and count scale degrees
+    2. 8 is perfect octave, 0 is perfect unison
+    3. If it's a fifth, and it's between F and B, it's either an augmented fourth (F on the bottom) or diminished fifth (B on the bottom), otherwise it's perfect
+    4. If it's a second, third, sixth, or seventh, then if the top note is in the major key of the bottom note, it's major, otherwise if the bottom note is in the major key of the top note it's minor
+    5. Add back the accidentals and determine if the interval is augmented or diminished (accidentals never change the distance of the interval, only the type)
+
+#### Mnemonic
+
+- F is augmented fourth, B is diminished fifth
 
 ### Chords
 
