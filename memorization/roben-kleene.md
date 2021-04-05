@@ -14,6 +14,10 @@
 - **How do you avoid giving your current salary if they persist?** "I'm not comfortable sharing proprietary information about how my previous employers pay people like me."
 - **How do you answer questions about your salary expectations?** "I honestly don't have a number in mind. Obviously I'll be  evaluating the whole package, of which salary would just be one component. What's the salary range for the position?"
 
+### Mnemonics
+
+- **iPhone vs. iPad:** Only the iPhone involves cats
+
 ## Title Case
 
 - **In title case, what are the three types of words that are capitalized?** 1. Nouns, 2. Other major words, 3. Words with four or more letters.
