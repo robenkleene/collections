@@ -70,6 +70,11 @@
 - **In Swift, what is `..<` called?** The half-open range operator
 - **In Swift, what is `...` called?** The closed range operator
 
+### Mnemonic
+
+- A close range includes both endpoints (ye[s e] endpoint)
+- An open range is missing both endpoints ([e]ndpoint [n]o)
+
 ## Arrays
 
 - **In Swift, how do you create an array from a string?** `Array("string")`
