@@ -147,8 +147,9 @@
 
 ### Key Signatures
 
-- Sharps added to key signatures: Five Cool Gentlemen Dining At Eight
-- Flats added to key signatures: BEADS, Caroline!
+#### Mnemonic
+
+- To determine the key signature, just use `GCFBEAD`.
 
 ## Accents
 
