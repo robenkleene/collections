@@ -150,6 +150,7 @@
 #### Mnemonic
 
 - To determine the key signature, just use `GCFBEAD`.
+- Reverse direction: Key signatures end with seven, which is C/A again, so you can work backwards from seven to find signatures in the opposite direction.
 
 ## Accents
 
