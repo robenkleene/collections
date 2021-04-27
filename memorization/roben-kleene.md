@@ -16,7 +16,7 @@
 
 ### Mnemonics
 
-- **iPhone vs. iPad:** Only the iPhone involves cats
+- **iPhone vs. iPad:** All the iPhone dates involves cats, cats are smaller than dogs
 
 ## Title Case
 
