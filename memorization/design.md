@@ -34,9 +34,14 @@ Some memorization helpers.
 - **Soft Light**: Lightened like dodging or darken like burning based on the blend color ("S" for "special" and "spotlight")
 - **Pin Light**: Darken and lighten simultaneously (Dark and light with a pin between them)
 
-### Close Matches
+### Mnemonics
 
-- Linear Light (Loose Edges), Hard Light (Hard Edges), Vivid Light (Dodge & Burn), Pin Light (Poured paint)
+- Linear: Uses brightness
+- Color: Uses contrast
+
+#### Identifying
+
+- Linear Light (Loose Edges), Hard Light (Hard Edges), Vivid Light (Mark of the best, Dodge & Burn), Pin Light (Poured paint)
 - Overlay (Yellow), Soft Light (Spotlight), Hue (Dark Green), Color (Dark Yellow)
 - Color Dodge (Color Eye), Linear Dodge (Low-Key Eye)
 - Difference (Dirty Brown), Exclusion (Green Egg)

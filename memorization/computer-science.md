@@ -59,6 +59,11 @@
 - **What is the time complexity of quicksort, heapsort, and merge sort?** `O(n log n)`, but the worst case of quicksort is `O(N^2)`, whereas the other two have the same worst case.
 - **What's the time complexity of bubble sort, selection sort, and insertion sort?** `O(n^2)`
 
+#### Mnemonic
+
+- Selection sort: Select the highest
+- Insertion sort: Insert in order
+
 ### Examples
 
 - **What type of algorithm results in factorial (`O(x!)`) runtime?** Finding every permutation (e.g., a brute-force solution to the travelling salesman problem).
