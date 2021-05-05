@@ -111,10 +111,11 @@
 - **In music theory, what is a major triad?** A chord with a minor third on top of a major third
 - **In music theory, what is an augmented triad?** A chord with two major thirds
 - **In music theory, what is a diatonic triad?** A chord in the current key
-- **In music theory, what are the scale degrees called starting from the root?** Tonic, supertonic, mediant, subdominant, dominant, submediant, leading note
 - **In music theory, what is the third of a chord?** The note at the third scale degree
 - **In music theory, what is the fifth of a chord?** The note at the fifth scale degree
 - **In music theory, what is the seventh of a chord?** The note at the seventh scale degree
+- **In music theory, what are the scale degrees called starting from the root?** Tonic, supertonic, mediant, subdominant, dominant, submediant, leading note
+    - **Mnemonic:** To see more sheep, don't say lunch
 
 #### Seventh Chords
 
