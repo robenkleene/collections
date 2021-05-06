@@ -115,7 +115,7 @@
 - **In music theory, what is the fifth of a chord?** The note at the fifth scale degree
 - **In music theory, what is the seventh of a chord?** The note at the seventh scale degree
 - **In music theory, what are the scale degrees called starting from the root?** Tonic, supertonic, mediant, subdominant, dominant, submediant, leading note
-    - **Mnemonic:** To see more sheep, don't say lunch
+    - **Mnemonic:** To see more sheep, don't sleep long
 
 #### Seventh Chords
 
