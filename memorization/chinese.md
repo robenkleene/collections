@@ -3,7 +3,7 @@
 - Hànyǔ: Chinese language
 - Hànzì: Chinese characters
 - Yīngyǔ: English language
-- Zàijiàn: goodbye
+- zàijiàn: goodbye
 - nǐhǎo: hello
 - Měiguó: USA
 - Zhōngguó: China
