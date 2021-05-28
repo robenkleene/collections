@@ -94,9 +94,11 @@
 
 ### Units
 
-- **What phrase is bit a contraction of?** Binary digit
-- **What is a byte?** 8 bits
-- **What is the highest integer that can be stored in a byte?** 255
+- **In computer science, what phrase is bit a contraction of?** Binary digit
+- **In computer science, what is a byte?** 8 bits
+- **In computer science, what is the highest integer that can be stored in a byte?** 255
+- **In computer science, what three sections are used to represent a float in memory?** A sign bit, exponent, significand
+- **In math, what is a significand?** The significant digits in scientific notation
 
 ## Data Structures
 
