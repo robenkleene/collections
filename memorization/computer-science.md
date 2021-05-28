@@ -92,6 +92,12 @@
 - **What is manual memory management?** Manually calling functions to return memory to the heap, this is in contrast to automatic memory management techniques like garbage collection or automatic reference counting.
 - **Where are global and static variables stored in C?** They're stored in the data segment, which is separate from the stack and the heap.
 
+### Units
+
+- **What phrase is bit a contraction of?** Binary digit
+- **What is a byte?** 8 bits
+- **What is the highest integer that can be stored in a byte?** 255
+
 ## Data Structures
 
 - **What is an abstract data type?** A data type design that doesn't specifying an implementation. In contrast to a "data structure" which is an implementation of a data type.
