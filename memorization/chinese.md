@@ -15,3 +15,10 @@
 - bù: not
 - dōu: all
 - xué: learn
+
+## Food
+
+- mángguǒ: mango
+- xīgua: watermelon
+- bōluó: pineapple
+- píngguǒ: apple
