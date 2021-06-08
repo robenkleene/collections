@@ -15,3 +15,8 @@
 - bù: not
 - dōu: all
 - xué: learn
+- shuǐguǒ: fruit
+- jīdàn: egg
+- bǐnggān: biscuit; cracker; cookie
+- miànbāo: bread
+- xǐhuan: like
