@@ -15,8 +15,15 @@
 - bù: not
 - dōu: all
 - xué: learn
+- xǐhuan: like
+
+## Food
+
 - shuǐguǒ: fruit
 - jīdàn: egg
 - bǐnggān: biscuit; cracker; cookie
 - miànbāo: bread
-- xǐhuan: like
+- mángguǒ: mango
+- xīgua: watermelon
+- bōluó: pineapple
+- píngguǒ: apple
