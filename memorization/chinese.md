@@ -27,3 +27,10 @@
 - xīgua: watermelon
 - bōluó: pineapple
 - píngguǒ: apple
+
+## Drink
+
+- kāfēi: coffee
+- chá: tea
+- guǒzhī: juice
+- shuǐ: water
