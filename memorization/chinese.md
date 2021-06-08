@@ -16,6 +16,7 @@
 - dōu: all
 - xué: learn
 - xǐhuan: like
+- hē: drink
 
 ## Food
 
