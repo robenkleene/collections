@@ -40,3 +40,11 @@
 - kělè: cola
 - píjiǔ: beer
 - niúnǎi: milk
+
+## Numbers
+
+- yī: one
+- liǎng: two
+- sān: three
+- sì: four
+- wǔ: five
