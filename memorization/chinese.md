@@ -17,6 +17,8 @@
 - xué: learn
 - xǐhuan: like
 - hē: drink
+- mǎi: buy
+- xiǎng: want to
 
 ## Food
 
@@ -35,3 +37,6 @@
 - chá: tea
 - guǒzhī: juice
 - shuǐ: water
+- kělè: cola
+- píjiǔ: beer
+- niúnǎi: milk
