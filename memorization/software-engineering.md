@@ -37,6 +37,12 @@
 - **What does UTF-8 stand for?** Unicode Transformation Format (8-bit)
 - **What does ASCII stand for?** American Standard Code for Information Interchange
 - **What is ASCII?** A character set and encoding that maps 128 digits to letters
-- **What is the relationship between ASCII and UTF-8?** UTF-8 uses the same characters for the first 128 digits as ASCII
+- **What is the relationship between ASCII and UTF-8?** UTF-8 uses the same characters for the first 128 digits as ASCII, and the next 128 are the same as Extended ASCII or ISO 8859-1 or Latin-1
 - **What does ISO 8859-1 stand for?** International Organization for Standardization (the same one as for ISO in photography)
-- **What is ISO 8859-1 or Latin-1?** An extension to ASCII that adds one more bit for 256 characters
+- **What is Extended ASCII or ISO 8859-1 or Latin-1?** An extension to ASCII that adds one more bit for 256 characters (in particular accented characters)
+
+### ASCII
+
+- `0-31`: Control characters
+- `32-127`: Printable characters
+- `128-255`: Extended ASCII characters
