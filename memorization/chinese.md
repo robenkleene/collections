@@ -48,3 +48,13 @@
 - sān: three
 - sì: four
 - wǔ: five
+- liù: six
+- qī: seven
+- bā: eight
+- jiǔ: nine
+- shí: ten
+
+### More
+
+- duōshao: how many
+- qián: money
