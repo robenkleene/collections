@@ -40,11 +40,14 @@
 - kělè: cola
 - píjiǔ: beer
 - niúnǎi: milk
+- bēi: glasses of
+- píng: bottle
 
 ## Numbers
 
 - yī: one
 - liǎng: two
+- èr: two (before measure)
 - sān: three
 - sì: four
 - wǔ: five
@@ -53,8 +56,10 @@
 - bā: eight
 - jiǔ: nine
 - shí: ten
+- bǎi: hundred
 
 ### More
 
 - duōshao: how many
 - qián: money
+- gè: measure word
