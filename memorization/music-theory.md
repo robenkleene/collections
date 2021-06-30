@@ -96,7 +96,7 @@
     4. If it's a second, third, sixth, or seventh, then if the top note is in the major key of the bottom note, it's major, otherwise if the bottom note is in the major key of the top note it's minor
     5. Add back the accidentals and determine if the interval is augmented or diminished (accidentals never change the distance of the interval, only the type)
 
-#### Mnemonic
+### Mnemonic
 
 - F is augmented fourth, B is diminished fifth
 
@@ -114,6 +114,8 @@
 10. `m7`
 11. `M7`
 12. `P8`
+
+- `mMmMPTPmMmMP`
 
 ### Chords
 
