@@ -41,6 +41,7 @@
         case west
     }
     ```
+
 - **In Swift, what are the the related values in an enum called?** Enumeration cases
 - **In Swift, how do you specify multiple enum cases on the same line?** `case north, south, east, west`
 - **In Swift, how do you declare an associated value for an enum case?** `case value(Int)`
@@ -53,6 +54,7 @@
         case Int = 1
     }
     ```
+
 - **In Swift, what is the default value for an enum called?** Raw value
 - **In Swift, what aspect of enum makes it a good choice for defining constants?** They can't be instantiated.
 - **In Swift, how do you assign the associated value for an enumeration case?** `let direction = CompassPoint.north("north")`
