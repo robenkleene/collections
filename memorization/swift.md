@@ -75,7 +75,7 @@
 ### Mnemonic
 
 - A close range includes both endpoints (`ye[s e] endpoint`)
-- An open range is missing both endpoints (`[e]ndpoint [n]o`)
+- An open range does not include the endpoints (i.e., it's less than the upper endpoint or greater than the lower endpoint) (`[e]ndpoint [n]o`)
 
 ## Arrays
 
