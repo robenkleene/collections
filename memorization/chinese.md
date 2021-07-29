@@ -19,6 +19,13 @@
 - `hē`: drink
 - `mǎi`: buy
 - `xiǎng`: want to
+- [ ] `rén`: person
+- [ ] `yǒu`: have
+- [ ] `méiyou`: do not have
+- [ ] `kǒu`: measure word for family members
+- [ ] `jǐ`: how many
+- [ ] `zhè`: this
+- [ ] `nà`: that
 
 ## Food
 
@@ -63,3 +70,22 @@
 - `duōshao`: how many
 - `qián`: money
 - `gè`: measure word
+
+### Family
+
+- [ ] `bàba`: father
+- [ ] `nǎinai`: grandmother
+- [ ] `yéye`: grandfather
+- [ ] `māma`: mother
+- [ ] `gēge`: older brother
+- [ ] `jiějie`: older sister
+- [ ] `dìdi`: younger brother
+- [ ] `mèimei`: younger sister
+- [ ] `ài`: love
+- [ ] `jiā`: family
+- [ ] `máo`: cat
+- [ ] `gǒu`: dog
+
+### Phrases
+
+- [ ] `wǒ ài nǐ`: I love you
