@@ -19,13 +19,13 @@
 - `hē`: drink
 - `mǎi`: buy
 - `xiǎng`: want to
-- [ ] `rén`: person
-- [ ] `yǒu`: have
-- [ ] `méiyou`: do not have
-- [ ] `kǒu`: measure word for family members
-- [ ] `jǐ`: how many
-- [ ] `zhè`: this
-- [ ] `nà`: that
+- [x] `rén`: person
+- [x] `yǒu`: have
+- [x] `méiyou`: do not have
+- [x] `kǒu`: measure word for family members
+- [x] `jǐ`: how many
+- [x] `zhè`: this
+- [x] `nà`: that
 
 ## Food
 
@@ -73,19 +73,19 @@
 
 ### Family
 
-- [ ] `bàba`: father
-- [ ] `nǎinai`: grandmother
-- [ ] `yéye`: grandfather
-- [ ] `māma`: mother
-- [ ] `gēge`: older brother
-- [ ] `jiějie`: older sister
-- [ ] `dìdi`: younger brother
-- [ ] `mèimei`: younger sister
-- [ ] `ài`: love
-- [ ] `jiā`: family
-- [ ] `máo`: cat
-- [ ] `gǒu`: dog
+- [x] `bàba`: father
+- [x] `nǎinai`: grandmother
+- [x] `yéye`: grandfather
+- [x] `māma`: mother
+- [x] `gēge`: older brother
+- [x] `jiějie`: older sister
+- [x] `dìdi`: younger brother
+- [x] `mèimei`: younger sister
+- [x] `ài`: love
+- [x] `jiā`: family
+- [x] `máo`: cat
+- [x] `gǒu`: dog
 
 ### Phrases
 
-- [ ] `wǒ ài nǐ`: I love you
+- [x] `wǒ ài nǐ`: I love you
