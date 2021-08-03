@@ -44,3 +44,7 @@
 - **What is the winter solstice?** The shortest day of the year and the first day of winter
 - **What is the spring equinox?** Equal length day and night, and the first day of spring
 - **What is the fall equinox?** Equal length day and night, and the first day of fall
+
+## Seasons
+
+- **In which months do each of the four seasons start?** Spring: March (3), Summer: June (6), Fall: September (9), Winter: December (12) 
