@@ -84,8 +84,8 @@
 - [x] `ài`: love
 - [x] `jiā`: family
 - [x] `máo`: cat
-- [x] `gǒu`: dog
+- `gǒu`: dog
 
 ### Phrases
 
-- [x] `wǒ ài nǐ`: I love you
+- `wǒ ài nǐ`: I love you
