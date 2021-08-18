@@ -65,13 +65,13 @@
 - `shí`: ten
 - `bǎi`: hundred
 
-### More
+## More
 
 - `duōshao`: how many
 - `qián`: money
 - `gè`: measure word
 
-### Family
+## Family
 
 - `bàba`: father
 - `nǎinai`: grandmother
@@ -86,6 +86,25 @@
 - `máo`: cat
 - `gǒu`: dog
 
-### Phrases
+## Tips
+
+- `shì`: be
+- `shí`: ten
+- Up is pointing to the right
+
+## Phrases
 
 - `wǒ ài nǐ`: I love you
+
+## Dates
+
+- Xīngqīyī: Monday
+- Xīngqī'èr: Tuesday
+- Xīngqīsān: Wednesday
+- Xīngqīsì: Thursday
+- Xīngqīwǔ: Friday
+- Xīngqīliù: Saturday
+- Xīngqītiān: Sunday
+- jīntiān: today
+- míngtiān: tomorrow
+- zuótiān: yesterday
