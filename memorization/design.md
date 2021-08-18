@@ -48,6 +48,11 @@ Some memorization helpers.
     ![Multiply](assets/blend-modes/blend-mode-multiply.png)
     ![Linear Burn](assets/blend-modes/blend-mode-linear-burn.png)
 
+## Screen vs. Multiply
+
+- **Multiply**: `<base color> * <blend color>`
+- **Screen**: `1 - (1 - <base color>) * (1 - <blend color>)`
+
 ### Pairs
 
 - **What are the two blend modes that leave the image looking largely the same, from darkest to lightest?** Hue, Color
