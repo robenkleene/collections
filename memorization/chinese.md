@@ -98,6 +98,8 @@
 
 ## Dates
 
+### Weekdays
+
 - Xīngqīyī: Monday
 - Xīngqī'èr: Tuesday
 - Xīngqīsān: Wednesday
@@ -105,6 +107,24 @@
 - Xīngqīwǔ: Friday
 - Xīngqīliù: Saturday
 - Xīngqītiān: Sunday
+
+### Months
+
+- [ ] yīyuè: January
+- [ ] èryuè: February
+- [ ] sānyuè: March
+- [ ] sìyuè: April
+- [ ] wǔyuè: May
+- [ ] liùyuè: June
+- [ ] qīyuè: July
+- [ ] bāyuè: August
+- [ ] jiǔyuè: September
+- [ ] shíyuè: October
+- [ ] shíyīyuè: November
+- [ ] shíèryuè: December
+
+### Special
+
 - jīntiān: today
 - míngtiān: tomorrow
 - zuótiān: yesterday
