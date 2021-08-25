@@ -91,6 +91,9 @@
 - `shì`: be
 - `shí`: ten
 - Up is pointing to the right
+- `shuō`: speak
+- `shuǐ`: water
+- Fengshui is wind water
 
 ## Phrases
 
