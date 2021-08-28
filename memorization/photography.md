@@ -29,6 +29,9 @@
 - **What does focal length determine?** How wide a shot is
 - **How is the zoom implementation different between a traditional camera and a mobile camera?** A mobile camera just crops in software, a traditional camera changes the focal length by moving the lens
 - **How does increasing the focal length change the shot?** The larger the focal length, the more magnified and narrower the shot
+- **Why does shrinking the aperature increase the depth of field?** Because it reduces the used part of the lens, which leads to less aberrations
+
+    ![Aperature and Depth of Field](assets/photography/aperature-and-depth-of-field.png)
 
 ### Lens
 
