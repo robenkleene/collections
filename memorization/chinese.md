@@ -23,7 +23,7 @@
 - `yǒu`: have
 - `méiyou`: do not have
 - `kǒu`: measure word for family members
-- `jǐ`: how many
+- `jǐ`: how many (small numbers)
 - `zhè`: this
 - `nà`: that
 
@@ -67,7 +67,7 @@
 
 ## More
 
-- `duōshao`: how many
+- `duōshao`: how many (big numbers)
 - `qián`: money
 - `gè`: measure word
 
@@ -98,36 +98,40 @@
 ## Phrases
 
 - `wǒ ài nǐ`: I love you
+- [ ] `jīntiān shì jǐ yuè jǐ hào`: what is the date?
 
 ## Dates
 
+- [ ] `hào`: day in date
+- [ ] `yuè`: month
+
 ### Weekdays
 
-- Xīngqīyī: Monday
-- Xīngqī'èr: Tuesday
-- Xīngqīsān: Wednesday
-- Xīngqīsì: Thursday
-- Xīngqīwǔ: Friday
-- Xīngqīliù: Saturday
-- Xīngqītiān: Sunday
+- `Xīngqīyī`: Monday
+- `Xīngqī'èr`: Tuesday
+- `Xīngqīsān`: Wednesday
+- `Xīngqīsì`: Thursday
+- `Xīngqīwǔ`: Friday
+- `Xīngqīliù`: Saturday
+- `Xīngqītiān`: Sunday
 
 ### Months
 
-- [ ] yīyuè: January
-- [ ] èryuè: February
-- [ ] sānyuè: March
-- [ ] sìyuè: April
-- [ ] wǔyuè: May
-- [ ] liùyuè: June
-- [ ] qīyuè: July
-- [ ] bāyuè: August
-- [ ] jiǔyuè: September
-- [ ] shíyuè: October
-- [ ] shíyīyuè: November
-- [ ] shíèryuè: December
+- [ ] `yīyuè`: January
+- [ ] `èryuè`: February
+- [ ] `sānyuè`: March
+- [ ] `sìyuè`: April
+- [ ] `wǔyuè`: May
+- [ ] `liùyuè`: June
+- [ ] `qīyuè`: July
+- [ ] `bāyuè`: August
+- [ ] `jiǔyuè`: September
+- [ ] `shíyuè`: October
+- [ ] `shíyīyuè`: November
+- [ ] `shíèryuè`: December
 
 ### Special
 
-- jīntiān: today
-- míngtiān: tomorrow
-- zuótiān: yesterday
+- `jīntiān`: today
+- `míngtiān`: tomorrow
+- `zuótiān`: yesterday
