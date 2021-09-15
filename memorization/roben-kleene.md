@@ -36,10 +36,10 @@
 
 ## Dates
 
-- **When is the first day of spring?** March 19th, 20th, or 21st
-- **When is the first day of winter?** December 21st or 22nd
-- **When is the first day of fall?** Usually September 22nd or 23rd, rarely, 21st or 24th
-- **When is the first day of summer?** June 20th, 21st, or 22nd, 
+- **When is the first day of spring?** March 19th, 20th, or 21st (Fingers and toes dressed as Leprechauns, drinking beer and playing Go)
+- **When is the first day of winter?** December 21st or 22nd (Christmas trees drinking and reading Catch-22 by the fire)
+- **When is the first day of fall?** Usually September 22nd or 23rd, rarely, 21st or 24th (Michael Jordan dressed as a laborer, reading Catch-22)
+- **When is the first day of summer?** June 20th, 21st, or 22nd (Dad and child fingers and toes, drinking and playing go in the sun)
 - **What is the summer solstice?** The longest day of the year and the first day of summer
 - **What is the winter solstice?** The shortest day of the year and the first day of winter
 - **What is the spring equinox?** Equal length day and night, and the first day of spring
