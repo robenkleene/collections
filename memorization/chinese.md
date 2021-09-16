@@ -52,6 +52,7 @@
 
 ## Numbers
 
+- `líng`: zero
 - `yī`: one
 - `liǎng`: two
 - `èr`: two (before measure)
@@ -98,12 +99,13 @@
 ## Phrases
 
 - `wǒ ài nǐ`: I love you
-- [ ] `jīntiān shì jǐ yuè jǐ hào`: what is the date?
+- `jīntiān shì jǐ yuè jǐ hào`: what is the date?
 
 ## Dates
 
-- [ ] `hào`: day in date
-- [ ] `yuè`: month
+- `hào`: day in date
+- `yuè`: month
+- `nián`: year
 
 ### Weekdays
 
@@ -117,21 +119,22 @@
 
 ### Months
 
-- [ ] `yīyuè`: January
-- [ ] `èryuè`: February
-- [ ] `sānyuè`: March
-- [ ] `sìyuè`: April
-- [ ] `wǔyuè`: May
-- [ ] `liùyuè`: June
-- [ ] `qīyuè`: July
-- [ ] `bāyuè`: August
-- [ ] `jiǔyuè`: September
-- [ ] `shíyuè`: October
-- [ ] `shíyīyuè`: November
-- [ ] `shíèryuè`: December
+- `yīyuè`: January
+- `èryuè`: February
+- `sānyuè`: March
+- `sìyuè`: April
+- `wǔyuè`: May
+- `liùyuè`: June
+- `qīyuè`: July
+- `bāyuè`: August
+- `jiǔyuè`: September
+- `shíyuè`: October
+- `shíyīyuè`: November
+- `shíèryuè`: December
 
 ### Special
 
 - `jīntiān`: today
 - `míngtiān`: tomorrow
 - `zuótiān`: yesterday
+- `shēngri`: birthday
