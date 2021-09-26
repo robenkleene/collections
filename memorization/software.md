@@ -1,5 +1,10 @@
 # Software
 
+## Regular Expressions
+
+- **In PCRE, which characters need to be escaped outside character classes?** `.^$*+?()[{\|`
+- **In PCRE, which characters need to be escaped inside character classes?** `^-]\`
+
 ## Fish
 
 - **In Fish, how do you do process substitution, (e.g., `<(cat file.txt)`)?** Pipe to `psub`.
