@@ -53,4 +53,5 @@
 
 ## Time
 
-In photography, the golden hour is the period of daytime shortly after sunrise or before sunset, during which daylight is redder and softer than when the sun is higher in the sky.
+- **In photography, what is golden hour?** The time shortly before sunset or after sunrise when daylight is redder and softer
+- **In photography, what is blue hour?** The time shortly before sunrise or after sunset when sunlight takes on a blue shade
