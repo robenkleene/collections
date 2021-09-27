@@ -50,3 +50,7 @@
 - **Which additional camera does the iPhone 12 have that the iPhone X doesn't?** Ultra wide
 - **In photography, what is HDR?** Taking several photos at different exposures and combining them to get a more balanced result
 - **What is the focal length of an iPhone X?** 28 mm
+
+## Time
+
+In photography, the golden hour is the period of daytime shortly after sunrise or before sunset, during which daylight is redder and softer than when the sun is higher in the sky.
