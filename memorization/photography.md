@@ -50,3 +50,8 @@
 - **Which additional camera does the iPhone 12 have that the iPhone X doesn't?** Ultra wide
 - **In photography, what is HDR?** Taking several photos at different exposures and combining them to get a more balanced result
 - **What is the focal length of an iPhone X?** 28 mm
+
+## Time
+
+- **In photography, what is golden hour?** The time shortly before sunset or after sunrise when daylight is redder and softer
+- **In photography, what is blue hour?** The time shortly before sunrise or after sunset when sunlight takes on a blue shade

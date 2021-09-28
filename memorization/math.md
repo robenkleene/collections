@@ -32,3 +32,9 @@
 - **What is integral calculus?** The subfield of calculus that studies areas under curves.
 - **What is differential calculus?** The subfield of calculus that studies rates of change.
 - **What does infinitesimal mean?** Infinitely small
+
+### Decimals
+
+- **In math, what is a "significand"?** The significant digits in scientific notation (or floating-point representation)
+- **How does scientific notation represent decimals?** A significand is multiplied by a base 10 exponent, a negative exponent adds a zero to the left, a positive exponent adds a zero to the right
+- **What are `2 * 10^0`, `3 * 10^2`, `2 * 10^-1`, `751 * 10^-3` in scientific notation?** `2`, `300`, `0.2`, `0.00751`
