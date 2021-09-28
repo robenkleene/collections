@@ -95,6 +95,10 @@
 - `shuō`: speak
 - `shuǐ`: water
 - Fengshui is wind water
+- `tā` and `nǐ`: he (like "ha") and you ("n" is upside down "u")
+- `jiā` `jiǔ`: family (has an "a") and nine ("n" is upside down "u")
+- `xiǎng` and `xǐhuan`: want to ("ant" and "ang") and like ("k" looks like "h")
+
 
 ## Phrases
 
