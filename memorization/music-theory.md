@@ -150,9 +150,9 @@
 
 ### Consonance and Dissonance
 
-- **In music theory, which intervals are dissonant?** Minor second, major seventh, and minor ninth (sharp dissonances), major second, minor seventh, and major ninth (soft dissonances), tritone
-
-The intervals that are considered to be dissonant are the minor second, the major second, the minor seventh, the major seventh, and particularly the tritone, which is the interval in between the perfect fourth and perfect fifth.
+- **In music theory, which intervals are dissonant?** The minor second, major seventh, and minor ninth (sharp dissonances); the major second, minor seventh, and major ninth (soft dissonances); tritone
+- **In music theory, which intervals are consonant?** Perfect fifth and perfect octave (perfect consonances); unison; the major second, third, and sixth, and minor third, sixth, and seventh (imperfect consonances)
+- **In music theory, what is a tritone?**
 
 ## Mnemonic
 
