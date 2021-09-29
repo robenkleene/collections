@@ -152,7 +152,7 @@
 
 - **In music theory, which intervals are dissonant?** The minor second, major seventh, and minor ninth (sharp dissonances); the major second, minor seventh, and major ninth (soft dissonances); tritone
 - **In music theory, which intervals are consonant?** Perfect fifth and perfect octave (perfect consonances); unison; the major second, third, and sixth, and minor third, sixth, and seventh (imperfect consonances)
-- **In music theory, what is a tritone?**
+- **In music theory, what is a tritone?** Three adjacent whole tones
 
 ## Mnemonic
 
