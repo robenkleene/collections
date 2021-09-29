@@ -148,6 +148,12 @@
 - **In music theory, what is a dominant seventh?** A major triad, plus a minor seventh
 - **In music theory, what is a major seventh chord?** A major triad, plus a major seventh
 
+### Consonance and Dissonance
+
+- **In music theory, which intervals are dissonant?** Minor second, major seventh, and minor ninth (sharp dissonances), major second, minor seventh, and major ninth (soft dissonances), tritone
+
+The intervals that are considered to be dissonant are the minor second, the major second, the minor seventh, the major seventh, and particularly the tritone, which is the interval in between the perfect fourth and perfect fifth.
+
 ## Mnemonic
 
 ### Circle of Fifths
@@ -424,3 +430,4 @@
 ### B
 
 ![B](assets/music/keyboard/b.svg)
+
