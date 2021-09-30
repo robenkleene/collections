@@ -40,8 +40,8 @@
 - **What is the relationship between ASCII and UTF-8?** UTF-8 uses the same characters for the first 128 digits as ASCII, and the next 128 are the same as Extended ASCII or ISO 8859-1 or Latin-1
 - **What does ISO 8859-1 stand for?** International Organization for Standardization (the same one as for ISO in photography)
 - **What is Extended ASCII or ISO 8859-1 or Latin-1?** An extension to ASCII that adds one more bit for 256 characters (in particular accented characters)
-- **How many characters is Extended ASCII?** 256
-- **How many characters is ASCII?** 128
+- **How many characters are in Extended ASCII?** 256
+- **How many characters are in ASCII?** 128
 - **Since ASCII is 128 characters, and an 8-bit integer holds 256 values, what is the last bit used for?** A parity check (a form of error checking)
 
 ### ASCII
