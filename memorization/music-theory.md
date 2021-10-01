@@ -176,6 +176,7 @@
 - The sequence is BEADGCF
 - For Major/Minor in the sharps direction, the sharps start on F
 - For Major/Minor in the flats direction, the flats start on B
+- Mnemonic: "Be Flat", "f" doesn't match flats
 
 ### Key Signatures
 
