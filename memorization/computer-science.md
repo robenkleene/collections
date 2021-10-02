@@ -311,6 +311,7 @@
 - **In computer science, what is a statement?** The smallest standalone element of a computer program
 - **In computer science, what is an expression?** A unit of code that evaluates to a value
 - **In computer science, what is the difference between an expression and a statement?** A statement does something, an expression evaluates to a value
+- **What's the difference between a function, method, and procedure?** A function is a subroutine that returns a value. A procedure is a subroutine that doesn't return a value. In Object-Orientated programming, a method is a function associated with an object.
 
 ## Trivia
 
