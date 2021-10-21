@@ -154,6 +154,22 @@
 - **In music theory, which intervals are consonant?** Perfect fifth and perfect octave (perfect consonances); unison; the major second, third, and sixth, and minor third, sixth, and seventh (imperfect consonances)
 - **In music theory, what is a tritone?** Three adjacent whole tones
 
+#### All Notes
+
+- Unison: Consonance
+- Minor Second: Dissonant
+- Major Second: Imperfect Consonance 
+- Minor Third: Imperfect Consonance
+- Major Third: Imperfect Consonance
+- Minor Fourth
+- Major Fourth
+- Perfect Fifth: Perfect Consonance
+- Minor Sixth: Imperfect Consonance
+- Major Sixth: Imperfect Consonance
+- Minor Seventh: Imperfect Consonance
+- Major Seventh: Dissonant 
+- Perfect Octave: Perfect Consonance
+
 ## Mnemonic
 
 ### Circle of Fifths
