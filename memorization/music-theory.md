@@ -156,19 +156,23 @@
 
 #### All Notes
 
-- Unison: Consonance
+- Unison: Consonant
 - Minor Second: Dissonant
-- Major Second: Imperfect Consonance 
-- Minor Third: Imperfect Consonance
-- Major Third: Imperfect Consonance
-- Minor Fourth
-- Major Fourth
-- Perfect Fifth: Perfect Consonance
-- Minor Sixth: Imperfect Consonance
-- Major Sixth: Imperfect Consonance
-- Minor Seventh: Imperfect Consonance
+- Major Second: Imperfect Consonant
+- Minor Third: Imperfect Consonant
+- Major Third: Imperfect Consonant
+- Perfect Fourth: Consonant/Dissonant
+- Perfect Fifth: Perfect Consonant
+- Minor Sixth: Imperfect Consonant
+- Major Sixth: Imperfect Consonant
+- Minor Seventh: Dissonant
 - Major Seventh: Dissonant 
-- Perfect Octave: Perfect Consonance
+- Perfect Octave: Perfect Consonant
+
+##### Summary
+
+- Consonant: Unison, Major Second, Minor Third, Major Third, Perfect Fourth (Sometimes), Perfect Fifth, Minor Sixth, Major Sixth, Octave
+- Dissonant: Minor Second, Perfect Fourth (Sometimes), Minor Seventh, Major Seventh
 
 ## Mnemonic
 
