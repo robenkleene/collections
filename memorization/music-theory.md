@@ -173,6 +173,7 @@
 
 - Consonant: Unison, Major Second, Minor Third, Major Third, Perfect Fourth (Sometimes), Perfect Fifth, Minor Sixth, Major Sixth, Octave
 - Dissonant: Minor Second, Perfect Fourth (Sometimes), Minor Seventh, Major Seventh
+- Mnemonic: Adds to nine, half second, perfect fourth
 
 ## Mnemonic
 
