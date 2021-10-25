@@ -1,5 +1,7 @@
 # Math
 
+## Equations
+
 - **What is a linear equation?** An equation for a straight line. The single-variable form is `ax + b = 0`.
 - **What is a quadratic function?** A single-variable quadratic function has the form `ax^2 + bx + c`. The graph of a univariate quadratic function is a parabola.
 - **What is an exponential function?** `f(x)=a^x` where `a > 0`, `a != 1`, and `a` is constant. `2^x` is called "an exponential function to the base of 2".
@@ -7,24 +9,21 @@
 - **What is a coefficient?** A multiplicative factor in a polynomial. (E.g., in `7x^2 - 3xy + 1.5 + y` `7` and `-3` are the coefficients, and `1.5` is a constant coefficient.)
 - **What is a monomial, binomial, and trinomial?** A monomial is a single-term polynomial, or a single term of a polynomial. Binomial and trinomial are two and three term polynomials respectively.
 - **In a polynomial what's the degree of a term?** The power of the term, as in "a term of degree two" or "a two-degree term". The degree of the leading term determines the degree of the polynomial, as in "a polynomial of degree two".
-- **What is a parabola?**
 
-    ![Parabola](assets/parabola.png)
+## Other
+
 - **What is the Cartesian product?** All permutations of the members of two sets.
-- **What is an open interval?** An interval that does not include its endpoints.
-- **What is a closed interval?** An interval that does include its endpoints.
-- **What is a half-open interval?** An interval that includes only one of its endpoints.
 
-### History
+## History
 
 - **What is the name of Newton's trilogy where he outlines gravity?** Philosophiæ Naturalis Principia Mathematica
 
-### Geometry
+## Geometry
 
 - **What is geometry?** The mathematics of shapes.
 - **What is trigonometry?** The mathematics of triangles (a subset of geometry).
 
-### Calculus
+## Calculus
 
 - **What is calculus?** The mathematics of continuous change.
 - **What is a derivative?** An expression representing a rate of change.
@@ -32,8 +31,15 @@
 - **What is integral calculus?** The subfield of calculus that studies areas under curves.
 - **What is differential calculus?** The subfield of calculus that studies rates of change.
 - **What does infinitesimal mean?** Infinitely small
+- **What is a parabola?**
 
-### Decimals
+    ![Parabola](assets/parabola.png)
+
+- **What is an open interval?** An interval that does not include its endpoints.
+- **What is a closed interval?** An interval that does include its endpoints.
+- **What is a half-open interval?** An interval that includes only one of its endpoints.
+
+## Decimals
 
 - **In math, what is a "significand"?** The significant digits in scientific notation (or floating-point representation)
 - **How does scientific notation represent decimals?** A significand is multiplied by a base 10 exponent, a negative exponent adds a zero to the left, a positive exponent adds a zero to the right
