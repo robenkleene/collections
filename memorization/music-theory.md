@@ -59,11 +59,16 @@
 - **In music theory, what is a whole step?** Two half steps
 - **In music theory, what is the formula for a major scale?** `WWHWWWH`
 - **In music theory, what is the formula for a minor scale?** `WHWWHWW`
+- **In music theory, how many steps are in the formula for a scale?** Seven
+
+### Circle of Fifths
+
 - **In music theory, what are the major keys of the circle of fifths in the flat (right) direction?** C, G, D, A, E, B, F#, C#
 - **In music theory, what are the minor keys of the circle of fifths in the flat (right) direction?** a, e, b, f#, c#, g#, d#
 - **In music theory, what are the major keys of the circle of fifths in the sharp (left) direction?** C, F, B♭, E♭, A♭, D♭, G♭, C♭
 - **In music theory, what are the minor keys of the circle of fifths in the sharp (left) direction?** a, d, g, c, f, b♭, e♭
 - **In music theory, why is the circle of fifths called that?** Because each key to the right is a perfect fifth away from the previous key
+- **In music theory, how many notes does it take to go around the circle of fifths?** Seven
 
 ## Intervals
 
