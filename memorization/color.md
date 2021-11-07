@@ -10,6 +10,7 @@
 - **What is the hex value for yellow?** `#FFFF00`
 - **What is the hex value for purple?** `#FF00FF`
 - **What is the hex value for cyan?** `#00FFFF`
+- **What is the order of the three colors represented by the bytes in a hex color?** RGB
 
 ## Reverse
 
