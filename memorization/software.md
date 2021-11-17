@@ -53,3 +53,9 @@
 - **In Houdini, what are COPs used for?** Compositing
 - **In Houdini, what does LOP stand for?** Lighting Operator
 - **In Houdini, what are LOPs used for?** USD Geometry
+
+## Photoshop
+
+- `⌘⌫`: Fill with background color
+- `⌥⌫`: Fill with foreground color
+- Mnemonic: "Fore" has an "O" (for "option") in it, "back" has a "C" (for "command") in it
