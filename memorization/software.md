@@ -64,4 +64,4 @@
 
 - `⌃␣`: Select column
 - `⇧␣`: Select row
-- Mnemonic: "C" in "control" for column, a row looks like a spacebar
+- Mnemonic: "C" in "control" for column, the shift button is wide like a row
