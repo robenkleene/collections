@@ -59,3 +59,9 @@
 - `⌘⌫`: Fill with background color
 - `⌥⌫`: Fill with foreground color
 - Mnemonic: "Fore" has an "O" (for "option") in it, "back" has a "C" (for "command") in it
+
+## Excel
+
+- `⌃␣`: Select column
+- `⇧␣`: Select row
+- Mnemonic: "C" in "control" for column, a row looks like a spacebar
